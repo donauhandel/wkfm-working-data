@@ -82,13 +82,13 @@
                <lb facs="#facs_161_line_1626262789107_2033" n="N001"/><hi>784</hi>
                <lb facs="#facs_161_line_1626262791897_2036" n="N002"/>802
                <lb facs="#facs_161_r2l1" n="N003"/><seg type="name">Nahmen und Class</seg>
-               <lb facs="#facs_161_r2l2" n="N004"/><rs type="person" ref="wkfm__43783">Spätl Melchior</rs> burgerlicher Handlsmann
+               <lb facs="#facs_161_r2l2" n="N004"/><rs type="person" ref="#wkfm__43783">Spätl Melchior</rs> burgerlicher Handlsmann
                <lb facs="#facs_161_r2l3" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_161_r2l4" n="N006"/><rs type="person" ref="wkfm__30445">Herculiano Amadei e <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 21
+               <lb facs="#facs_161_r2l4" n="N006"/><rs type="person" ref="#wkfm__30445">Herculiano Amadei e <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 21
                <lb facs="#facs_161_r2l5" n="N007"/><seg type="owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_161_r2l6" n="N008"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 21 ist die Firma der Raggion
-               <lb facs="#facs_161_r2l7" n="N009"/><rs type="person" ref="wkfm__30445">Herculiano Amadei e <choice><expan/><abbr>Comp:</abbr></choice></rs> von beeden sociis <rs type="person" ref="wkfm__8591">Herculiano Amadei</rs>
-               <lb facs="#facs_161_r2l8" n="N010"/>und <rs type="person" ref="wkfm__43783">Melchior Spätl</rs> eingeleget worden.
+               <lb facs="#facs_161_r2l7" n="N009"/><rs type="person" ref="#wkfm__30445">Herculiano Amadei e <choice><expan/><abbr>Comp:</abbr></choice></rs> von beeden sociis <rs type="person" ref="#wkfm__8591">Herculiano Amadei</rs>
+               <lb facs="#facs_161_r2l8" n="N010"/>und <rs type="person" ref="#wkfm__43783">Melchior Spätl</rs> eingeleget worden.
                <lb facs="#facs_161_r2l9" n="N011"/><seg type="oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_161_r2l10" n="N012"/><seg type="fundi">Fundi Ausweisung</seg>
             </ab>

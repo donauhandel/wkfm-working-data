@@ -9,4 +9,4 @@ for x in files:
         text = f.read()
     text = text.replace('ref="wkfm', 'ref="#wkfm')
     with open(x, 'w') as f:
-        f.write(x)
+        f.write(text)

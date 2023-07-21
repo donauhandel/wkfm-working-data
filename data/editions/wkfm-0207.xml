@@ -78,10 +78,10 @@
             
             <ab facs="#facs_154_r1">
                <lb facs="#facs_154_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_154_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 94 hat sich der <rs type="person" ref="wkfm__43910">Purckholzer</rs>
+               <lb facs="#facs_154_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 94 hat sich der <rs type="person" ref="#wkfm__43910">Purckholzer</rs>
                <lb facs="#facs_154_r1l3" n="N003"/>geäusseret, das er seine Handlung für sich allein führe.
                <lb facs="#facs_154_r1l5" n="N004"/><seg type="wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_154_r1l6" n="N005"/>Mitls Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 738 N<hi style="superscript">o</hi> 2094 hat der <rs type="person" ref="wkfm__43910">Purkholzer</rs> mit der <rs type="person" ref="wkfm__43911">Maria
+               <lb facs="#facs_154_r1l6" n="N005"/>Mitls Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 738 N<hi style="superscript">o</hi> 2094 hat der <rs type="person" ref="#wkfm__43910">Purkholzer</rs> mit der <rs type="person" ref="#wkfm__43911">Maria
                <lb break="no" facs="#facs_154_r1l7" n="N006"/>Anna Paurin</rs> untern 6<hi style="superscript">ten</hi> Julii 738 errichteten heuraths contract N<hi style="superscript">o</hi> 2093 in Copia vidimata
                <lb facs="#facs_154_r1l8" n="N007"/>eingeleget, krafft welchen 500 fl Heurathgutt nebst 1000 fl Widerlag auf Überleben
                <lb facs="#facs_154_r1l9" n="N008"/>jenes anbey, was wehrender Ehe erworben oder ererbet wird alß ein <unclear>gleiches</unclear>

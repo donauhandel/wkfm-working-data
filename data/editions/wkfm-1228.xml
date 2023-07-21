@@ -76,7 +76,7 @@
             <ab facs="#facs_44_r1">
                <lb facs="#facs_44_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_44_r1l2" n="N002"/><hi>J</hi> Mitls Anbringen de ps: 15<hi style="superscript">ten</hi> <hi>Ap</hi> <choice><expan/><abbr>Mart:</abbr></choice> 734 N<hi style="superscript">o</hi> 2000 hat der
-               <lb facs="#facs_44_r1l3" n="N003"/><rs type="person" ref="wkfm__10730">Mader</rs> angezeiget, daß sich sein mit dem <rs type="person" ref="wkfm__5636 ?">Rigotti</rs> in des <rs type="person" ref="wkfm__46716 ?">Rigot-
+               <lb facs="#facs_44_r1l3" n="N003"/><rs type="person" ref="#wkfm__10730">Mader</rs> angezeiget, daß sich sein mit dem <rs type="person" ref="#wkfm__5636 ?">Rigotti</rs> in des <rs type="person" ref="#wkfm__46716 ?">Rigot-
                <lb break="no" facs="#facs_44_r1l4" n="N004"/>ti handlung</rs> gehabtes interessement geändiget, und er seine 
                <lb facs="#facs_44_r1l6" n="N005"/>handlung allein habe
                <lb facs="#facs_44_r1l7" n="N006"/><seg type="wedding_contract">Heuraths Contract</seg>
