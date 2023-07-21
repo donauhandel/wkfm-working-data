@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,7 +73,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_157" n="157" xml:id="img_0157"/>
+            <pb facs="#facs_157" n="157" xml:id="img_0157" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1615.jpg"/>
             
             <ab facs="#facs_157_r2">
                <lb facs="#facs_157_line_1626262728687_1997" n="N001"/><hi>782</hi>

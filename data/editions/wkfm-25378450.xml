@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,7 +74,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="3" xml:id="img_0003" corresp="https://id.acdh.oeaw.ac.at/wkfm/25378450.jpg"/>
             
             <ab facs="#facs_3_r1">
                <lb facs="#facs_3_r1l1" n="N001"/><seg type="name">Nahmen und Class</seg>

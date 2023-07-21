@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,7 +78,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
+            <pb facs="#facs_5" n="5" xml:id="img_0005" corresp="https://id.acdh.oeaw.ac.at/wkfm/25378454.jpg"/>
             
             <ab facs="#facs_5_r1">
                <lb facs="#facs_5_r1l2" n="N001"/><hi>528</hi>
