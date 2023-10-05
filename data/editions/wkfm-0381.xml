@@ -81,7 +81,7 @@
                <lb facs="#facs_61_r3l5" n="N005"/><rs type="person" ref="#wkfm__47223">Lorenz Kreitter</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 189
                <lb facs="#facs_61_r3l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_61_r3l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_61_r3l8" n="N008"/>Fund Ausweisung
+               <lb facs="#facs_61_r3l8" n="N008"/><seg type="orighead__fundi">Fund Ausweisung</seg>
             </ab>
             
         </div>

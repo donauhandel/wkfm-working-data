@@ -87,7 +87,7 @@
             <ab facs="#facs_87_r1">
                <lb facs="#facs_87_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_87_r1l2" n="N003"/><rs type="person" ref="#wkfm__17087">Consoni Gasparo</rs> <choice><expan/><abbr>kay:</abbr></choice> <choice><expan/><abbr>könig:</abbr></choice> Niderlags Verwanter
-               <lb facs="#facs_87_r1l4" n="N004"/>Firma ad raggion
+               <lb facs="#facs_87_r1l4" n="N004"/><seg type="orighead__firma">Firma ad raggion</seg>
                <lb facs="#facs_87_r1l5" n="N005"/><rs type="person" ref="#wkfm__47236">Gasparo Consoni</rs> laut Anbringen de ps: 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 726 N<hi style="superscript">o</hi> 1898
                <lb facs="#facs_87_line_1621957411249_1042" n="N006"/>De <hi>Trevano</hi> <rs type="person" ref="#wkfm__12271">Trevano E Consoni</rs> laut Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 726 N<hi style="superscript">o</hi> 1917
                <lb facs="#facs_87_r1l8" n="N007"/><rs type="person" ref="#wkfm__17087">Gasparo Consoni</rs> laut Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 730 N<hi style="superscript">o</hi> 1900
