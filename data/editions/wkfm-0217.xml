@@ -82,7 +82,7 @@
                <lb facs="#facs_163_r1l5" n="N005"/><rs type="person" ref="#wkfm__47350">Johann Anton Brighenti</rs> laut Erklährung dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 99
                <lb facs="#facs_163_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_163_r1l9" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_163_r1l10" n="N008"/>Fondi Ausweisung
+               <lb facs="#facs_163_r1l10" n="N008"/><seg type="orighead__fundi">Fondi Ausweisung</seg>
             </ab>
             
         </div>

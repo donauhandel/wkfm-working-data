@@ -13,6 +13,8 @@ for x in files:
         pass
     elif seg_count == 5:
         pass
+    elif seg_count == 0:
+        pass
     else:
         print(x, seg_count)
         counter += 1
