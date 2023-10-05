@@ -100,7 +100,7 @@
                <lb facs="#facs_220_r1l17" n="N012"/>solle
                <lb facs="#facs_220_r1l19" n="N013"/><choice><expan/><abbr>Ao</abbr></choice> 764 hat der <rs type="person" ref="#wkfm__47582">Joseph Staudinger</rs> seinen mit der <rs type="person" ref="#wkfm__47585">Maria Catharina
                <lb break="no" facs="#facs_220_r1l20" n="N014"/>de <unclear>Heilmanin</unclear></rs> untern 20<hi style="superscript">ten</hi> Septembris 762 errichteten Heuraths-Contract
-               <lb facs="#facs_220_r1l21" n="N015"/><seg type="editorial_comment_seg">Anmerckungen<note type="editorial_comment_note">Der folgende Text setzt die Rubrik Heuraths Contract fort</note></seg>
+               <lb facs="#facs_220_r1l21" n="N015"/><seg type="orighead__other_notes">Anmerckungen</seg><seg type="editorial_comment_seg"><note type="editorial_comment_note">Der folgende Text setzt die Rubrik Heuraths Contract fort</note></seg>
                <lb facs="#facs_220_r1l23" n="N016"/>eingeleget, worinnen Heurathguth 500 fl Widerlag 1000 fl und das
                <lb facs="#facs_220_r1l24" n="N017"/>erwerbende Vermögen ein gleiches Guth contrahiret worden.
                <lb facs="#facs_220_r1l25" n="N018"/>vide Heur: Contracte <choice><expan/><abbr>nro:</abbr></choice> 2252
