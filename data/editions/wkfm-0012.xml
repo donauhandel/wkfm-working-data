@@ -83,7 +83,7 @@
                <lb facs="#facs_7_r1l5" n="N006"/>N<hi style="superscript">o</hi> 4
                <lb facs="#facs_7_r1l6" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_7_r1l7" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_7_r1l8" n="N009"/>Fundi=Ausweisungen
+               <lb facs="#facs_7_r1l8" n="N009"/><seg type="orighead__fundi">Fundi=Ausweisungen</seg>
             </ab>
             
         </div>

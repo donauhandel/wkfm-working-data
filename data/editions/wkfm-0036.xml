@@ -88,7 +88,7 @@
                <lb facs="#facs_31_r1l8" n="N008"/>ihre firma eingelegt. vide firma <choice><expan/><abbr>nro</abbr></choice> 16 1/2.
                <lb facs="#facs_31_r1l9" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_31_r1l10" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_31_r1l11" n="N011"/>Fundi=Ausweisung
+               <lb facs="#facs_31_r1l11" n="N011"/><seg type="orighead__fundi">Fundi=Ausweisung</seg>
             </ab>
             
         </div>
