@@ -83,7 +83,7 @@
                <lb facs="#facs_1_r1l6" n="N006"/>laut anbringen<hi>s</hi> de ps: 17<hi style="superscript">ten</hi> <choice><expan>April</expan><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1 eingelegt
                <lb facs="#facs_1_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_1_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_1_r1l9" n="N009"/>Fundi=Ausweisung
+               <lb facs="#facs_1_r1l9" n="N009"/><seg type="orighead__fundi">Fundi=Ausweisung</seg>
             </ab>
             
         </div>
