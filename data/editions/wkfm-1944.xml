@@ -62,11 +62,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_11" n="11" xml:id="img_0011" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1944.jpg"/>
+            <pb facs="#facs_46" n="46" xml:id="img_0046" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1900.jpg"/>
             
-            <ab facs="#facs_13_r1">
-               <lb facs="#facs_13_r1l1" n="N001"/>
-               <lb facs="#facs_13_r1l2" n="N002"/>
+            <ab facs="#facs_46_r2">
+               <lb facs="#facs_46_r2l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
+               <lb facs="#facs_46_line_1618923264658_811" n="N002"/><seg type="orighead__wedding_contract">Heurath Contract</seg>
+               <lb facs="#facs_46_line_1618923234462_803" n="N003"/><seg type="orighead__other_notes">Anmerckungen</seg>
             </ab>
             
         </div>
