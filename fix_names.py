@@ -11,6 +11,9 @@ for i, x in enumerate(files, start=1):
     doc = TeiReader(x)
     for u in doc.any_xpath(".//tei:graphic"):
         u.attrib["url"] = img_name
+    graphics = doc.any_xpath(".//tei:graphic")
+    if len(graphics) > 1:
+        graphics[-1].getparent().remove(graphics[-1])
     for u in doc.any_xpath(".//tei:pb"):
         u.attrib["corresp"] = img_name
     doc.tree_to_file(new_name)
