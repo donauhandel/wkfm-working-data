@@ -2,7 +2,7 @@ import glob
 import os
 from acdh_tei_pyutils.tei import TeiReader
 
-img_path = "Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_"  # noqa:
+img_path = "wmp1-"  # noqa:
 files = sorted(glob.glob("./data/editions/*.xml"))
 for i, x in enumerate(files, start=1):
     new_name = f"wkfm-{i:04}.xml"
