@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Wiener Merkantilprotokoll Nr. 25378448</title>
+            <title type="main">Wiener Merkantilprotokoll Nr. 1294</title>
             <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
             <principal>
                <persName>Peter Rauscher</persName>
@@ -55,8 +55,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_2">
-         <graphic url="25378448.jpg" width="2940px" height="4464px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=XKCGVCRQZVSBHNXWIXIMMWNW&amp;fileType=view" width="2940px" height="4464px"/>
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1294.jpg" width="2940px" height="4464px"/>
          <zone points="266,114 266,3205 2724,3205 2724,114" rendition="TextRegion" xml:id="facs_2_r1">
             <zone points="893,295 963,295 1008,250 1032,258 1069,230 1095,241 1121,228 1180,249 1258,223 1329,235 1366,213 1408,235 1430,220 1457,236 1498,223 1525,243 1559,221 1595,237 1617,219 1656,235 1670,226 1735,253 1755,243 1839,290 1867,265 1955,265 1985,282 2077,264 2172,213 2238,255 2284,253 2277,52 2126,87 1977,77 1876,99 1793,72 1770,88 1653,89 1606,59 1533,58 1387,140 1365,123 1316,133 1257,112 1220,143 1179,124 1125,167 1092,159 1067,178 947,167 915,195 889,196 893,295" rendition="Line" xml:id="facs_2_r1l1"/>
             <zone points="376,460 451,412 644,469 734,395 822,417 857,396 892,393 924,410 968,392 1041,444 1061,423 1102,432 1140,399 1187,404 1245,377 1321,412 1356,394 1420,419 1546,403 1599,435 1636,411 1674,422 1692,405 1756,413 1770,398 1805,409 1837,385 1861,397 1919,388 2016,421 2048,418 2077,438 2177,440 2232,475 2261,460 2352,467 2364,456 2407,470 2486,410 2518,422 2593,392 2626,397 2663,373 2687,388 2739,373 2738,282 2674,280 2647,254 2630,263 2612,251 2543,290 2466,262 2449,280 2394,274 2370,292 2300,299 2277,322 2190,306 2126,321 2108,307 2073,310 2023,273 1915,288 1868,265 1839,289 1760,290 1720,320 1676,276 1612,297 1585,272 1538,263 1422,297 1395,274 1381,288 1293,281 1238,310 1144,288 1075,347 1052,347 958,296 908,294 879,323 856,323 809,321 701,278 657,302 610,279 549,295 491,281 435,287 398,317 374,317 376,460" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -70,8 +69,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_2" n="2" xml:id="img_0002" corresp="https://id.acdh.oeaw.ac.at/wkfm/25378448.jpg"/>
-            
+            <pb facs="#facs_2" n="2" xml:id="img_0002" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1294.jpg"/>
             <ab facs="#facs_2_r1">
                <lb facs="#facs_2_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_2_r1l2" n="N002"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 597 hat sich der
