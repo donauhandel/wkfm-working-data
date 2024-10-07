@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Wiener Merkantilprotokoll Nr. 25378454</title>
+            <title type="main">Wiener Merkantilprotokoll Nr. 1297</title>
             <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
             <principal>
                <persName>Peter Rauscher</persName>
@@ -55,8 +55,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_5">
-         <graphic url="25378454.jpg" width="3105px" height="4455px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=XJMBWDDEBWCFLSXCFOUYJPMZ&amp;fileType=view" width="3105px" height="4455px"/>
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1297.jpg" width="3105px" height="4455px"/>
          <zone points="167,146 167,2892 2781,2892 2781,146" rendition="TextRegion" xml:id="facs_5_r1">
             <zone points="2578,322 2775,337 2782,256 2732,238 2682,253 2585,245 2578,322" rendition="Line" xml:id="facs_5_r1l2" subtype="page-number"/>
             <zone points="2582,428 2634,421 2686,450 2722,427 2751,437 2750,336 2666,321 2611,363 2582,360 2582,428" rendition="Line" xml:id="facs_5_r1l3" subtype="page-number"/>
@@ -78,8 +77,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_5" n="5" xml:id="img_0005" corresp="https://id.acdh.oeaw.ac.at/wkfm/25378454.jpg"/>
-            
+            <pb facs="#facs_5" n="5" xml:id="img_0005" corresp="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1297.jpg"/>
             <ab facs="#facs_5_r1">
                <lb facs="#facs_5_r1l2" n="N001"/><hi>528</hi>
                <lb facs="#facs_5_r1l3" n="N002"/>641
