@@ -15,7 +15,7 @@ for i, x in enumerate(files, start=1):
         {
             "xml": new_name,
             "img_old": doc.any_xpath(".//tei:graphic")[0].attrib["url"],
-            "img_new": img_name
+            "img_new": img_name,
         }
     )
     for u in doc.any_xpath(".//tei:graphic"):

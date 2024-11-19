@@ -4,7 +4,7 @@ from acdh_tei_pyutils.tei import TeiReader
 
 files = glob.glob("./data/editions/*.xml")
 
-counter = 0 
+counter = 0
 for x in files:
     doc = TeiReader(x)
     segs = doc.any_xpath(".//tei:seg[starts-with(@type, 'orighead')]")
