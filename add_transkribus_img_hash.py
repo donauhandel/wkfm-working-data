@@ -12,3 +12,4 @@ for x in sorted(glob.glob("./data/editions/*.xml")):
     url = graphic.attrib["url"].split("_")[-1]
     transkribus_img = data[url]
     graphic.attrib["n"] = transkribus_img
+    doc.tree_to_file(x)
