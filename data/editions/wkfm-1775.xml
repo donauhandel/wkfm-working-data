@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="3015" lry="4468" xml:id="facs_69">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1775.jpg" width="3015px" height="4468px"/>
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1775.jpg" width="3015px" height="4468px" n="https://files.transkribus.eu/Get?id=HQIICGUEMJTOOONEUEEYWPZF"/>
          <zone points="156,220 156,3091 2799,3091 2799,220" rendition="TextRegion" xml:id="facs_69_r2">
             <zone points="2664,412 2691,412 2718,412 2745,412 2772,412 2799,412 2799,315 2772,315 2745,315 2718,315 2691,315 2664,315" rendition="Line" xml:id="facs_69_r2l2" subtype="page-number"/>
             <zone points="1041,317 1069,320 1098,321 1127,323 1156,324 1184,326 1213,328 1242,329 1271,331 1299,332 1328,334 1357,335 1386,336 1414,337 1443,338 1472,340 1501,341 1529,342 1558,343 1587,344 1616,344 1616,247 1587,247 1558,246 1529,245 1501,244 1472,243 1443,241 1414,240 1386,239 1357,238 1328,237 1299,235 1271,234 1242,232 1213,231 1184,229 1156,227 1127,226 1098,224 1069,223 1041,220" rendition="Line" xml:id="facs_69_r2l1"/>

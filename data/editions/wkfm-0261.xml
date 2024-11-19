@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2916" lry="4493" xml:id="facs_207">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0261.jpg" width="2916px" height="4493px"/>
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0261.jpg" width="2916px" height="4493px" n="https://files.transkribus.eu/Get?id=LBCQJFSWVDXQCUYMTNCURCIM"/>
          <zone points="239,182 239,3032 2668,3053 2668,203" rendition="TextRegion" xml:id="facs_207_r1">
             <zone points="2473,206 2624,206 2624,320 2473,320" rendition="Line" xml:id="facs_207_line_1629708670193_1018" subtype="page-number"/>
             <zone points="957,291 993,291 1030,290 1066,290 1103,290 1140,290 1176,290 1213,290 1249,291 1286,291 1323,291 1359,291 1396,291 1432,291 1469,291 1506,291 1542,290 1579,289 1615,287 1652,285 1689,282 1689,182 1652,185 1615,187 1579,189 1542,190 1506,191 1469,191 1432,191 1396,191 1359,191 1323,191 1286,191 1249,191 1213,190 1176,190 1140,190 1103,190 1066,190 1030,190 993,191 957,191" rendition="Line" xml:id="facs_207_r1l1"/>
