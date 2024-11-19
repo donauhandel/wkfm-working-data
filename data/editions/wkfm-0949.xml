@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -97,7 +98,7 @@
                <lb facs="#facs_29_r1l11" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_29_r1l12" n="N011"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_29_r1l13" n="N012"/>Die<rs type="person" ref="#wkfm__46455"> Hökhsteinerische Wittib Anna Catharina</rs> hat den untern 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 739 den 
-               <lb facs="#facs_29_r1l14" n="N013"/>von derselben Sohn <hi>Franz Car</hi> und socio <rs type="person" ref="#wkfm__46454">Franz Carl Hökhsteiner</rs> mitls obigen Anbringen
+               <lb facs="#facs_29_r1l14" n="N013"/>von derselben Sohn <del>Franz Car</del> und socio <rs type="person" ref="#wkfm__46454">Franz Carl Hökhsteiner</rs> mitls obigen Anbringen
                <lb facs="#facs_29_r1l15" n="N014"/>de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 739 N<hi style="superscript">o</hi> 1971 eingelegten <choice><expan/><abbr>orig:</abbr></choice> revers N<hi style="superscript">o</hi> 1516 dahin ausgestehlet
                <lb facs="#facs_29_r1l16" n="N015"/>das sie jene sowohl activ als Passiv Schulden, die unter der vorigen Raggion ihres
                <lb facs="#facs_29_r1l17" n="N016"/>Ehewirthens <rs type="person" ref="#wkfm__8186">Joseph Hökhsteiner</rs>, wie sich selbe dermahlen, und bis zu der mit

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -87,8 +88,8 @@
                <lb facs="#facs_22_r1l3" n="N003"/>Mitls Anbringen de ps: 16<hi style="superscript">ten</hi> Junii 744 N<hi style="superscript">o</hi> 2187 hat der <rs type="person" ref="#wkfm__27714">Ipditsch</rs> den mit der
                <lb facs="#facs_22_r1l4" n="N004"/><rs type="person" ref="#wkfm__43873">Maria Francisca Wolfmayrin</rs> untern 5<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 742 errichteten Heuraths
                <lb facs="#facs_22_r1l5" n="N005"/>Contract in Cipia vidimata N<hi style="superscript">o</hi> 2186 eingeleget, kraft welchen 1000 fl heuraths
-               <lb facs="#facs_22_r1l7" n="N006"/>gutt nebst 2000 fl Widerlag auf Überleben <hi>daß</hi> vor dem gegenwärtigen Gut mit
-               <lb facs="#facs_22_r1l8" n="N007"/>Vorbehalt des Eigenthums <hi>zur</hi> <hi>Nu</hi> die Nuznüßung und Verwaltung gemein
+               <lb facs="#facs_22_r1l7" n="N006"/>gutt nebst 2000 fl Widerlag auf Überleben <del>daß</del> vor dem gegenwärtigen Gut mit
+               <lb facs="#facs_22_r1l8" n="N007"/>Vorbehalt des Eigenthums <del>zur</del> <del>Nu</del> die Nuznüßung und Verwaltung gemein
                <lb facs="#facs_22_r1l9" n="N008"/>schafftlich, das künftige wehrender Ehe erwörbend und ererbende Gutt aber
                <lb facs="#facs_22_r1l10" n="N009"/>alß ein gleiches Gutt, wie auch dem überlebenden in Casum intestati 5000 fl
                <lb facs="#facs_22_r1l11" n="N010"/>stipuliret dann weithers vorgesehen worden, daß der Brautigam als

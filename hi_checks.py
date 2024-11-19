@@ -14,8 +14,8 @@ for x in files:
     for hi in his:
         if not hi.attrib:
             no_hi_attrib.add(x)
-            break
-
+            hi.tag = "{http://www.tei-c.org/ns/1.0}del"
+    doc.tree_to_file(x)
 for x in sorted(list(no_hi_attrib)):
     print(x)
 print(len(no_hi_attrib), len(files))

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -81,7 +82,7 @@
             <pb facs="#facs_167" n="167" xml:id="img_0167" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1625.jpg"/>
             
             <ab facs="#facs_167_r2">
-               <lb facs="#facs_167_line_1626262907946_2113" n="N001"/><hi>787</hi>
+               <lb facs="#facs_167_line_1626262907946_2113" n="N001"/><del>787</del>
                <lb facs="#facs_167_line_1626262910376_2116" n="N002"/>805
                <lb facs="#facs_167_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_167_r2l2" n="N004"/><rs type="person" ref="#wkfm__47522">Schmidt Ignaz</rs> burgerlicher Handlsmann

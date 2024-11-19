@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -86,7 +87,7 @@
             
             <ab facs="#facs_72_r1">
                <lb facs="#facs_72_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_72_r1l2" n="N002"/>Der <rs type="person" ref="#wkfm__10641">Carl Joseph Moser</rs> hat mitls <hi>dem Adam</hi> Anbringen de ps: 5<hi style="superscript">ten</hi> Martii
+               <lb facs="#facs_72_r1l2" n="N002"/>Der <rs type="person" ref="#wkfm__10641">Carl Joseph Moser</rs> hat mitls <del>dem Adam</del> Anbringen de ps: 5<hi style="superscript">ten</hi> Martii
                <lb facs="#facs_72_r1l3" n="N003"/>736 N<hi style="superscript">o</hi> 2001 angezeiget, das er sich dem <rs type="person" ref="#wkfm__46560">Johann Adam Paumgartner</rs> associi-
                <lb facs="#facs_72_r1l4" n="N004"/>ret habe und die Handlung unter der Societaets Raggion <rs type="person">Carl Joseph Moser
                <lb break="no" facs="#facs_72_r1l5" n="N005"/>Mitls Anbringen de ps <unclear>5<hi style="superscript"/></unclear><hi style="superscript"/></rs>ten

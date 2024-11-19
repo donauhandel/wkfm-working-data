@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -102,7 +103,7 @@
                <lb facs="#facs_97_r3l7" n="N008"/>Der <rs type="person" ref="#wkfm__46510">Helmbsteiner</rs> hat zu ausweisung seines handlungs Fundi dem zwischen
                <lb facs="#facs_97_r3l8" n="N009"/>ihm und seiner Ehewirthin als Kaufern dann der <rs type="person" ref="#wkfm__46512">Anna Maria Elisabetha
                <lb break="no" facs="#facs_97_r3l9" n="N010"/>Strasserin</rs> untern 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 730 abgeschlossenen Kaufcontract N<hi style="superscript">o</hi> 1510 in Copia
-               <lb facs="#facs_97_r3l10" n="N011"/>vidimata, <hi>dann ein von dem Recht</hi> kraft welchen selbe das Strasserische Haus
+               <lb facs="#facs_97_r3l10" n="N011"/>vidimata, <del>dann ein von dem Recht</del> kraft welchen selbe das Strasserische Haus
                <lb facs="#facs_97_r3l11" n="N012"/>zu Maria Hilf um 8500 fl erkaufet, dann ein von dem Richter zu Maria
                <lb facs="#facs_97_r3l12" n="N013"/>Hilf <rs type="person" ref="#wkfm__46513">Melchior Spenger</rs> untern 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 738 ausgesteltes attestatum, daß auf
                <lb facs="#facs_97_r3l13" n="N014"/>des <rs type="person" ref="#wkfm__46510">Hebmbsteiner</rs> seinen Haus nicht mehr als 3000 fl <unclear>sazweis</unclear> vorgemerket

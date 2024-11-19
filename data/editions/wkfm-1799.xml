@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -101,7 +102,7 @@
                <lb facs="#facs_93_r1l13" n="N013"/>seiner Mutter 600 fl zusamen zu bezahlen schuldig seye 1400 fl
                <lb facs="#facs_93_r1l14" n="N014"/>zu Completirung des übrigen hat dessen Ehewirthin <rs type="person" ref="#wkfm__47021"><unclear>Clara</unclear>
                <lb break="no" facs="#facs_93_r1l15" n="N015"/><unclear>laisia</unclear></rs> das <choice><expan/><abbr>orig:</abbr></choice> <seg type="editorial_comment_seg">Cortiorirte<note type="editorial_comment_note">wahrscheinlich Certiorirte</note></seg> Instrument dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 741
-               <lb facs="#facs_93_r1l17" n="N016"/>N<hi style="superscript">o</hi> 1805 <hi>das se</hi> eingelegten <hi>eingeleg</hi> das sie von der ihr eigenthumlich zuge-
+               <lb facs="#facs_93_r1l17" n="N016"/>N<hi style="superscript">o</hi> 1805 <del>das se</del> eingelegten <del>eingeleg</del> das sie von der ihr eigenthumlich zuge-
                <lb facs="#facs_93_r1l18" n="N017"/><unclear>hörigen</unclear> Halbscheid des Vermögens zur Sicherheit deren Creditoren
                <lb facs="#facs_93_r1l19" n="N018"/>gewidmet haben wolle 2000 fl
                <lb facs="#facs_93_r1l21" n="N019"/><choice><expan/><abbr>Sa</abbr></choice> 3400 fl

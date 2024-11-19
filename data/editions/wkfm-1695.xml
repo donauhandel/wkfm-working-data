@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -99,7 +100,7 @@
                <lb facs="#facs_237_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_237_r2l2" n="N004"/><rs type="person" ref="#wkfm__47605">Schreiber Anton Thomas</rs> burgerlicher Handlsmann
                <lb facs="#facs_237_r2l4" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_237_r2l5" n="N006"/><hi>Anton Thomas Schreiberl</hi>
+               <lb facs="#facs_237_r2l5" n="N006"/><del>Anton Thomas Schreiberl</del>
                <lb facs="#facs_237_r2l6" n="N007"/>Vermög Anbringen de ps: 13<hi style="superscript">ten</hi> Octobris 755 hat der <rs type="person" ref="#wkfm__47605">Anton Thomas Schreiber</rs>
                <lb facs="#facs_237_r2l7" n="N008"/>seine firma eingelegt <choice><expan/><abbr>nro</abbr></choice>
                <lb facs="#facs_237_r2l8" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
@@ -116,10 +117,10 @@
                <lb facs="#facs_237_r2l26" n="N020"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__23514">Franz Anton Kollminzer</rs> das Caut:
                <lb facs="#facs_237_r2l27" n="N021"/>Instrument eingeleget <choice><expan/><abbr>pr</abbr></choice> 5000 fl
                <lb facs="#facs_237_r2l31" n="N022"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
-               <lb facs="#facs_237_r2l32" n="N023"/>Zufolge Auflag und Quittung de ps: 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> und 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 757 <hi>0</hi> ist über <gap/>
+               <lb facs="#facs_237_r2l32" n="N023"/>Zufolge Auflag und Quittung de ps: 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> und 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 757 <del>0</del> ist über <gap/>
                <lb facs="#facs_237_r2l33" n="N024"/>eingelegte <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument von <rs type="person" ref="#wkfm__46692">Johann Christoph Roßmann</rs> dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice>
                <lb facs="#facs_237_r2l34" n="N025"/>757 N<hi style="superscript">o</hi> 1783 <choice><expan/><abbr>pr</abbr></choice> 5000 fl obiges <rs type="person" ref="#wkfm__23514">Kollmünzer:</rs> Cautions Instrument extradiret worden
-               <lb facs="#facs_237_r2l35" n="N026"/><seg type="editorial_comment_seg"><hi>0</hi> N<hi style="superscript">o</hi> 1786<note type="editorial_comment_note">Einfügung in Zeile 23</note></seg>
+               <lb facs="#facs_237_r2l35" n="N026"/><seg type="editorial_comment_seg"><del>0</del> N<hi style="superscript">o</hi> 1786<note type="editorial_comment_note">Einfügung in Zeile 23</note></seg>
             </ab>
             
         </div>

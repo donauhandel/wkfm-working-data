@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -95,7 +96,7 @@
                <lb facs="#facs_93_r1l9" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_93_r1l10" n="N010"/>Der <rs type="person" ref="#wkfm__46765">Raindinger</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1679 dahin
                <lb facs="#facs_93_r1l11" n="N011"/>ausgewisen, daß er vermög <choice><expan/><abbr>orig:</abbr></choice> Instrument von <rs type="person" ref="#wkfm__46766">Johann Georg Schinerer</rs>
-               <lb facs="#facs_93_r1l12" n="N012"/>dd<hi style="superscript">to</hi> ult: <choice><expan/><abbr>Xbr:</abbr></choice> 749 <hi>bey</hi> N<hi style="superscript">o</hi> 1680 bey selben an baar eingelegten und theils
+               <lb facs="#facs_93_r1l12" n="N012"/>dd<hi style="superscript">to</hi> ult: <choice><expan/><abbr>Xbr:</abbr></choice> 749 <del>bey</del> N<hi style="superscript">o</hi> 1680 bey selben an baar eingelegten und theils
                <lb facs="#facs_93_r1l13" n="N013"/>hievon abgefallenen und theils <unclear>in protem</unclear> salario <unclear>accordirten</unclear> Nuzen stehen
                <lb facs="#facs_93_r1l14" n="N014"/>habe 6089 fl 43 x<hi style="superscript">r</hi>
                <lb facs="#facs_93_r1l16" n="N015"/>Zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__46767">Matthias Pränkhl</rs> das <choice><expan/><abbr>orig:</abbr></choice>

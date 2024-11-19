@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -78,7 +79,7 @@
             
             <ab facs="#facs_25_r3">
                <lb facs="#facs_25_line_1626182923365_682" n="N001"/>145
-               <lb facs="#facs_25_line_1626247154098_1221" n="N002"/><hi>840</hi>
+               <lb facs="#facs_25_line_1626247154098_1221" n="N002"/><del>840</del>
                <lb facs="#facs_25_line_1630352089859_545" n="N003"/>858
                <lb facs="#facs_25_r3l1" n="N004"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_25_r3l2" n="N005"/><rs type="person" ref="#wkfm__7269">Weiß Johann Jacob</rs> burgerlicher Handlsmann

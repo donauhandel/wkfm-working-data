@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -96,9 +97,9 @@
                <lb facs="#facs_99_r1l10" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_99_r1l11" n="N011"/>Der <rs type="person" ref="#wkfm__47129">Frosch</rs> hat zu Ausweisung seines Fundi zwey <choice><expan/><abbr>orig:</abbr></choice> Cautions instrumen-
                <lb facs="#facs_99_line_1626370442689_47" n="N012"/>ten: eingeleget alß von <rs type="person" ref="#wkfm__46910">Johann Georg Mumb</rs> und <rs type="person" ref="#wkfm__46912">Sara Mari Mumbin</rs> mit
-               <lb facs="#facs_99_r1l15" n="N013"/>beygerukter <seg type="editorial_comment_seg">Cortioration<note type="editorial_comment_note">wahrscheinlich Certioration</note></seg> <unclear>Respectu</unclear> <unclear>die erlegteren</unclear> <hi>dd<hi style="superscript"/></hi>to
-               <lb facs="#facs_99_line_1626370459249_53" n="N014"/>tione <gap/> <unclear>in</unclear> <unclear>solidum</unclear> <hi>p</hi> N<hi style="superscript">o</hi> 1415 <choice><expan/><abbr>pr</abbr></choice> 4000 fl
-               <lb facs="#facs_99_line_1626370465834_61" n="N015"/>dann von dem <rs type="person" ref="#wkfm__47131">Fridrich Karner</rs> dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> Julii 736 <choice><expan/><abbr><hi>pr</hi></abbr></choice> N<hi style="superscript">o</hi> 1416 <choice><expan/><abbr>pr</abbr></choice> 1500 fl
+               <lb facs="#facs_99_r1l15" n="N013"/>beygerukter <seg type="editorial_comment_seg">Cortioration<note type="editorial_comment_note">wahrscheinlich Certioration</note></seg> <unclear>Respectu</unclear> <unclear>die erlegteren</unclear> <del>dd<hi style="superscript"/></del>to
+               <lb facs="#facs_99_line_1626370459249_53" n="N014"/>tione <gap/> <unclear>in</unclear> <unclear>solidum</unclear> <del>p</del> N<hi style="superscript">o</hi> 1415 <choice><expan/><abbr>pr</abbr></choice> 4000 fl
+               <lb facs="#facs_99_line_1626370465834_61" n="N015"/>dann von dem <rs type="person" ref="#wkfm__47131">Fridrich Karner</rs> dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> Julii 736 <choice><expan/><abbr><del>pr</del></abbr></choice> N<hi style="superscript">o</hi> 1416 <choice><expan/><abbr>pr</abbr></choice> 1500 fl
                <lb facs="#facs_99_r1l21" n="N016"/><choice><expan/><abbr>Sa</abbr></choice> 5500 fl
             </ab>
             

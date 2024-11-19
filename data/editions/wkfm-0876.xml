@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -88,9 +89,9 @@
                <lb facs="#facs_64_r1l5" n="N005"/>in Compagnie stehen
                <lb facs="#facs_64_r1l6" n="N006"/>Mitls obigen Anbringen de ps: 13<hi style="superscript">ten</hi> Julii 739 N<hi style="superscript">o</hi> 1959 hat der <rs type="person" ref="#wkfm__24512">Johann Georg
                <lb break="no" facs="#facs_64_r1l7" n="N007"/>Gromes</rs> angezeiget das die zwischen ihm und dem <rs type="person" ref="#wkfm__5636">Hieronimo Rigotti</rs> vor
-               <lb facs="#facs_64_r1l8" n="N008"/>geweste <hi>Comp</hi> Societaet gänzlich aufgehoben seye und dem <rs type="person" ref="#wkfm__5636">Rigotti</rs>
+               <lb facs="#facs_64_r1l8" n="N008"/>geweste <del>Comp</del> Societaet gänzlich aufgehoben seye und dem <rs type="person" ref="#wkfm__5636">Rigotti</rs>
                <lb facs="#facs_64_r1l9" n="N009"/>seines quanti halber wirklichen abgefertiget und er <rs type="person" ref="#wkfm__24512">Grones</rs> die
-               <lb facs="#facs_64_r1l10" n="N010"/>handlung künftighin unter seinen alleinigen <hi>Nahm</hi> obligo und
+               <lb facs="#facs_64_r1l10" n="N010"/>handlung künftighin unter seinen alleinigen <del>Nahm</del> obligo und
                <lb facs="#facs_64_r1l11" n="N011"/>Nahmen continuiren werde.
                <lb facs="#facs_64_r1l12" n="N012"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_64_r1l13" n="N013"/><seg type="orighead__other_notes">Anmerckungen</seg>

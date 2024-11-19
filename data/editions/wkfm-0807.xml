@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -96,12 +97,12 @@
                <lb facs="#facs_139_r1l7" n="N006"/>Anbringen de ps: 11<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 755 N<hi style="superscript">o</hi> 1123 eingeleget
                <lb facs="#facs_139_r1l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_139_r1l9" n="N008"/>In obigen Oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> May 752 N<hi style="superscript">o</hi> 1122 hat der <rs type="person" ref="#wkfm__47190">Frieß</rs> kund gemacht, daß
-               <lb facs="#facs_139_line_1621876172692_200" n="N009"/>er <hi>dem</hi> seinem ersten bedienten <rs type="person" ref="#wkfm__47192">Johann Georg Haas</rs> <hi>weh</hi> in seiner Abwesenheit
-               <lb facs="#facs_139_r1l12" n="N010"/>oder sonstiger <hi><unclear>frenre</unclear></hi> Verhinderung anvertrauet habe. auf die Firma
+               <lb facs="#facs_139_line_1621876172692_200" n="N009"/>er <del>dem</del> seinem ersten bedienten <rs type="person" ref="#wkfm__47192">Johann Georg Haas</rs> <del>weh</del> in seiner Abwesenheit
+               <lb facs="#facs_139_r1l12" n="N010"/>oder sonstiger <del><unclear>frenre</unclear></del> Verhinderung anvertrauet habe. auf die Firma
                <lb facs="#facs_139_r1l13" n="N011"/>von selben beygeruket.
                <lb facs="#facs_139_r1l14" n="N012"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_139_r1l15" n="N013"/>Der <rs type="person" ref="#wkfm__47190">Frieß</rs> hat mitls obigen Anbringen de ps: 11<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 755 N<hi style="superscript">o</hi> 1123 die von ihm untern
-               <lb facs="#facs_139_r1l16" n="N014"/>1<hi style="superscript">ten</hi> May 752 <unclear>erlassenen</unclear> Oblatorien in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1122 eingelegt <hi>ver</hi> mitls
+               <lb facs="#facs_139_r1l16" n="N014"/>1<hi style="superscript">ten</hi> May 752 <unclear>erlassenen</unclear> Oblatorien in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1122 eingelegt <del>ver</del> mitls
                <lb facs="#facs_139_r1l17" n="N015"/>welchen selben kund gemacht, daß er entschlossen ein Handlshaus allhier zu
                <lb facs="#facs_139_r1l18" n="N016"/>errichten, er anbey mit genugsamen eigenen Mittlen versehen seye, daß alle
                <lb facs="#facs_139_r1l19" n="N017"/>Freinde dadurch gänzlich Sicherheit haben. Keiner anderen Unterschrift seye

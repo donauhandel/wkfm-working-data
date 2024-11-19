@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -87,7 +88,7 @@
                <lb facs="#facs_17_r2l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_17_r2l6" n="N007"/>In obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2040 ist die Firma der Raggion <rs type="person" ref="#wkfm__20968">Nicolaus Salliet
                <lb break="no" facs="#facs_17_r2l7" n="N008"/>et Compagnie</rs> von dem <rs type="person" ref="#wkfm__13222">Nillas Salliet</rs> mit der Erinnerung eingeleget worden, das der Conso-
-               <lb facs="#facs_17_r2l8" n="N009"/>tius <rs type="person" ref="#wkfm__47405">Peter Vincent</rs> bey seiner Ruckkunft aus Frankreich die Firma gleichfalß <unclear><hi>ent</hi>einlegegen</unclear>
+               <lb facs="#facs_17_r2l8" n="N009"/>tius <rs type="person" ref="#wkfm__47405">Peter Vincent</rs> bey seiner Ruckkunft aus Frankreich die Firma gleichfalß <unclear><del>ent</del>einlegegen</unclear>
                <lb facs="#facs_17_r2l9" n="N010"/>werde v. 
                <lb facs="#facs_17_r2l10" n="N011"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_17_r2l11" n="N012"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

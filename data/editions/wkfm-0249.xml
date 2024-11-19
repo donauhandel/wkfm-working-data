@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -93,7 +94,7 @@
                <lb facs="#facs_195_r1l9" n="N009"/>Der <rs type="person" ref="#wkfm__36092">Premblechner</rs> hat seinen Handlungs Fundum mitls eines
                <lb facs="#facs_195_r1l10" n="N010"/>von seinen Brudern <rs type="person" ref="#wkfm__9481">Lorenz Anton Premblechner</rs> für selben einge-
                <lb facs="#facs_195_r1l11" n="N011"/>legte Cautions instrument ausgewisen, welches dem <unclear>Sup:</unclear>
-               <lb facs="#facs_195_r1l12" n="N012"/>auf <hi>dessen</hi> sein Anlangen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 746 und hierauf decretando
+               <lb facs="#facs_195_r1l12" n="N012"/>auf <del>dessen</del> sein Anlangen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 746 und hierauf decretando
                <lb facs="#facs_195_r1l13" n="N013"/>erlassene Erfolglassungs Verwilligung dd<hi style="superscript">to</hi> 19<hi style="superscript">ten</hi> <unclear>ej</unclear>: laut dessen
                <lb facs="#facs_195_r1l14" n="N014"/>beygerukter Quittung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 1182 <gap/> extradiret worden.
             </ab>

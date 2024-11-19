@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -109,7 +110,7 @@
                <lb facs="#facs_45_line_1621281224229_151" n="N008"/>angezeiget, daß er wegen Gesundtheits Umständen sich auf 6 Mo-
                <lb facs="#facs_45_r2l9" n="N009"/>nat verreisen müsse, und bis zu seiner Ankunft die Handlungs
                <lb facs="#facs_45_r2l10" n="N010"/>firma dem <rs type="person" key=", Nicht in die Datenbank aufgenommen">Johann <unclear>Lechleithner</unclear></rs><unclear> </unclear>associiertem <choice><expan/><abbr>Comp.</abbr></choice> des <rs type="person" key=", Nicht in die Datenbank aufgenommen">Engelbert
-               <lb break="no" facs="#facs_45_r2l11" n="N011"/>Tschoften</rs> übertragen habe, und hat diese firma seinem <hi>ab </hi>an-
+               <lb break="no" facs="#facs_45_r2l11" n="N011"/>Tschoften</rs> übertragen habe, und hat diese firma seinem <del>ab </del>an-
                <lb facs="#facs_45_r2l12" n="N012"/>bringen sub A beigelegt: Sub rubrica firmen von N<hi style="superscript">o</hi> 1 bis 49 B
                <lb facs="#facs_45_r2l13" n="N013"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_45_r2l14" n="N014"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

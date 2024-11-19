@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -83,7 +84,7 @@
             
             <ab facs="#facs_225_r2">
                <lb facs="#facs_225_line_1626263712437_2505" n="N001"/>141
-               <lb facs="#facs_225_r2l2" n="N002"/><hi>814</hi>
+               <lb facs="#facs_225_r2l2" n="N002"/><del>814</del>
                <lb facs="#facs_225_r2l3" n="N003"/>834
                <lb facs="#facs_225_r2l1" n="N004"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_225_r2l4" n="N005"/><rs type="person" ref="#wkfm__47596">Stüffer Joseph Anton</rs> burgerlicher Handlsmann

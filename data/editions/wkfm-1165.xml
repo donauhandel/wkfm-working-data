@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -91,12 +92,12 @@
                <lb facs="#facs_65_r2l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_65_r2l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_65_r2l8" n="N009"/>Mitls Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 736 N<hi style="superscript">o</hi> 1572 hat der <rs type="person" ref="#wkfm__26145">Lidl</rs> angezeiget das
-               <lb facs="#facs_65_r2l9" n="N010"/>er pro fundo negotii <hi>90</hi> 9000 fl theils ererbten theils erworbenes gutt
+               <lb facs="#facs_65_r2l9" n="N010"/>er pro fundo negotii <del>90</del> 9000 fl theils ererbten theils erworbenes gutt
                <lb facs="#facs_65_r2l10" n="N011"/>eigenthumlich besize, zu wessen bekräfftigung selber das von seinen Brüdern
                <lb facs="#facs_65_r2l13" n="N012"/><rs type="person" ref="#wkfm__25421">Ludwig</rs> und <rs type="person" ref="#wkfm__18524">Leopold Lidl</rs> unter 18<hi style="superscript">ten</hi> ej: dahin ausgestelte respectivé attestatum
                <lb facs="#facs_65_r2l15" n="N013"/>und cautions Instrument in <choice><expan/><abbr>orig.</abbr></choice> N<hi style="superscript">o</hi> 1573 eingeleget, ihnen wohl wissend daß er Carl
-               <lb facs="#facs_65_r2l16" n="N014"/><hi>Adam</hi> <hi>ihnen</hi> weil ihnen wohl wissend das er <rs type="person" ref="#wkfm__26145">Carl Adam Lidl</rs> 9000 fl besize
-               <lb facs="#facs_65_line_1629142174917_783" n="N015"/>sie <hi>für solche</hi> für solche alß ihres bruders eigenthumlichen fundum jederzeit haften
+               <lb facs="#facs_65_r2l16" n="N014"/><del>Adam</del> <del>ihnen</del> weil ihnen wohl wissend das er <rs type="person" ref="#wkfm__26145">Carl Adam Lidl</rs> 9000 fl besize
+               <lb facs="#facs_65_line_1629142174917_783" n="N015"/>sie <del>für solche</del> für solche alß ihres bruders eigenthumlichen fundum jederzeit haften
                <lb facs="#facs_65_r2l20" n="N016"/>wollen <choice><expan/><abbr>pr</abbr></choice> 9000 fl
             </ab>
             

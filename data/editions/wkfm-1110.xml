@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -94,7 +95,7 @@
                <lb facs="#facs_10_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 509 hat sich der <rs type="person" ref="#wkfm__8089">Lang</rs> er-
                <lb facs="#facs_10_r1l3" n="N003"/>klähret, daß er sein negotium als sein Eigenthum allein führe
                <lb facs="#facs_10_r1l4" n="N004"/>Mitls anbringen de ps: 14<hi style="superscript">ten</hi> Junii 751 N<hi style="superscript">o</hi> 2011 hat der <rs type="person" ref="#wkfm__46784">Michäl Augustin Mayer</rs> den
-               <lb facs="#facs_10_r1l6" n="N005"/>mit dem <hi>Jo</hi> <rs type="person" ref="#wkfm__8089">Anton Lang</rs> untern 5<hi style="superscript">ten</hi> Junii 751 geschlossenen societaets contract in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 2009 einge-
+               <lb facs="#facs_10_r1l6" n="N005"/>mit dem <del>Jo</del> <rs type="person" ref="#wkfm__8089">Anton Lang</rs> untern 5<hi style="superscript">ten</hi> Junii 751 geschlossenen societaets contract in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 2009 einge-
                <lb facs="#facs_10_r1l7" n="N006"/>leget, krafft welchen zwischen ihnen die societaet auf 10 Jahr von 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 751 bis det: 761 die <unclear>Raggion</unclear>
                <lb facs="#facs_10_r1l8" n="N007"/>aber <rs type="person" ref="#wkfm__46783">Anton Lang et Compangnie</rs> stabiliret, dem <rs type="person" ref="#wkfm__46784">Mayr</rs> aber vorbehalten worden das er im fall <unclear>eines</unclear> 
                <lb facs="#facs_10_r1l9" n="N008"/>ohne Verlegung des eingelegten Revers zu stabiliren Gelegenheit hätte denselben gegen vorgehend <seg type="editorial_comment_seg"><unclear>jähriger</unclear><note type="editorial_comment_note">viell. auch jäher</note></seg>
@@ -107,10 +108,10 @@
                <lb break="no" facs="#facs_10_r1l16" n="N015"/>Lang et Compagnie</rs> zu continuiren, der <rs type="person" ref="#wkfm__46784">Mayer</rs> aber die Halbscheid einzulegen schuldig und die Nuzung zu
                <lb facs="#facs_10_r1l17" n="N016"/>gleichen Theilen seyn, den übrigen Erbsinteressenten anbey ihrem Erbtheil nur in leidentlichen Terminen fordern
                <lb facs="#facs_10_r1l18" n="N017"/><unclear>können</unclear>, bey ergehenden Todfall solle der Handlungs Status durch zwey unpartheyische Verständige erreichen
-               <lb facs="#facs_10_r1l19" n="N018"/>und fals diese nicht uber ein kommen durch den dritten <hi>entschiden</hi> auch alle zwistigkeiten durch zwey Ver- <hi>0</hi>
+               <lb facs="#facs_10_r1l19" n="N018"/>und fals diese nicht uber ein kommen durch den dritten <del>entschiden</del> auch alle zwistigkeiten durch zwey Ver- <del>0</del>
                <lb facs="#facs_10_r1l20" n="N019"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_10_r1l21" n="N020"/><seg type="orighead__other_notes">Anmerckungen</seg>
-               <lb facs="#facs_10_r1l22" n="N021"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung der Rubrik Societaets Contract und Interessenten</note></seg> ständige entschiden werden und jeder bey 1000 fl Pöen in ein und andern fall
+               <lb facs="#facs_10_r1l22" n="N021"/><seg type="editorial_comment_seg"><del>0</del><note type="editorial_comment_note">Fortsetzung der Rubrik Societaets Contract und Interessenten</note></seg> ständige entschiden werden und jeder bey 1000 fl Pöen in ein und andern fall
                <lb facs="#facs_10_r1l23" n="N022"/>bey der Entscheidung zu <unclear>aquiesciren</unclear> gehalten seye.
             </ab>
             

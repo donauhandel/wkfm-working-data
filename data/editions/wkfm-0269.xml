@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -93,7 +94,7 @@
                <lb facs="#facs_215_r2l7" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_215_r2l8" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_215_r2l9" n="N010"/>Der <rs type="person" ref="#wkfm__43958">Johann Pohamb</rs> zu Ausweisung seines Funi eine ungefertigte
-               <lb facs="#facs_215_r2l10" n="N011"/>Specification sine dato N<hi style="superscript">o</hi> 1206 eingeleget daß er besize <hi>an</hi>
+               <lb facs="#facs_215_r2l10" n="N011"/>Specification sine dato N<hi style="superscript">o</hi> 1206 eingeleget daß er besize <del>an</del>
                <lb facs="#facs_215_r2l11" n="N012"/>an Waren 15106 fl 27 x<hi style="superscript">r</hi>
                <lb facs="#facs_215_r2l12" n="N013"/>an debitoren 18239 fl 5 x<hi style="superscript">r</hi>
                <lb facs="#facs_215_r2l13" n="N014"/><choice><expan>Summa</expan><abbr>Sa</abbr></choice> 33345 fl 32 x<hi style="superscript">r</hi>

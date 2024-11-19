@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -93,10 +94,10 @@
                <lb facs="#facs_73_r2l6" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_73_r2l7" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_73_r2l8" n="N010"/>Der <rs type="person" ref="#wkfm__46833">Leithner</rs> hat seinen fundum mitls der specification N<hi style="superscript">o</hi> 1579
-               <lb facs="#facs_73_r2l9" n="N011"/>volgender maßen ausgewisen <hi>da</hi> nemlich daß er eigenthumlich
+               <lb facs="#facs_73_r2l9" n="N011"/>volgender maßen ausgewisen <del>da</del> nemlich daß er eigenthumlich
                <lb facs="#facs_73_r2l10" n="N012"/>besize die <unclear>Brassille</unclear> holzschneid-Mühl <choice><expan/><abbr>pr</abbr></choice> 10000 fl
                <lb facs="#facs_73_r2l12" n="N013"/><seg type="editorial_comment_seg">4700<note type="editorial_comment_note">Verbesserung der untigen Summe 14700</note></seg>
-               <lb facs="#facs_73_r2l13" n="N014"/>an farbholz und andern Waaren <hi>1</hi>4700
+               <lb facs="#facs_73_r2l13" n="N014"/>an farbholz und andern Waaren <del>1</del>4700
                <lb facs="#facs_73_r2l15" n="N015"/>an baaren geld 1500 fl
                <lb facs="#facs_73_r2l17" n="N016"/>dann à conto der erkaufft Egger: Handlung bezalt habe
                <lb facs="#facs_73_r2l18" n="N017"/>laut Quittung dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 745 N<hi style="superscript">o</hi> 1580 in Cop: vidimata 5000 fl

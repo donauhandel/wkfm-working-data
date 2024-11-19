@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -103,7 +104,7 @@
                <lb facs="#facs_161_r3l13" n="N012"/>folgender massen ausgewisen, nemlich das er eigenthumlich besize an
                <lb facs="#facs_161_r3l14" n="N013"/>ererbten erspahrten salario und überkommenen Gewün aus der mit dem
                <lb facs="#facs_161_line_1621469326011_3135" n="N014"/><rs type="person" ref="#wkfm__19355">Polidoro</rs> vorgehabten societaet 5000 fl
-               <lb facs="#facs_161_r3l19" n="N015"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__25146">Carlo Barbieri</rs> das Cautions <hi>In</hi>
+               <lb facs="#facs_161_r3l19" n="N015"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__25146">Carlo Barbieri</rs> das Cautions <del>In</del>
                <lb facs="#facs_161_line_1621469336956_3143" n="N016"/>Instrument eingeleget <choice><expan/><abbr>pr</abbr></choice> 3000 fl
                <lb facs="#facs_161_r3l22" n="N017"/><choice><expan>Summa</expan><abbr>Sa</abbr></choice> 8000 fl
                <lb facs="#facs_161_r3l23" n="N018"/>Über die von dem <rs type="person" ref="#wkfm__25146">Barbieri</rs> gemachte Anzeige de ps: 13<hi style="superscript">ten</hi> May 740 N<hi style="superscript">o</hi> 1177

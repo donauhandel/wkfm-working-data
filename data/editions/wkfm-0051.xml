@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -115,10 +116,10 @@
                <lb facs="#facs_46_r1l6" n="N006"/>zu geniessen haben solle, und das diesemwegen zwischen ihnen kein Con-
                <lb facs="#facs_46_r1l7" n="N007"/>tract bestehe, sein Sohn auch kein Capital eingeleget, mithin auch für
                <lb facs="#facs_46_r1l8" n="N008"/>einen enstehenden Schaden nicht zu hafften habe, sondern die Handlung
-               <lb facs="#facs_46_r1l9" n="N009"/>bleibe nur allein von <hi>ihm <rs type="person" ref="#wkfm__46293"/></hi><rs type="person" ref="#wkfm__46293">Joh: Thaddae Aichinger</rs> seinen eigenen
+               <lb facs="#facs_46_r1l9" n="N009"/>bleibe nur allein von <del>ihm <rs type="person" ref="#wkfm__46293"/></del><rs type="person" ref="#wkfm__46293">Joh: Thaddae Aichinger</rs> seinen eigenen
                <lb facs="#facs_46_r1l10" n="N010"/>Vermögen, unterstützet, und werde selbe auch unter seinen Nammen
-               <lb facs="#facs_46_r1l11" n="N011"/><hi>allen</hi> allein und unter der bereits eingelegten firma fortgeführet
-               <lb facs="#facs_46_line_1621284723707_344" n="N012"/>Worüber <hi>der</hi> die weitere Anzeige mittelst bericht an behörde gemacht worden, welcher sich bey den
+               <lb facs="#facs_46_r1l11" n="N011"/><del>allen</del> allein und unter der bereits eingelegten firma fortgeführet
+               <lb facs="#facs_46_line_1621284723707_344" n="N012"/>Worüber <del>der</del> die weitere Anzeige mittelst bericht an behörde gemacht worden, welcher sich bey den
                <lb facs="#facs_46_r1l14" n="N013"/><choice><expan>Resolutionen</expan><abbr>Resoluonen </abbr></choice>eingetheilter vorfindet, obiges Anbringen liegt bey den <rs type="person" key=", asdf">Societaeten</rs> 
                <lb facs="#facs_46_r1l15" n="N014"/>Sub N<hi style="superscript">o</hi> 1845 1/2
                <lb facs="#facs_46_r1l16" n="N015"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
@@ -134,17 +135,17 @@
                <lb facs="#facs_46_r1l26" n="N025"/>von beeden wehrenden Brauthständen das zeitliche segnen solte, so
                <lb facs="#facs_46_r1l27" n="N026"/>solle dem lebenden theil zu einem Andenken 50 Cr: Ducaten
                <lb facs="#facs_46_r1l28" n="N027"/>zu einem Andenken aus des verstorbenen massa verabfolget werden
-               <lb facs="#facs_46_r1l29" n="N028"/>übrigens ist auch vorgesehen worden, das <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung des Textes in Rubrik Anmerkungen, Zeile 1-30</note></seg>
+               <lb facs="#facs_46_r1l29" n="N028"/>übrigens ist auch vorgesehen worden, das <seg type="editorial_comment_seg"><del>0</del><note type="editorial_comment_note">Fortsetzung des Textes in Rubrik Anmerkungen, Zeile 1-30</note></seg>
                <lb facs="#facs_46_r1l30" n="N029"/><seg type="orighead__other_notes">Anmerkung</seg>
-               <lb facs="#facs_46_r1l31" n="N030"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Hier wird der Eintrag unter den Heiratskontrakten in der Spalte der Anmerkungen fortgesetzt </note></seg>
-               <lb facs="#facs_46_r1l32" n="N031"/><hi>bey</hi> nach dem todtfall des <rs type="person" ref="#wkfm__46293">Aichinger</rs> seiner überlebenden Ehe Consortin
+               <lb facs="#facs_46_r1l31" n="N030"/><seg type="editorial_comment_seg"><del>0</del><note type="editorial_comment_note">Hier wird der Eintrag unter den Heiratskontrakten in der Spalte der Anmerkungen fortgesetzt </note></seg>
+               <lb facs="#facs_46_r1l32" n="N031"/><del>bey</del> nach dem todtfall des <rs type="person" ref="#wkfm__46293">Aichinger</rs> seiner überlebenden Ehe Consortin
                <lb facs="#facs_46_r1l33" n="N032"/>die Handlungs Gerchtigkeit zufallen solle p. Dieser Heuraths-
                <lb facs="#facs_46_r1l34" n="N033"/>-brief findet sich in fasciculo sub Rubrica Heurathsbriefe sub
                <lb facs="#facs_46_r1l35" n="N034"/><choice><expan/><abbr>nro:</abbr></choice> 2076 1/2.
                <lb facs="#facs_46_r1l36" n="N035"/>zu folge Auflage dd<hi style="superscript">to</hi> 13 <choice><expan/><abbr>7br:</abbr></choice> 779 hat <rs type="person" ref="#wkfm__46293">Johann Thaddae Aichinger</rs>
                <lb facs="#facs_46_r1l37" n="N036"/>das bey seiner fundi Ausweisung innliegende Cautions Instrument
                <lb facs="#facs_46_line_1628380160466_261" n="N037"/>dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 747 <choice><expan/><abbr>pr</abbr></choice> 500 2500 fl extradirter erhalten, und zu Completirung
-               <lb facs="#facs_46_r1l40" n="N038"/>seines fonds <hi>eine</hi> die Billanz dd<hi style="superscript">to</hi> 28. Juny 779 eingeleget
+               <lb facs="#facs_46_r1l40" n="N038"/>seines fonds <del>eine</del> die Billanz dd<hi style="superscript">to</hi> 28. Juny 779 eingeleget
                <lb facs="#facs_46_r1l41" n="N039"/>findet sich sub rubrica fundi Ausweisungen Sub N<hi style="superscript">o</hi> 1159 1/2:
             </ab>
             

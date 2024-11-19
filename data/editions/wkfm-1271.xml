@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -91,7 +92,7 @@
                <lb facs="#facs_87_r3l5" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_87_r3l6" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_87_r3l7" n="N009"/>Der <rs type="person" ref="#wkfm__30195">Muth</rs> hat zu ausweisung seines fundi das von seiner Ehewirthin <rs type="person" ref="#wkfm__46926">Eva
-               <lb break="no" facs="#facs_87_r3l8" n="N010"/>Margarita</rs> untern 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 743 <hi>da</hi> N<hi style="superscript">o</hi> 1621 dahin ausgestelte <seg type="editorial_comment_seg">cortiorirte<note type="editorial_comment_note">wahrscheinlich certiorirte</note></seg>
+               <lb break="no" facs="#facs_87_r3l8" n="N010"/>Margarita</rs> untern 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 743 <del>da</del> N<hi style="superscript">o</hi> 1621 dahin ausgestelte <seg type="editorial_comment_seg">cortiorirte<note type="editorial_comment_note">wahrscheinlich certiorirte</note></seg>
                <lb facs="#facs_87_r3l10" n="N011"/><choice><expan/><abbr>orig:</abbr></choice> Cautions instrument, daß sie über die von gedacht ihren
                <lb facs="#facs_87_r3l11" n="N012"/>Ehewirthen besizende 2000 fl
                <lb facs="#facs_87_r3l13" n="N013"/>bürgin und zahlerin seyn wolle <choice><expan/><abbr>pr</abbr></choice> 6000 fl

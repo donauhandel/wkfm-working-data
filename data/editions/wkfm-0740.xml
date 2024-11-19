@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -87,7 +88,7 @@
             <ab facs="#facs_72_r1">
                <lb facs="#facs_72_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_72_line_1621550151391_1654" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 12 <choice><expan/><abbr>Apr:</abbr></choice> 731 N<hi style="superscript">o</hi> 1934 hat sich der <rs type="person" ref="#wkfm__21998">Peter
-               <lb break="no" facs="#facs_72_r1l3" n="N003"/>Vernay</rs> und <rs type="person" ref="#wkfm__43912">Ferdinand Pörner</rs> <hi>mit ererklähret</hi> geäusseret das sie
+               <lb break="no" facs="#facs_72_r1l3" n="N003"/>Vernay</rs> und <rs type="person" ref="#wkfm__43912">Ferdinand Pörner</rs> <del>mit ererklähret</del> geäusseret das sie
                <lb facs="#facs_72_r1l4" n="N004"/>ihre Handlung unter der Societaets Raggion von <rs type="person" ref="#wkfm__15206">Vernay et Pörner</rs>
                <lb facs="#facs_72_r1l5" n="N005"/>miteinander führen
                <lb facs="#facs_72_r1l6" n="N006"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 733 N<hi style="superscript">o</hi> 1937 hat der <rs type="person" ref="#wkfm__21998">Vernay</rs> <unclear>ange</unclear>-

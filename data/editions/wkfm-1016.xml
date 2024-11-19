@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -83,8 +84,8 @@
                <lb facs="#facs_96_r1l4" n="N004"/>unter der Raggion <rs type="person" ref="#wkfm__8067">Heß und Thech</rs> und beeder Firmirung stehen.
                <lb facs="#facs_96_r1l5" n="N005"/>Mitls Anbringen de ps: 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 738 N<hi style="superscript">o</hi> 1968 und oblatorien dd<hi style="superscript">to</hi> - <choice><expan/><abbr>Febr:</abbr></choice>
                <lb facs="#facs_96_r1l6" n="N006"/>736 N<hi style="superscript">o</hi> 1128 hat der <rs type="person" ref="#wkfm__26689">Heß</rs> angezeiget und kund gemacht, daß die Raggion <rs type="person" ref="#wkfm__8067">Heß
-               <lb break="no" facs="#facs_96_r1l8" n="N007"/>und Thech</rs> geendiget seye <hi>habe</hi> er anbey  entschlossen habe solche unter eignen Nahmen
-               <lb facs="#facs_96_r1l9" n="N008"/><rs type="person" ref="#wkfm__46509">Johann Gottlob Heß</rs> <hi>und</hi> mit eigenen interesse zu continuiren
+               <lb break="no" facs="#facs_96_r1l8" n="N007"/>und Thech</rs> geendiget seye <del>habe</del> er anbey  entschlossen habe solche unter eignen Nahmen
+               <lb facs="#facs_96_r1l9" n="N008"/><rs type="person" ref="#wkfm__46509">Johann Gottlob Heß</rs> <del>und</del> mit eigenen interesse zu continuiren
                <lb facs="#facs_96_r1l10" n="N009"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_96_r1l11" n="N010"/><seg type="orighead__other_notes">Anmerckungen</seg>
             </ab>

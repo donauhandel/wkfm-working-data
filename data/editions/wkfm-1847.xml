@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -90,7 +91,7 @@
             <pb facs="#facs_17" n="17" xml:id="img_0017" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1847.jpg"/>
             
             <ab facs="#facs_17_r1">
-               <lb facs="#facs_17_r1l1" n="N001"/><hi>898</hi>
+               <lb facs="#facs_17_r1l1" n="N001"/><del>898</del>
                <lb facs="#facs_17_line_1630608146780_136" n="N002"/>916
                <lb facs="#facs_17_r1l2" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_17_line_1630608146781_137" n="N004"/><rs type="person" ref="#wkfm__43862">Ziegler Philipp Matthias</rs> burgerlicher Handlsmann
@@ -108,7 +109,7 @@
                <lb facs="#facs_17_r1l20" n="N016"/><unclear>14<hi style="superscript"/></unclear><hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 747 N<hi style="superscript">o</hi> 1838 893 fl
                <lb facs="#facs_17_line_1619513934660_649" n="N017"/>zusamen Eigenthum 2893 fl
                <lb facs="#facs_17_r1l21" n="N018"/>Zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__31013">Andre Ziegler</rs> eine dahin aus
-               <lb facs="#facs_17_r1l23" n="N019"/>gesteltes Instrument N<hi style="superscript">o</hi> 1809 daß von dem seingen <hi>in die handlung einge</hi>
+               <lb facs="#facs_17_r1l23" n="N019"/>gesteltes Instrument N<hi style="superscript">o</hi> 1809 daß von dem seingen <del>in die handlung einge</del>
                <lb facs="#facs_17_r1l24" n="N020"/>daß zu eigener Ausweisung seines Sohns in der Handlung
                <lb facs="#facs_17_r1l27" n="N021"/><unclear>haften</unclear> sollen 5800 fl
                <lb facs="#facs_17_line_1619514181998_698" n="N022"/><choice><expan>Summa</expan><abbr>Sa</abbr></choice> <unclear>8696</unclear> fl

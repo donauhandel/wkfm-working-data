@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -86,8 +87,8 @@
                <lb facs="#facs_246_r1l5" n="N005"/>Banquiers <rs type="person" ref="#wkfm__47514 [?]">Jakob</rs> und <rs type="person" ref="#wkfm__47512 [?]">Michael Schmittmer</rs> dem jüngeren Sohn und respec: Vet-
                <lb facs="#facs_246_r1l6" n="N006"/>tern <rs type="person" ref="#wkfm__47518">Jakob v. Schmittmer</rs> eine Groshandlungs Freyheit ertheilet worden, damit er
                <lb facs="#facs_246_r1l7" n="N007"/>in die v. Schmittmerische firma eintretten, und diesfälliges Wechsel Negotium
-               <lb facs="#facs_246_r1l8" n="N008"/>seiner zeit fortführen möge, lieget bey den firmen <hi>sub N<hi style="superscript"/></hi>o
-               <lb facs="#facs_246_r1l9" n="N009"/><hi>lit: S 492 usq: 506 inclusive</hi> á Numero 492 usq: 506 inclusive in
+               <lb facs="#facs_246_r1l8" n="N008"/>seiner zeit fortführen möge, lieget bey den firmen <del>sub N<hi style="superscript"/></del>o
+               <lb facs="#facs_246_r1l9" n="N009"/><del>lit: S 492 usq: 506 inclusive</del> á Numero 492 usq: 506 inclusive in
                <lb facs="#facs_246_r1l10" n="N010"/>lit: S sub N<hi style="superscript">o</hi> 762 1/3: <hi style="text-decoration: underline;">Caetera vide in <choice><expan>Protocollo</expan><abbr>prcto:</abbr></choice> 2<hi style="text-decoration: underline; superscript"/></hi>do
                <lb facs="#facs_246_r1l11" n="N011"/><hi style="text-decoration: underline;">fol: 1101</hi>
             </ab>

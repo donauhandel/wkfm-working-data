@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -87,7 +88,7 @@
                <lb facs="#facs_21_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_21_r1l6" n="N007"/>Mitls Anbringen de ps: 11<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 890 hat der <rs type="person" ref="#wkfm__8615">Pränz</rs> die dem <rs type="person" ref="#wkfm__43818">Franz
                <lb break="no" facs="#facs_21_r1l7" n="N008"/>Zienner</rs> ertheilte Procura nebst der erlegten Firma dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> May 725
-               <lb facs="#facs_21_r1l8" n="N009"/>N<hi style="superscript">o</hi> <hi>89</hi> 889 in <choice><expan/><abbr>orig.</abbr></choice> eingeleget.
+               <lb facs="#facs_21_r1l8" n="N009"/>N<hi style="superscript">o</hi> <del>89</del> 889 in <choice><expan/><abbr>orig.</abbr></choice> eingeleget.
                <lb facs="#facs_21_r1l9" n="N010"/>Mitls Anbringen de ps: 15<hi style="superscript">ten</hi> May 732 N<hi style="superscript">o</hi> 905 hat der <rs type="person" ref="#wkfm__8615">Pränz</rs> die dem <rs type="person" ref="#wkfm__43818">Zinner</rs>
                <lb facs="#facs_21_r1l10" n="N011"/>erhteilte Procura anwiderum aufgehoben.
                <lb facs="#facs_21_r1l11" n="N012"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

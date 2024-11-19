@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -90,8 +91,8 @@
                <lb facs="#facs_214_r1l7" n="N007"/>die Societaet auf 3 Jahr verstanden seye bey austrettung ein oder andern
                <lb facs="#facs_214_r1l8" n="N008"/>theils aber die Handlung dem <rs type="person" ref="#wkfm__43956">Pirnbaum</rs> allein zufallen, und die <rs type="person" ref="#wkfm__43957">Bog-
                <lb break="no" facs="#facs_214_r1l9" n="N009"/>nerin</rs> sich der Handlschafft begeben solle.
-               <lb facs="#facs_214_r1l10" n="N010"/>Mitls zweyen Anbringen <hi>hat sowohl</hi> beede de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 742 N<hi style="superscript">o</hi> <hi>186</hi> 1876
-               <lb facs="#facs_214_r1l11" n="N011"/>et 1877 <hi>hat sich</hi> sich beyde socii erklähret, daß die Societaet dissolvieret seye
+               <lb facs="#facs_214_r1l10" n="N010"/>Mitls zweyen Anbringen <del>hat sowohl</del> beede de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 742 N<hi style="superscript">o</hi> <del>186</del> 1876
+               <lb facs="#facs_214_r1l11" n="N011"/>et 1877 <del>hat sich</del> sich beyde socii erklähret, daß die Societaet dissolvieret seye
                <lb facs="#facs_214_r1l12" n="N012"/>und der <rs type="person" ref="#wkfm__43956">Pirnbaum</rs> die Handlung allein fortführen werde.
                <lb facs="#facs_214_r1l13" n="N013"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_214_r1l14" n="N014"/><seg type="orighead__other_notes">Anmerckungen</seg>

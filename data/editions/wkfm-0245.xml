@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -90,7 +91,7 @@
                <lb facs="#facs_191_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_191_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__30064">Praunschmidt</rs> hat seinen fundum mitls eines von dessen Ehewirthin
                <lb facs="#facs_191_r1l9" n="N010"/><rs type="person" ref="#wkfm__43939">Maria Anna</rs> untern 6<hi style="superscript">ten</hi> Junii 737 ausgestelt certionirtes <choice><expan/><abbr>orig.</abbr></choice> Instru-
-               <lb facs="#facs_191_r1l10" n="N011"/>ment N<hi style="superscript">o</hi> 1178 kraft welchen gedacht seiner Ehewirthin sich <hi><unclear>verbindet</unclear></hi>
+               <lb facs="#facs_191_r1l10" n="N011"/>ment N<hi style="superscript">o</hi> 1178 kraft welchen gedacht seiner Ehewirthin sich <del><unclear>verbindet</unclear></del>
                <lb facs="#facs_191_r1l11" n="N012"/>erklähret, daß sie von dem ihrigen 8000 fl dergestalten dahin stelle,
                <lb facs="#facs_191_r1l12" n="N013"/>daß solche denen Creditoribus in Casum pessimum bis zu gänzlicher
                <lb facs="#facs_191_r1l13" n="N014"/>Befridigung derenselben hafften sollen.

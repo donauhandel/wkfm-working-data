@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -98,7 +99,7 @@
                <lb facs="#facs_83_r2l7" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_83_r2l8" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_83_r2l9" n="N010"/>Der Mitls obigen Anbringen de ps: 12<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 1138 hat der <rs type="person" ref="#wkfm__34454">Erhard Riesch</rs> die von ihm
-               <lb facs="#facs_83_r2l10" n="N011"/>untern 1<hi style="superscript">ten</hi> ej: erlassene oblatorien N<hi style="superscript">o</hi> 1136 samt den von dem <rs type="person" ref="#wkfm__46750">Wolfgang Riesch</rs> <choice><expan/><abbr><hi>seel:</hi></abbr></choice> <unclear>eadem</unclear>
+               <lb facs="#facs_83_r2l10" n="N011"/>untern 1<hi style="superscript">ten</hi> ej: erlassene oblatorien N<hi style="superscript">o</hi> 1136 samt den von dem <rs type="person" ref="#wkfm__46750">Wolfgang Riesch</rs> <choice><expan/><abbr><del>seel:</del></abbr></choice> <unclear>eadem</unclear>
                <lb facs="#facs_83_r2l11" n="N012"/>erlassenen Circular Schreiben N<hi style="superscript">o</hi> 1137 beede in <choice><expan/><abbr>orig:</abbr></choice> eingeleget kraft welchen der erstere
                <lb facs="#facs_83_r2l12" n="N013"/>kund gemacht, daß mitls Verfügung seines Vetters <rs type="person" ref="#wkfm__46750">Wolfgang Riesch</rs> das negotium sta-
                <lb facs="#facs_83_r2l13" n="N014"/>bilirert, der zweyte aber daß er entschlossen <unclear>des</unclear> <rs type="person" ref="#wkfm__34454">Erhard Riesch</rs> seinen eigenen Mitlen
@@ -106,9 +107,9 @@
                <lb facs="#facs_83_r2l15" n="N016"/>deren Correspondentzen beygehalten werden werden solle
                <lb facs="#facs_83_r2l16" n="N017"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_83_r2l17" n="N018"/>Der <rs type="person" ref="#wkfm__34454">Erhard Riesch</rs> hat zu Ausweisung seines Fundi ein von seinem Vettern
-               <lb facs="#facs_83_r2l18" n="N019"/><rs type="person" ref="#wkfm__46750">Wolfgang Riesch</rs> untern 1<hi style="superscript">ten</hi> May 747 <hi>ausgest</hi> dahin ausgesteltes <choice><expan/><abbr>orig:</abbr></choice> Instru-
-               <lb facs="#facs_83_r2l19" n="N020"/>ment N<hi style="superscript">o</hi> 1674 <hi>da</hi> eingeleget, daß er <rs type="person" ref="#wkfm__46750">Wolfgang Riesch</rs> demselben nicht nur
-               <lb facs="#facs_83_r2l20" n="N021"/><hi><unclear>einle</unclear></hi> zu seinen eigenen Capitalien einlegen, sondern auch bis zu gänzlicher befri-
+               <lb facs="#facs_83_r2l18" n="N019"/><rs type="person" ref="#wkfm__46750">Wolfgang Riesch</rs> untern 1<hi style="superscript">ten</hi> May 747 <del>ausgest</del> dahin ausgesteltes <choice><expan/><abbr>orig:</abbr></choice> Instru-
+               <lb facs="#facs_83_r2l19" n="N020"/>ment N<hi style="superscript">o</hi> 1674 <del>da</del> eingeleget, daß er <rs type="person" ref="#wkfm__46750">Wolfgang Riesch</rs> demselben nicht nur
+               <lb facs="#facs_83_r2l20" n="N021"/><del><unclear>einle</unclear></del> zu seinen eigenen Capitalien einlegen, sondern auch bis zu gänzlicher befri-
                <lb facs="#facs_83_r2l21" n="N022"/>digung deren Creditoren pro fundo ligen lassen wolle 60000 fl
             </ab>
             

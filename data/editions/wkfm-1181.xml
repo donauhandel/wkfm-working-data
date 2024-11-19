@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -99,7 +100,7 @@
                <lb facs="#facs_81_r1l8" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_81_r1l9" n="N010"/>Der <rs type="person" ref="#wkfm__46785">Jacob Lang</rs> hat nebst seinem socio <rs type="person" key="Personen ID=46850, ">Paul Solderer</rs> zu Ausweisung
                <lb facs="#facs_81_r1l10" n="N011"/>ihres Handlungs Fundi die von dem Oberreithandler der Stat Wienn
-               <lb facs="#facs_81_r1l11" n="N012"/>Pupillen <hi>Raithand</hi> Rait-Cammer untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 dahin ausgestelte
+               <lb facs="#facs_81_r1l11" n="N012"/>Pupillen <del>Raithand</del> Rait-Cammer untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 dahin ausgestelte
                <lb facs="#facs_81_r1l12" n="N013"/><choice><expan/><abbr>orig:</abbr></choice> Urkund N<hi style="superscript">o</hi> 1599, daß der <rs type="person" ref="#wkfm__46785">Jacob Lang</rs> an Mütterlichen 4186 fl 34 x<hi style="superscript">r</hi>
                <lb facs="#facs_81_r1l13" n="N014"/>überkommen; dann da von dem Handlungs Verkaufer <rs type="person" ref="#wkfm__46170">Franz
                <lb break="no" facs="#facs_81_r1l14" n="N015"/>Joseph Hammer</rs> untern 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 755 dahin ausgestelte attestatum

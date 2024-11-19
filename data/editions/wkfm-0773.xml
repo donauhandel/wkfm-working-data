@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -91,7 +92,7 @@
                <lb facs="#facs_105_r2l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_105_r2l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_105_r2l8" n="N009"/>Der <rs type="person" ref="#wkfm__47137">Friesenhengst</rs> hat zu Ausweisung seines Fundi die <choice><expan/><abbr>orig:</abbr></choice> Inventur
-               <lb facs="#facs_105_r2l9" n="N010"/>dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 738 N<hi style="superscript">o</hi> 1427 <hi><unclear>eing</unclear></hi> <choice><expan/><abbr><hi>pr</hi></abbr></choice> <hi>avan</hi> in avanzo <choice><expan/><abbr>pr</abbr></choice> 4852 fl
+               <lb facs="#facs_105_r2l9" n="N010"/>dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 738 N<hi style="superscript">o</hi> 1427 <del><unclear>eing</unclear></del> <choice><expan/><abbr><del>pr</del></abbr></choice> <del>avan</del> in avanzo <choice><expan/><abbr>pr</abbr></choice> 4852 fl
                <lb facs="#facs_105_r2l10" n="N011"/>dann das von seiner Ehewirthin <rs type="person" ref="#wkfm__47139">Maria Magdalena</rs> <unclear>sub</unclear> eadem dato dahin
                <lb facs="#facs_105_r2l11" n="N012"/>ausgestelte certiorirte <choice><expan/><abbr>orig:</abbr></choice> Instrument N<hi style="superscript">o</hi> 1428 eingeleget, daß zumahlen
                <lb facs="#facs_105_r2l12" n="N013"/>Halbscheid der Handlung ihr gehörig sie <unclear>hevon</unclear> 2000 fl zur Sicherheit deren

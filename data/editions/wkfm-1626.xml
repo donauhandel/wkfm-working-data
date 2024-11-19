@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -78,10 +79,10 @@
                <lb facs="#facs_168_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_168_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_168_r1l3" n="N003"/>Mitls Anbringen de ps: 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 737 N<hi style="superscript">o</hi> 2224 hat der <rs type="person" ref="#wkfm__47522">Schmidt</rs> den mit der
-               <lb facs="#facs_168_r1l4" n="N004"/><rs type="person" ref="#wkfm__47524">Anna Maria Kürchschlagerin</rs> untern 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> d. a. <hi>geschlossenen</hi> errüchteten Heu-
+               <lb facs="#facs_168_r1l4" n="N004"/><rs type="person" ref="#wkfm__47524">Anna Maria Kürchschlagerin</rs> untern 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> d. a. <del>geschlossenen</del> errüchteten Heu-
                <lb facs="#facs_168_r1l5" n="N005"/>rathscontract N<hi style="superscript">o</hi> 2223 in Copia vidimata eingeleget, kraft welchen 500 fl Heu-
                <lb facs="#facs_168_r1l6" n="N006"/>rathgutt nebst 1000 fl Widerlag auf Uberleben, dann jenes, was wehrender
-               <lb facs="#facs_168_r1l7" n="N007"/>Ehe erworben <hi>oder ererbet</hi> wird alß ein gleiches Gutt pactiret worden
+               <lb facs="#facs_168_r1l7" n="N007"/>Ehe erworben <del>oder ererbet</del> wird alß ein gleiches Gutt pactiret worden
                <lb facs="#facs_168_r1l8" n="N008"/><seg type="orighead__other_notes">Anmerckungen</seg>
             </ab>
             

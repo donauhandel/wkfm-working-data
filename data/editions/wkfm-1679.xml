@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -95,7 +96,7 @@
                <lb facs="#facs_221_r1l6" n="N005"/>und Jahr verstorben.
                <lb facs="#facs_221_r1l7" n="N006"/><seg type="orighead__firma">Firma ad Raggion</seg>
                <lb facs="#facs_221_r1l8" n="N007"/><rs type="person" ref="#wkfm__47587">Johannes Schwitzer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 772 welche
-               <lb facs="#facs_221_r1l9" n="N008"/>derselbe mitls Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 753 <hi>eingel</hi> N<hi style="superscript">o</hi> 773 eingelegt
+               <lb facs="#facs_221_r1l9" n="N008"/>derselbe mitls Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 753 <del>eingel</del> N<hi style="superscript">o</hi> 773 eingelegt
                <lb facs="#facs_221_r1l10" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_221_r1l11" n="N010"/>Vermög Anbringen de ps: 24: <choice><expan/><abbr>9br:</abbr></choice> 778 hat <rs type="person" ref="#wkfm__47588">Theresia Schwitzerin</rs> ange-
                <lb facs="#facs_221_r1l12" n="N011"/>zeiget, daß sie von ihrem Ehegatten <rs type="person" ref="#wkfm__47586">Johann Schwitzer</rs> <choice><expan/><abbr>seel:</abbr></choice> zu <choice><expan>universal</expan><abbr>unsal:</abbr></choice>

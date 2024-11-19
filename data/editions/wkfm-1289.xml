@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -88,8 +89,8 @@
                <lb facs="#facs_105_r2l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_105_r2l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_105_r2l8" n="N009"/>Der <rs type="person" ref="#wkfm__46944">Mazinger</rs> hat zu ausweisung seines Fundi ein von seinem Vattern
-               <lb facs="#facs_105_r2l9" n="N010"/><rs type="person" ref="#wkfm__9008">Andre Mäzinger</rs> untern 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 755 <hi>ausge</hi> ausgesteltes Cautions
-               <lb facs="#facs_105_r2l11" n="N011"/>Instrument <hi>am</hi> N<hi style="superscript">o</hi> 1641 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget <choice><expan/><abbr>pr</abbr></choice> 8000 fl
+               <lb facs="#facs_105_r2l9" n="N010"/><rs type="person" ref="#wkfm__9008">Andre Mäzinger</rs> untern 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 755 <del>ausge</del> ausgesteltes Cautions
+               <lb facs="#facs_105_r2l11" n="N011"/>Instrument <del>am</del> N<hi style="superscript">o</hi> 1641 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget <choice><expan/><abbr>pr</abbr></choice> 8000 fl
             </ab>
             
         </div>

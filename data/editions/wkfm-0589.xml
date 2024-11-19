@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -92,7 +93,7 @@
                <lb facs="#facs_89_r1l5" n="N005"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_89_r1l6" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_89_r1l7" n="N007"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_89_r1l8" n="N008"/>Der <hi><unclear>ha</unclear></hi> <rs type="person" ref="#wkfm__39391">Trenckher</rs> hat zu ausweisung seines Handlungsfundi in obigen 
+               <lb facs="#facs_89_r1l8" n="N008"/>Der <del><unclear>ha</unclear></del> <rs type="person" ref="#wkfm__39391">Trenckher</rs> hat zu ausweisung seines Handlungsfundi in obigen 
                <lb facs="#facs_89_line_1621966823702_4922" n="N010"/>Überlasserin aus eignen Mitln allschon abgeführet habe an dem Contract 5050 fl
                <lb facs="#facs_89_line_1621966804358_4900" n="N011"/>dann an vorhandenen Creditoren 2619 fl
                <lb facs="#facs_89_line_1621966800871_4895" n="N012"/><choice><expan>Summa</expan><abbr>Sa</abbr></choice> 7669 fl

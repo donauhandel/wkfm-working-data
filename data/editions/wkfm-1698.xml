@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -85,7 +86,7 @@
                <lb facs="#facs_240_r1l4" n="N004"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_240_r1l5" n="N005"/><choice><expan/><abbr>Ao:</abbr></choice> 763 hat der <rs type="person" ref="#wkfm__47608">Johann Michael Schönercker</rs> seinen mit der <rs type="person" ref="#wkfm__47611">Maria
                <lb break="no" facs="#facs_240_r1l6" n="N006"/>Anna Walterin</rs> untern 27<hi style="superscript">ten</hi> Marty errichteten Heuraths-Contract
-               <lb facs="#facs_240_r1l7" n="N007"/>eingeleget, worinnen Heurathguth 1000 fl Widerlag <hi>samet</hi> 2000 fl
+               <lb facs="#facs_240_r1l7" n="N007"/>eingeleget, worinnen Heurathguth 1000 fl Widerlag <del>samet</del> 2000 fl
                <lb facs="#facs_240_r1l9" n="N008"/>samt seiner Handlung, und das erwerbend und ererbende Vermögen
                <lb facs="#facs_240_r1l10" n="N009"/>ein gleiches Guth contrahiret worden, Worunter quittiret ist, 
                <lb facs="#facs_240_r1l11" n="N010"/>das er das Heurath Guth <choice><expan/><abbr>pr</abbr></choice> 1000 fl untern 8<hi style="superscript">ten</hi> Marty 758 baar

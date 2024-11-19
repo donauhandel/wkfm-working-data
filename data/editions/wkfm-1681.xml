@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -101,7 +102,7 @@
                <lb facs="#facs_223_r1l11" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_223_r1l12" n="N011"/>Der <rs type="person" ref="#wkfm__47593">Sotschekh</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1758 folgen-
                <lb facs="#facs_223_r1l13" n="N012"/>der maßen ausgewisen, nemlich das er Vermög attestati von <rs type="person" ref="#wkfm__42662">Franz Ig-
-               <lb break="no" facs="#facs_223_r1l15" n="N013"/>naz Kurtz</rs> dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> May 753 N<hi style="superscript">o</hi> 1759 in <choice><expan/><abbr>orig:</abbr></choice> <hi>be</hi> eigenthumlich besize 2700 fl
+               <lb break="no" facs="#facs_223_r1l15" n="N013"/>naz Kurtz</rs> dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> May 753 N<hi style="superscript">o</hi> 1759 in <choice><expan/><abbr>orig:</abbr></choice> <del>be</del> eigenthumlich besize 2700 fl
                <lb facs="#facs_223_r1l16" n="N014"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__42662">Franz Ignaz Kurtz</rs> das <choice><expan/><abbr>orig:</abbr></choice> Caut:
                <lb facs="#facs_223_r1l17" n="N015"/>Instrument dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> May 753 N<hi style="superscript">o</hi> 1760 eingelegt <choice><expan/><abbr>pr</abbr></choice> 5300 fl
                <lb facs="#facs_223_r1l19" n="N016"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -94,7 +95,7 @@
             <pb facs="#facs_247" n="247" xml:id="img_0247" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0301.jpg"/>
             
             <ab facs="#facs_247_r2">
-               <lb facs="#facs_247_r2l2" n="N001"/><hi>147</hi>
+               <lb facs="#facs_247_r2l2" n="N001"/><del>147</del>
                <lb facs="#facs_247_r2l3" n="N002"/>148
                <lb facs="#facs_247_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_247_r2l4" n="N004"/><rs type="person" ref="#wkfm__43992">Blumberger Bernhard</rs> burgerlicher Handlsmann
@@ -108,9 +109,9 @@
                <lb facs="#facs_247_line_1621474067904_5207" n="N012"/>Der <rs type="person" ref="#wkfm__43992">Blumberger</rs> hat seinen Handlungs fundum mitls der Specif: sine dato N<hi style="superscript">o</hi> 1257 folgender gestalten ausgewisen
                <lb facs="#facs_247_line_1621474084762_5222" n="N013"/>nemblich daß er eigenthumlich besize 2811 fl
                <lb facs="#facs_247_r2l16" n="N014"/>zu wessen bekräftigung er das von der <rs type="person" ref="#wkfm__43993">Maria Anna Sartorin</rs> untern
-               <lb facs="#facs_247_r2l17" n="N015"/>6 <choice><expan/><abbr>Aug:</abbr></choice> 753 dahin ausgestelte <choice><expan/><abbr>orig:</abbr></choice> attestatum N<hi style="superscript">o</hi> 1258 <hi>das</hi> eingeleget
+               <lb facs="#facs_247_r2l17" n="N015"/>6 <choice><expan/><abbr>Aug:</abbr></choice> 753 dahin ausgestelte <choice><expan/><abbr>orig:</abbr></choice> attestatum N<hi style="superscript">o</hi> 1258 <del>das</del> eingeleget
                <lb facs="#facs_247_r2l18" n="N016"/>das er <rs type="person" ref="#wkfm__43992">Blumberger</rs> sich wehrender 15 Jahrigen Condition bey ihren Ehewirthen
-               <lb facs="#facs_247_r2l19" n="N017"/>1835 fl erspahret, von ihrem Ehewirthen 500 fl ererbet <hi>welche sich</hi> dann
+               <lb facs="#facs_247_r2l19" n="N017"/>1835 fl erspahret, von ihrem Ehewirthen 500 fl ererbet <del>welche sich</del> dann
                <lb facs="#facs_247_r2l20" n="N018"/>in seinen Geburths Orth an Grundstüken 350 fl und an Verschidenen oblig:
                <lb facs="#facs_247_r2l21" n="N019"/>und Schulden 126 fl zusamen also 2811 eigenthumlich besize, wie auch einen
                <lb facs="#facs_247_r2l22" n="N020"/>vidimirten Extract aus dem Sartorischen testament dd<hi style="superscript">to</hi> <choice><expan/><abbr>8br:</abbr></choice> 752 wegen

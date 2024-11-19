@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -102,14 +103,14 @@
                <lb facs="#facs_131_r1l6" n="N006"/><rs type="person">Perinet und Violland</rs> laut Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Febe:</abbr></choice> 740 N<hi style="superscript">o</hi> 130
                <lb facs="#facs_131_r1l7" n="N007"/><rs type="person">Gebrüder Violland</rs> laut Anbringen de ps: 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 752 N<hi style="superscript">o</hi> 1946
                <lb facs="#facs_131_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_131_r1l9" n="N009"/><hi>Mitls Anbringen de ps: 28<hi style="superscript"/></hi>ten
+               <lb facs="#facs_131_r1l9" n="N009"/><del>Mitls Anbringen de ps: 28<hi style="superscript"/></del>ten
                <lb facs="#facs_131_r1l10" n="N010"/>Mitls Anbringen de ps. 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 740 N<hi style="superscript">o</hi> 130 ist die Firma der Raggion <rs type="person" ref="#wkfm__40012">Berinet und Violland</rs> von beeden
                <lb facs="#facs_131_r1l11" n="N011"/>sociis <rs type="person" ref="#wkfm__4694">Johann Baptiste Perinet</rs> und <rs type="person" ref="#wkfm__43810">Bernhard Franz Violland</rs> eingeleget worden.
-               <lb facs="#facs_131_r1l12" n="N012"/><hi>Mit</hi> Mitls Anbringen de ps: 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 752 N<hi style="superscript">o</hi> 1946 ist die Firma der Raggion <rs type="person" ref="#wkfm__47176">Gebrüeder
+               <lb facs="#facs_131_r1l12" n="N012"/><del>Mit</del> Mitls Anbringen de ps: 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 752 N<hi style="superscript">o</hi> 1946 ist die Firma der Raggion <rs type="person" ref="#wkfm__47176">Gebrüeder
                <lb break="no" facs="#facs_131_r1l13" n="N013"/>Violland</rs> von beeden sociis <rs type="person" ref="#wkfm__43810">Bernhard Franz</rs> und <rs type="person" ref="#wkfm__30391">Franz Violland</rs> eingeleget worden.
                <lb facs="#facs_131_line_1621034403943_237" n="N014"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_131_line_1621034525092_289" n="N015"/>Mitls Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 749 N<hi style="superscript">o</hi> 130 hat der <rs type="person" ref="#wkfm__40012">Perinet und Violland</rs> die von ihnen erlassene <unclear>Oblatoriarium</unclear> einer
-               <lb facs="#facs_131_r1l17" n="N016"/>mit beeder Unterschrift beglaubten Abschrift <unclear>sine</unclear> dato N<hi style="superscript">o</hi> 1099 eingeleget <hi>unt</hi>durch welche selbe kund gemacht
+               <lb facs="#facs_131_r1l17" n="N016"/>mit beeder Unterschrift beglaubten Abschrift <unclear>sine</unclear> dato N<hi style="superscript">o</hi> 1099 eingeleget <del>unt</del>durch welche selbe kund gemacht
                <lb facs="#facs_131_r1l18" n="N017"/>daß, nachdem sich die Raggion <rs type="person" ref="#wkfm__23970">Falquet und Violland</rs> geendiget so hat sich der <rs type="person" ref="#wkfm__4694">Johann Baptiste
                <lb break="no" facs="#facs_131_r1l19" n="N018"/>Perinet</rs> mit dem <rs type="person" ref="#wkfm__43810">Bernhard Franz Violland</rs> associret und werde die Raggion <rs type="person" ref="#wkfm__40012">Berinet und Violland</rs>
                <lb facs="#facs_131_r1l20" n="N019"/>unter beeder Firmirung sezn.

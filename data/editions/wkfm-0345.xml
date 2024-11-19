@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -87,10 +88,10 @@
                <lb facs="#facs_25_r3l5" n="N005"/><rs type="person" ref="#wkfm__47207">Antony Matthias Kircher</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi>
                <lb facs="#facs_25_r3l6" n="N006"/>173
                <lb facs="#facs_25_r3l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_25_r3l8" n="N008"/>Mitls Anbringen de ps: 21<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 928 hat der der <rs type="person" ref="#wkfm__9344">Kircher</rs> die <hi><unclear>auf</unclear></hi>
-               <lb facs="#facs_25_r3l9" n="N009"/>seinen Handlungs Bedienten <rs type="person" ref="#wkfm__46107">Ludwig Adam Lidl</rs> <hi>mith</hi> wehrend seiner des <rs type="person" ref="#wkfm__9344">Kircher</rs>
-               <lb facs="#facs_25_r3l10" n="N010"/>Abwesenheit ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> <hi>J</hi> duti mit beygerukter
-               <lb facs="#facs_25_r3l11" n="N011"/>Firma des <rs type="person" ref="#wkfm__46107">Lidl</rs> <hi>im ore ertheilte Procura in orig:</hi> N<hi style="superscript">o</hi> 927 eingeleget
+               <lb facs="#facs_25_r3l8" n="N008"/>Mitls Anbringen de ps: 21<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 928 hat der der <rs type="person" ref="#wkfm__9344">Kircher</rs> die <del><unclear>auf</unclear></del>
+               <lb facs="#facs_25_r3l9" n="N009"/>seinen Handlungs Bedienten <rs type="person" ref="#wkfm__46107">Ludwig Adam Lidl</rs> <del>mith</del> wehrend seiner des <rs type="person" ref="#wkfm__9344">Kircher</rs>
+               <lb facs="#facs_25_r3l10" n="N010"/>Abwesenheit ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> <del>J</del> duti mit beygerukter
+               <lb facs="#facs_25_r3l11" n="N011"/>Firma des <rs type="person" ref="#wkfm__46107">Lidl</rs> <del>im ore ertheilte Procura in orig:</del> N<hi style="superscript">o</hi> 927 eingeleget
                <lb facs="#facs_25_r3l12" n="N012"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_25_r3l13" n="N013"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

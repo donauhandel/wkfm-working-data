@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -93,14 +94,14 @@
                <lb facs="#facs_193_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_193_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_193_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__43940">Praun</rs> hat zu Ausweisung seines Fundi eine von ihm untern 6<hi style="superscript">ten</hi>
-               <lb facs="#facs_193_line_1621471125615_3734" n="N010"/><choice><expan/><abbr>Febr:</abbr></choice> 738 <hi>dahin gefert</hi> mit dem beysaz gefertigte Inventur N<hi style="superscript">o</hi> 1180 <choice><expan/><abbr>pr</abbr></choice> 3935 fl
+               <lb facs="#facs_193_line_1621471125615_3734" n="N010"/><choice><expan/><abbr>Febr:</abbr></choice> 738 <del>dahin gefert</del> mit dem beysaz gefertigte Inventur N<hi style="superscript">o</hi> 1180 <choice><expan/><abbr>pr</abbr></choice> 3935 fl
                <lb facs="#facs_193_r1l13" n="N011"/>39 x<hi style="superscript">r</hi> an Waaren und activis, daß er zu beschwähren erbittig seye,
                <lb facs="#facs_193_r1l14" n="N012"/>daß dise 3905 fl 39 x<hi style="superscript">r</hi> sein und seiner Ehewirthin eigenes Vermögen
                <lb facs="#facs_193_line_1621471135878_3745" n="N013"/>seyen nebst einer von seiner Ehewirthin <rs type="person" ref="#wkfm__43941">Maria Theresia</rs> untern 6<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice>
                <lb facs="#facs_193_r1l17" n="N014"/>738 ausgestelt certionirten <choice><expan/><abbr>orig:</abbr></choice> Instrument N<hi style="superscript">o</hi> 1181 eingeleget, kraft
                <lb facs="#facs_193_r1l18" n="N015"/>welchen gedacht seine Ehewirthin sich erklährt, daß zumahlen die helfte
-               <lb facs="#facs_193_r1l19" n="N016"/><unclear>vom</unclear> Vermögen ihr eigenthumlich gehört sie <hi>hier</hi>von dem ihrigen 2000 fl
-               <lb facs="#facs_193_r1l20" n="N017"/>dahin gestehlet haben wolle, daß solche <hi>biß zu ga</hi> in casum pessimum
+               <lb facs="#facs_193_r1l19" n="N016"/><unclear>vom</unclear> Vermögen ihr eigenthumlich gehört sie <del>hier</del>von dem ihrigen 2000 fl
+               <lb facs="#facs_193_r1l20" n="N017"/>dahin gestehlet haben wolle, daß solche <del>biß zu ga</del> in casum pessimum
                <lb facs="#facs_193_r1l21" n="N018"/>bis zu gänzlichen befriedigung deren Creditoren haften sollen.
             </ab>
             

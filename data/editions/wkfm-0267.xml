@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -100,7 +101,7 @@
                <lb facs="#facs_213_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_213_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__43956">Daniel Pirnbaum</rs> hat anfangs zu Ausweisung seines fundi ein von
                <lb facs="#facs_213_r1l9" n="N010"/>seiner Compagna <rs type="person" ref="#wkfm__43957">Maria Magdalena Bognerin</rs> dahin ausgestelte Ur-
-               <lb facs="#facs_213_r1l10" n="N011"/>kund <hi>dd<hi style="superscript"/></hi>to
+               <lb facs="#facs_213_r1l10" n="N011"/>kund <del>dd<hi style="superscript"/></del>to
                <lb facs="#facs_213_r1l11" n="N012"/>in die Handlung eingeleget habe dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 740 N<hi style="superscript">o</hi> 1194 in <choice><expan/><abbr>orig:</abbr></choice>
                <lb facs="#facs_213_r1l12" n="N013"/>eingeleget.
                <lb facs="#facs_213_r1l13" n="N014"/>Die weithere Ausweisung aber mitls seiner bekantnus sine dato N<hi style="superscript">o</hi> 1196

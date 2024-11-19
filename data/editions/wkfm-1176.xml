@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -87,7 +88,7 @@
                <lb facs="#facs_76_r1l6" n="N006"/>wehrender Ehe erworben und ererbet wird, alß ein gleiches Gutt pac-
                <lb facs="#facs_76_r1l7" n="N007"/>tiret, dann weithers vorgesehen worden, daß dem überlebenden theil
                <lb facs="#facs_76_r1l8" n="N008"/><gap/> fals keine leztwillige disposition vorhanden wann keine leibs
-               <lb facs="#facs_76_r1l9" n="N009"/>Erben rukgelassen werden die ganze <hi>falß</hi> wann aber leibserben
+               <lb facs="#facs_76_r1l9" n="N009"/>Erben rukgelassen werden die ganze <del>falß</del> wann aber leibserben
                <lb facs="#facs_76_r1l10" n="N010"/>rukgelassen werden die Halbscheid der Verlassenschafft des Verstrobenen
                <lb facs="#facs_76_r1l11" n="N011"/>zufallen solle.
                <lb facs="#facs_76_r1l12" n="N012"/><seg type="orighead__other_notes">Anmerckungen</seg>

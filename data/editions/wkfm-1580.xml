@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -83,8 +84,8 @@
                <lb facs="#facs_122_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 1984 hat sich der <rs type="person" ref="#wkfm__43870">Schränzen-
                <lb break="no" facs="#facs_122_r1l3" n="N003"/>thaller</rs> geäusseret, daß er mit dem <rs type="person" ref="#wkfm__43868">Jacob Ingrueber</rs> in Compagnie
                <lb facs="#facs_122_r1l4" n="N004"/>getretten seye und die Handlung unter der Societaets Raggion <rs type="person" ref="#wkfm__43869">Jacob
-               <lb break="no" facs="#facs_122_r1l5" n="N005"/>Ingrueber et Compagnie</rs> <hi>geset</hi> geführet werden.
-               <lb facs="#facs_122_r1l7" n="N006"/>In obigen Anbringen de ps: 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 732 N<hi style="superscript">o</hi> 2047 hat <hi>sich</hi> der <rs type="person" ref="#wkfm__43870">Schräzen-
+               <lb break="no" facs="#facs_122_r1l5" n="N005"/>Ingrueber et Compagnie</rs> <del>geset</del> geführet werden.
+               <lb facs="#facs_122_r1l7" n="N006"/>In obigen Anbringen de ps: 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 732 N<hi style="superscript">o</hi> 2047 hat <del>sich</del> der <rs type="person" ref="#wkfm__43870">Schräzen-
                <lb break="no" facs="#facs_122_r1l8" n="N007"/>thaller</rs> angezeiget, daß er sich schon vor einiger Zeit von dem <rs type="person" ref="#wkfm__43868">In-
                <lb break="no" facs="#facs_122_r1l9" n="N008"/>grueber</rs> separiret, und die Handlung unter seinem Nahmen allein
                <lb facs="#facs_122_r1l10" n="N009"/>übernohmen habe.

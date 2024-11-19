@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -88,8 +89,8 @@
                <lb facs="#facs_109_r2l5" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_109_r2l6" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_109_r2l7" n="N009"/>Der <rs type="person" ref="#wkfm__47141">Veth</rs> hat zu Ausweisung seines Fundi das von <rs type="person">Maximilian Hochmayr</rs>
-               <lb facs="#facs_109_r2l8" n="N010"/>untern 12<hi style="superscript">ten</hi> Junii 738 <hi>dahin ausa N<hi style="superscript"/></hi>o<choice><expan/><abbr>Orig:</abbr></choice> Caution instru-
-               <lb facs="#facs_109_r2l9" n="N011"/>ment N<hi style="superscript">o</hi> 1430 eingeleget, kraft welchen der <rs type="person" ref="#wkfm__16922">Hochmayr</rs> <hi>sich über</hi> sich ver-
+               <lb facs="#facs_109_r2l8" n="N010"/>untern 12<hi style="superscript">ten</hi> Junii 738 <del>dahin ausa N<hi style="superscript"/></del>o<choice><expan/><abbr>Orig:</abbr></choice> Caution instru-
+               <lb facs="#facs_109_r2l9" n="N011"/>ment N<hi style="superscript">o</hi> 1430 eingeleget, kraft welchen der <rs type="person" ref="#wkfm__16922">Hochmayr</rs> <del>sich über</del> sich ver-
                <lb facs="#facs_109_r2l10" n="N012"/>bindet, über die die von dem <rs type="person" ref="#wkfm__47141">Veth</rs> eigenthumlich besizende 3000 fl <unclear>für</unclear> 5000 fl
                <lb facs="#facs_109_r2l11" n="N013"/>gutt zu stehen.
             </ab>

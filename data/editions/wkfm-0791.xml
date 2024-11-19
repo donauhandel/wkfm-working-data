@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -88,8 +89,8 @@
                <lb facs="#facs_123_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_123_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_123_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_123_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__43798">Ferrari</rs> hat <unclear><hi>s</hi>e</unclear> zu Ausweisung seines Fundi das von dem <rs type="person" ref="#wkfm__15300">Johann
-               <lb break="no" facs="#facs_123_r1l9" n="N010"/>Anton Bormastini</rs> <hi>dd<hi style="superscript"/></hi>to<seg type="editorial_comment_seg"><unclear>Moroco</unclear><note type="editorial_comment_note">vermutl. eine Ortsangabe</note></seg> den 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 742 <hi>N<hi style="superscript"/></hi>o
+               <lb facs="#facs_123_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__43798">Ferrari</rs> hat <unclear><del>s</del>e</unclear> zu Ausweisung seines Fundi das von dem <rs type="person" ref="#wkfm__15300">Johann
+               <lb break="no" facs="#facs_123_r1l9" n="N010"/>Anton Bormastini</rs> <del>dd<hi style="superscript"/></del>to<seg type="editorial_comment_seg"><unclear>Moroco</unclear><note type="editorial_comment_note">vermutl. eine Ortsangabe</note></seg> den 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 742 <del>N<hi style="superscript"/></del>o
                <lb facs="#facs_123_r1l10" n="N011"/>stelte <choice><expan/><abbr>orig.</abbr></choice> attestatum N<hi style="superscript">o</hi> 1433 eingeleget, daß er <rs type="person" ref="#wkfm__43798">Ferrari</rs> von seinem
                <lb facs="#facs_123_r1l11" n="N012"/>Oheim <rs type="person" ref="#wkfm__47164">Joseph Carl Bormastini</rs> 7690 fl ererbet, und er <rs type="person" ref="#wkfm__15300">Bormastini</rs>
                <lb facs="#facs_123_r1l12" n="N013"/>ihm diese Summam ausgezahlet habe.

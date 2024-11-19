@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -88,9 +89,9 @@
                <lb facs="#facs_124_r1l8" n="N006"/>lag auf Überleben, dann jenes was wehrender Ehe erworben und Ererbet wird
                <lb facs="#facs_124_r1l9" n="N007"/>als ein gleiches gutt stipuliret und weithers vorgesehen worden, daß die Braut
                <lb facs="#facs_124_r1l10" n="N008"/>dem Bräutigam ihr übriges Vermögen mit 8000 fl alß ein Parapheral-Gutt
-               <lb facs="#facs_124_r1l11" n="N009"/>unterthänig machen, <hi>und</hi> <gap/> <hi>ain</hi> minder falß ein theil ohne leibs Erben
+               <lb facs="#facs_124_r1l11" n="N009"/>unterthänig machen, <del>und</del> <gap/> <del>ain</del> minder falß ein theil ohne leibs Erben
                <lb facs="#facs_124_r1l12" n="N010"/>und leztwilliger dysposition versterben würde, dem überlebenden alles
-               <lb facs="#facs_124_r1l13" n="N011"/>bis auf 3000 fl in <hi>halb</hi> 3 Jährigen ratis abzuführen samt der Handlungs Ge-
+               <lb facs="#facs_124_r1l13" n="N011"/>bis auf 3000 fl in <del>halb</del> 3 Jährigen ratis abzuführen samt der Handlungs Ge-
                <lb facs="#facs_124_r1l14" n="N012"/>rechtigkeit eigenthumlich verbleiben solle.
                <lb facs="#facs_124_r1l15" n="N013"/><seg type="orighead__other_notes">Anmerckungen</seg>
             </ab>

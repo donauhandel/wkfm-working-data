@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -102,7 +103,7 @@
                <lb facs="#facs_137_r1l16" n="N014"/>an baaren, Silber und fahrnußen 500 fl
                <lb facs="#facs_137_r1l17" n="N015"/>zusamen Eigenthum 3500 fl
                <lb facs="#facs_137_r1l19" n="N016"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__46571">Joseph Maria Riva</rs> das <choice><expan/><abbr>orig:</abbr></choice>
-               <lb facs="#facs_137_r1l20" n="N017"/>Caut: Instrument <hi>N<hi style="superscript"/></hi>o<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 754 N<hi style="superscript">o</hi> 1551 eingeleget <choice><expan/><abbr>pr</abbr></choice> 500 fl
+               <lb facs="#facs_137_r1l20" n="N017"/>Caut: Instrument <del>N<hi style="superscript"/></del>o<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 754 N<hi style="superscript">o</hi> 1551 eingeleget <choice><expan/><abbr>pr</abbr></choice> 500 fl
                <lb facs="#facs_137_r1l21" n="N018"/><choice><expan/><abbr>Sa</abbr></choice> 4000 fl
                <lb facs="#facs_137_r1l23" n="N019"/>Hiebey befinden sich ein Decret und zwey Anbringen wegen aufnehmung des Supl:
                <lb facs="#facs_137_r1l25" n="N020"/>N<hi style="superscript">o</hi> 1552, 1553 et 1554.

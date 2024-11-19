@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -94,7 +95,7 @@
                <lb facs="#facs_103_r2l9" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_103_r2l10" n="N010"/>Der <rs type="person" ref="#wkfm__46942">Munier</rs> hat zu ausweisung seines handlungsfundi den Extract
                <lb facs="#facs_103_r2l11" n="N011"/>aus seines Vatters untern 18<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 749 errichtet und untern 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 750
-               <lb facs="#facs_103_r2l13" n="N012"/>publicirten testament in vidimus N<hi style="superscript">o</hi> 1637 eingeleget kraft welchen <hi>s</hi> er selber §
+               <lb facs="#facs_103_r2l13" n="N012"/>publicirten testament in vidimus N<hi style="superscript">o</hi> 1637 eingeleget kraft welchen <del>s</del> er selber §
                <lb facs="#facs_103_r2l14" n="N013"/>16t<hi style="superscript">ens</hi> zum universal Erben gedacht seines Vatters instituiret worden
                <lb facs="#facs_103_r2l15" n="N014"/>wie auch eine von denen Vorstehern des burgerlichen Handlsstands untern 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice>
                <lb facs="#facs_103_r2l16" n="N015"/>753 angesteltes attestatum N<hi style="superscript">o</hi> 1638 das er <rs type="person" ref="#wkfm__46942">Munier</rs> mehr dann den Institut-

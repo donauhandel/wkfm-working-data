@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -92,7 +93,7 @@
                <lb facs="#facs_86_r1l11" n="N009"/>oder ererbet wird alß ein gleiches Gut stipuliret dann weithers vorgesehen
                <lb facs="#facs_86_r1l12" n="N010"/>worden, daß die Braut dem Bräutigam ihr Vätterliches zu besserer fort-
                <lb facs="#facs_86_r1l13" n="N011"/>pflanzung seiner Handlung behändigen, und falß ein Theil durch <unclear>jählichen Tod</unclear>
-               <lb facs="#facs_86_r1l14" n="N012"/>versturben <hi><unclear>sol</unclear></hi> dem überlebenden die Helfte des Vermögens mit aus-
+               <lb facs="#facs_86_r1l14" n="N012"/>versturben <del><unclear>sol</unclear></del> dem überlebenden die Helfte des Vermögens mit aus-
                <lb facs="#facs_86_r1l15" n="N013"/>schlüssung deren Mobilien zufallen solle.
                <lb facs="#facs_86_r1l16" n="N014"/><seg type="orighead__other_notes">Anmerckungen</seg>
             </ab>

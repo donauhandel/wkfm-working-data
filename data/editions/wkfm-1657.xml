@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -91,13 +92,13 @@
                <lb facs="#facs_199_r1l4" n="N005"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_199_r1l5" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_199_r1l7" n="N007"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_199_r1l8" n="N008"/>Der <rs type="person" ref="#wkfm__47564">Schneller</rs> hat seinen Handlungs Fundum folgendermaßen <hi><unclear>ausgewisen</unclear></hi>
+               <lb facs="#facs_199_r1l8" n="N008"/>Der <rs type="person" ref="#wkfm__47564">Schneller</rs> hat seinen Handlungs Fundum folgendermaßen <del><unclear>ausgewisen</unclear></del>
                <lb facs="#facs_199_r1l9" n="N009"/>mitls der von <gap/> ihm untern 24<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 748 beeydigten Specification N<hi style="superscript">o</hi> 1735
                <lb facs="#facs_199_r1l10" n="N010"/>ausgewisen nemlich das er Eigenthumlich besize an Vätterlichen 2500 fl
-               <lb facs="#facs_199_r1l12" n="N011"/><hi><unclear>int</unclear></hi> an <choice><expan/><abbr>intee</abbr></choice> hievon auf 16 Jahr 2000 fl
+               <lb facs="#facs_199_r1l12" n="N011"/><del><unclear>int</unclear></del> an <choice><expan/><abbr>intee</abbr></choice> hievon auf 16 Jahr 2000 fl
                <lb facs="#facs_199_r1l14" n="N012"/>von seiner Mutter, wie selbe zur zweyten Ehe geschritten 1000 fl
                <lb facs="#facs_199_r1l16" n="N013"/><unclear>an</unclear> <choice><expan/><abbr>intee</abbr></choice> hievon auf 12 Jahr 600 fl
-               <lb facs="#facs_199_r1l18" n="N014"/>an erspahrten salario <hi>1</hi>900 fl
+               <lb facs="#facs_199_r1l18" n="N014"/>an erspahrten salario <del>1</del>900 fl
                <lb facs="#facs_199_r1l20" n="N015"/>an Schwesterlichen Erbtheil 1050 fl
                <lb facs="#facs_199_r1l22" n="N016"/>von seiner Mutter 1000 fl
                <lb facs="#facs_199_r1l24" n="N017"/><choice><expan/><abbr>Sa</abbr></choice> 9050 fl

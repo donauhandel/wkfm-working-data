@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -86,7 +87,7 @@
                <lb facs="#facs_3_r2l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_3_r2l7" n="N007"/>In obigen Anbringen de ps: 20 <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 957 hat sich der <rs type="person" ref="#wkfm__8957">Eggendorfer</rs> erklähret
                <lb facs="#facs_3_r2l8" n="N008"/>das er seinem Sohn <rs type="person" ref="#wkfm__25088">Joseph</rs> die Procura in und ausser dem Plaz ertheilet
-               <lb facs="#facs_3_r2l9" n="N009"/>habe, und von selben die Firma, wie beygeruket <hi>gef</hi> zugleich geführet werde.
+               <lb facs="#facs_3_r2l9" n="N009"/>habe, und von selben die Firma, wie beygeruket <del>gef</del> zugleich geführet werde.
                <lb facs="#facs_3_r2l10" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_3_r2l11" n="N011"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

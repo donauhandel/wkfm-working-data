@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -87,7 +88,7 @@
                <lb facs="#facs_119_r1l6" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_119_r1l7" n="N009"/>Der <rs type="person" ref="#wkfm__47154">Fliesser</rs> hat zu Ausweisung seines Fundi das von seiner
                <lb facs="#facs_119_r1l8" n="N010"/>Ehewirthin <rs type="person" ref="#wkfm__47155">Maria Magdalena Plankhin</rs> ausgestelte <choice><expan/><abbr>orig:</abbr></choice> <seg type="editorial_comment_seg">Cortiorirte<note type="editorial_comment_note">wahrscheinlich Certiorirte</note></seg>
-               <lb facs="#facs_119_r1l9" n="N011"/>Cautions Instrument dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 740 N<hi style="superscript">o</hi> 1432 <hi>in</hi> eingeleget <choice><expan/><abbr>pr</abbr></choice> 4000 fl
+               <lb facs="#facs_119_r1l9" n="N011"/>Cautions Instrument dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 740 N<hi style="superscript">o</hi> 1432 <del>in</del> eingeleget <choice><expan/><abbr>pr</abbr></choice> 4000 fl
             </ab>
             
         </div>

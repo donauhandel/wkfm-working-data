@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -112,8 +113,8 @@
                <lb facs="#facs_141_r2l25" n="N020"/>Dann haben der <rs type="person" ref="#wkfm__24742">Johann Benedict Cescotti</rs> und <rs type="person" ref="#wkfm__46157">Jacob Radlio</rs> das <choice><expan/><abbr>orig:</abbr></choice> Cautions-
                <lb facs="#facs_141_r2l26" n="N021"/>Instrument dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> May 743 N<hi style="superscript">o</hi> 1305 dahin eingeleget, daß sie in solang alß
                <lb facs="#facs_141_r2l27" n="N022"/>der <rs type="person" ref="#wkfm__46156">Chiacino</rs> wegen überkommenen vätterlich und Mütterlichen Erbgutt <choice><expan/><abbr>pr</abbr></choice> 7000 fl die behörig
-               <lb facs="#facs_141_r2l29" n="N023"/>legitimation nicht beygebracht haben wird, sie für diese 7000 fl hafften wollen <hi>einge-</hi>
-               <lb facs="#facs_141_r2l28" n="N024"/><hi>leget</hi>
+               <lb facs="#facs_141_r2l29" n="N023"/>legitimation nicht beygebracht haben wird, sie für diese 7000 fl hafften wollen <del>einge-</del>
+               <lb facs="#facs_141_r2l28" n="N024"/><del>leget</del>
             </ab>
             
         </div>

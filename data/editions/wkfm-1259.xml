@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -98,7 +99,7 @@
                <lb facs="#facs_75_r1l12" n="N012"/>samt Heurath Gutt eigenthumlich Verbleiben 5200 fl
                <lb facs="#facs_75_r1l14" n="N013"/>nebst einem von seiner Ehewirthin <rs type="person" ref="#wkfm__46912">Sara Maria</rs> untern 11<hi style="superscript">ten</hi>
                <lb facs="#facs_75_r1l15" n="N014"/><choice><expan/><abbr>Apr:</abbr></choice> 737 dahin ausgesteltes <choice><expan/><abbr>orig:</abbr></choice> <seg type="editorial_comment_seg">Cortiorirten<note type="editorial_comment_note">wahrscheinlich Certiorirten</note></seg> Instrument N<hi style="superscript">o</hi>
-               <lb facs="#facs_75_r1l16" n="N015"/>1604 daß sie wie sie sich <hi>verbunden</hi> neben in die Handlung legen wolle 3500 fl
+               <lb facs="#facs_75_r1l16" n="N015"/>1604 daß sie wie sie sich <del>verbunden</del> neben in die Handlung legen wolle 3500 fl
                <lb facs="#facs_75_r1l17" n="N016"/>und andere hieran noch an denen von ihren Ehewirthen alldahin gelegten
                <lb facs="#facs_75_r1l18" n="N017"/><seg type="editorial_comment_seg"><unclear>4000</unclear><note type="editorial_comment_note">übereinander 4000 und 4500 geschrieben</note></seg> vor befridigung deren Creditoren etwas praetendiren wollen
                <lb facs="#facs_75_r1l20" n="N018"/><choice><expan/><abbr>Sa</abbr></choice> 8700 fl

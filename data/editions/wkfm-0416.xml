@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -89,10 +90,10 @@
                <lb facs="#facs_96_r1l6" n="N006"/>den mit der <rs type="person" ref="#wkfm__46129">Maria Theresia Bandianin</rs> untern 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 743 abge-
                <lb facs="#facs_96_r1l7" n="N007"/>schlossenen Heurathscontract <hi style="text-decoration: underline;">dd<hi style="text-decoration: underline; superscript"/></hi>to<hi style="superscript">o</hi> 2124 eingeleget
                <lb facs="#facs_96_r1l8" n="N008"/>krafft welchen 1000 fl Heurathgutt und 2000 fl nebst der Handlung und 
-               <lb facs="#facs_96_r1l9" n="N009"/>Gerechtigkeit alß Widerlag auf überleben, <hi>stipuliren</hi> dann <hi><unclear>pro</unclear></hi> jenes
+               <lb facs="#facs_96_r1l9" n="N009"/>Gerechtigkeit alß Widerlag auf überleben, <del>stipuliren</del> dann <del><unclear>pro</unclear></del> jenes
                <lb facs="#facs_96_r1l10" n="N010"/>was der Bräutigam von seinen Vermögen pr 10600 fl über abzug des <unclear>Mütterl:</unclear>
                <lb facs="#facs_96_r1l11" n="N011"/>Erbantheils der Kinder ersterer Ehe <unclear>eroberen</unclear> oder ererben <unclear>werde</unclear>
-               <lb facs="#facs_96_r1l12" n="N012"/>alß ein gleiches Gutt, <hi>Stip</hi> und für die Braut in Casum intestati
+               <lb facs="#facs_96_r1l12" n="N012"/>alß ein gleiches Gutt, <del>Stip</del> und für die Braut in Casum intestati
                <lb facs="#facs_96_r1l13" n="N013"/>ein Kindstheil stipuliret worden.
                <lb facs="#facs_96_r1l14" n="N014"/><seg type="orighead__other_notes">Anmerckungen</seg>
             </ab>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -93,7 +94,7 @@
             
             <ab facs="#facs_44_r1">
                <lb facs="#facs_44_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_44_line_1621280750573_88" n="N002"/><hi>0</hi>
+               <lb facs="#facs_44_line_1621280750573_88" n="N002"/><del>0</del>
                <lb facs="#facs_44_r1l2" n="N003"/><seg type="editorial_comment_seg">Vermög Anbringen de ps<hi style="superscript">to</hi> 12: März 778 hat <rs type="person" key=", Nicht in die Datenbank aufgenommen">Johann Michael Rudolph</rs> des äusseren<note type="editorial_comment_note">Der Text gehört nicht in diese Rubrik, sondern schließt an das Einfügungszeichen unter Anmerkungen an!</note></seg>
                <lb facs="#facs_44_r1l3" n="N004"/>Raths als <unclear><choice><expan>Wahrscheinlich gerichtlich</expan><abbr>ghst</abbr></choice>. </unclear>aufgestellter Curator der <rs type="person" ref="#wkfm__43799"><unclear>Ma.</unclear> Anna Aufner</rs> und derselben Kinder
                <lb facs="#facs_44_r1l4" n="N005"/>Gerhab angezeiget, daß, da des <rs type="person" ref="#wkfm__43799">Joseph Aufner <choice><expan/><abbr>seel.</abbr></choice> ruckgelassenen Wittwe</rs> mit 
@@ -116,7 +117,7 @@
                <lb facs="#facs_44_r1l22" n="N022"/>angezeiget, daß sie diese Handlung unter der <rs type="person" ref="#wkfm__46599">Firma Aufner <choice><expan/><abbr>seel:</abbr></choice>
                <lb break="no" facs="#facs_44_r1l23" n="N023"/>Wittib</rs> fortführen werde, und hat diese ihre Firma dieser An-
                <lb facs="#facs_44_r1l24" n="N024"/>zeige sub A beygelegt.
-               <lb facs="#facs_44_r1l25" n="N025"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Einfügezeichen, Fortseztung des Textes oben in der Rubrik Societaets Contract und Interessenten</note></seg>
+               <lb facs="#facs_44_r1l25" n="N025"/><seg type="editorial_comment_seg"><del>0</del><note type="editorial_comment_note">Einfügezeichen, Fortseztung des Textes oben in der Rubrik Societaets Contract und Interessenten</note></seg>
             </ab>
             
         </div>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -94,7 +95,7 @@
                <lb facs="#facs_155_r1l10" n="N011"/>Kircher, nachdem er entschlossen die Handlung gänzlich abzutretten
                <lb facs="#facs_155_r1l11" n="N012"/>und seinen Sohn <rs type="person" ref="#wkfm__46108">Joseph</rs> seinen Schwigersohn J<rs type="person" ref="#wkfm__41599">ohann Peter Togniola</rs>
                <lb facs="#facs_155_r1l12" n="N013"/>in selber zu associren alß wolle er respecta gedacht seines Sohns
-               <lb facs="#facs_155_line_1621962430328_3030" n="N014"/>hafften <hi>für</hi> <choice><expan/><abbr>pr</abbr></choice> 8000 fl
+               <lb facs="#facs_155_line_1621962430328_3030" n="N014"/>hafften <del>für</del> <choice><expan/><abbr>pr</abbr></choice> 8000 fl
             </ab>
             
         </div>

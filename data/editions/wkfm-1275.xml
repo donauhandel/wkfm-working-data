@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -96,7 +97,7 @@
                <lb facs="#facs_91_r1l7" n="N007"/><rs type="person" ref="#wkfm__46929">Joseph Mayer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 593 welche derselbe mitls
                <lb facs="#facs_91_r1l8" n="N008"/>Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 756 N<hi style="superscript">o</hi> 594 eingeleget
                <lb facs="#facs_91_r1l9" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_91_r1l10" n="N010"/>In obiger Erklährung <hi>ist die</hi> sine dato N<hi style="superscript">o</hi> 586 ist die <hi>C</hi> Firma der Raggion
+               <lb facs="#facs_91_r1l10" n="N010"/>In obiger Erklährung <del>ist die</del> sine dato N<hi style="superscript">o</hi> 586 ist die <del>C</del> Firma der Raggion
                <lb facs="#facs_91_r1l12" n="N011"/><rs type="person" ref="#wkfm__46728">Rebay und Mayer</rs> von beeden sociis <rs type="person" ref="#wkfm__46729">Joseph Mayer</rs> und <rs type="person" ref="#wkfm__29325">Johann Heinrich Rebay</rs> einge-
                <lb facs="#facs_91_r1l13" n="N012"/>leget worden
                <lb facs="#facs_91_r1l14" n="N013"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> Junii 747 N<hi style="superscript">o</hi> 2005 ist die Firma der Raggion
@@ -105,7 +106,7 @@
                <lb facs="#facs_91_r1l17" n="N016"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_91_r1l18" n="N017"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_91_r1l19" n="N018"/>Der <rs type="person" ref="#wkfm__46729">Mayer</rs> hat zu ausweisung seines Fundi die <choice><expan/><abbr>orig:</abbr></choice> Billanz dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi>
-               <lb facs="#facs_91_r1l20" n="N019"/><choice><expan/><abbr>8br:</abbr></choice> 743 N<hi style="superscript">o</hi> 1624 eingeleget und solche untern <hi>8</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 744 beyediget
+               <lb facs="#facs_91_r1l20" n="N019"/><choice><expan/><abbr>8br:</abbr></choice> 743 N<hi style="superscript">o</hi> 1624 eingeleget und solche untern <del>8</del> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 744 beyediget
                <lb facs="#facs_91_r1l21" n="N020"/>an avanzo ein Eigenthum <choice><expan/><abbr>pr</abbr></choice> 6357 fl 40 x<hi style="superscript">r</hi>
             </ab>
             

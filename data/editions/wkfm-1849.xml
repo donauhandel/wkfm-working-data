@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -87,7 +88,7 @@
             <pb facs="#facs_19" n="19" xml:id="img_0019" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1849.jpg"/>
             
             <ab facs="#facs_19_r2" type="page-number">
-               <lb facs="#facs_19_r2l1" n="N001"/><hi>899</hi>
+               <lb facs="#facs_19_r2l1" n="N001"/><del>899</del>
                <lb facs="#facs_19_r2l2" n="N002"/>917
                <lb facs="#facs_19_r2l3" n="N003"/>917
             </ab>
@@ -103,7 +104,7 @@
                <lb facs="#facs_19_r1l12" n="N009"/>unter 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 747 ausgesteltes attestatum N<hi style="superscript">o</hi> 1840 das er <rs type="person" ref="#wkfm__43865">Zacher</rs> eigenthumlich
                <lb facs="#facs_19_r1l13" n="N010"/>erworben 2000 fl
                <lb facs="#facs_19_r1l16" n="N011"/>zu Completirung des übrigen hat die <rs type="person" ref="#wkfm__43866">Anna Maria Asolin</rs> das <choice><expan/><abbr>orig:</abbr></choice>
-               <lb facs="#facs_19_r1l17" n="N012"/><hi>Caut</hi> <unclear>Certiorirte</unclear> Cautions Instrument dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 747 N<hi style="superscript">o</hi>
+               <lb facs="#facs_19_r1l17" n="N012"/><del>Caut</del> <unclear>Certiorirte</unclear> Cautions Instrument dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 747 N<hi style="superscript">o</hi>
                <lb facs="#facs_19_r1l18" n="N013"/>1841 eingelegt <choice><expan/><abbr>pr</abbr></choice> 2000 fl
                <lb facs="#facs_19_r1l21" n="N014"/><choice><expan>Summa</expan><abbr>Sa</abbr></choice> 4000 fl
             </ab>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -99,7 +100,7 @@
                <lb facs="#facs_95_r2l13" n="N013"/><rs type="person" ref="#wkfm__47082">Joseph</rs> untern 1<hi style="superscript">ten</hi> errichtet und unter 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 736 publicirten testament
                <lb facs="#facs_95_r2l14" n="N014"/>einen <unclear>Vidimirten</unclear> Extract N<hi style="superscript">o</hi> 1417 eingeleget kraft welchen selber ihm <rs type="person" ref="#wkfm__47125">Franz
                <lb break="no" facs="#facs_95_r2l15" n="N015"/>Thomas Uhl</rs> <unclear>8<hi style="superscript">va</hi> 5<hi style="superscript">ta</hi></unclear> die ganze Handlung ohne einigen Anspruch nebst 1500 fl
-               <lb facs="#facs_95_r2l16" n="N016"/><unclear>legiret</unclear> <hi><unclear>hat.</unclear></hi>
+               <lb facs="#facs_95_r2l16" n="N016"/><unclear>legiret</unclear> <del><unclear>hat.</unclear></del>
             </ab>
             
         </div>

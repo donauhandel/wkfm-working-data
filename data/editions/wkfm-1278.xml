@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -81,8 +82,8 @@
                <lb facs="#facs_94_r1l3" n="N003"/>Mitls Anbringen de ps: 14<hi style="superscript">ten</hi> Junii 745 N<hi style="superscript">o</hi> 2198 hat der <rs type="person" ref="#wkfm__46930">Müllnitsch</rs> den mit der <rs type="person" ref="#wkfm__46931">Maria Anna Theresia
                <lb break="no" facs="#facs_94_r1l4" n="N004"/>Winklerin</rs> untern 5<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 744 abgeschlossenen Heuraths Contract N<hi style="superscript">o</hi> 2197 in Copia vidimata
                <lb facs="#facs_94_r1l5" n="N005"/>eingeleget kraft welchen 2000 fl heuratgutt nebst 4000 fl Widerlag auf überleben dann jenes
-               <lb facs="#facs_94_r1l6" n="N006"/>was wehrender Ehe erworben oder ererbet wird alß ein gleiches Gutt stipuliret <hi>werden</hi> anbey vorge-
-               <lb facs="#facs_94_r1l7" n="N007"/>sehen worden, daß falß der Bräutigam vor der Braut versterben <hi>so</hi> würde die Handlung der
+               <lb facs="#facs_94_r1l6" n="N006"/>was wehrender Ehe erworben oder ererbet wird alß ein gleiches Gutt stipuliret <del>werden</del> anbey vorge-
+               <lb facs="#facs_94_r1l7" n="N007"/>sehen worden, daß falß der Bräutigam vor der Braut versterben <del>so</del> würde die Handlung der
                <lb facs="#facs_94_r1l8" n="N008"/>Braut eigenthumlich zufallen solle.
                <lb facs="#facs_94_r1l9" n="N009"/><seg type="orighead__other_notes">Anmerckungen</seg>
             </ab>

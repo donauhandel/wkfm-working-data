@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -96,9 +97,9 @@
                <lb facs="#facs_5_r2l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_5_r2l9" n="N009"/>Mitls Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1987 hat der <rs type="person" ref="#wkfm__3658">Luz</rs> das er seinen Compagnon <rs type="person" ref="#wkfm__9686">Bonaventura Riesch</rs> die
                <lb facs="#facs_5_r2l10" n="N010"/>Firma ertheilet habe mit beygerukter firma des <rs type="person" ref="#wkfm__9686">Riesch</rs> angezeiget 
-               <lb facs="#facs_5_r2l11" n="N011"/>Mitls Anbringen de ps: 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 728 N<hi style="superscript">o</hi> 1988 hat der <rs type="person" ref="#wkfm__3658">Luz</rs> <hi>angezeiget</hi> daß die societaet mit dem <rs type="person" ref="#wkfm__9686">Riesch</rs>
+               <lb facs="#facs_5_r2l11" n="N011"/>Mitls Anbringen de ps: 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 728 N<hi style="superscript">o</hi> 1988 hat der <rs type="person" ref="#wkfm__3658">Luz</rs> <del>angezeiget</del> daß die societaet mit dem <rs type="person" ref="#wkfm__9686">Riesch</rs>
                <lb facs="#facs_5_r2l12" n="N012"/>gänzlichen dissolvirert seye und er das negotium unter seiner Firma allein führen, angezeiget.
-               <lb facs="#facs_5_r2l13" n="N013"/>Mitls anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 729 N<hi style="superscript">o</hi> 1008 hat der <rs type="person" ref="#wkfm__3658">Luz</rs> dem <rs type="person" ref="#wkfm__46779">Johann Leonhard Spengelin</rs> <hi>die</hi> wehrend seiner Abwe-
+               <lb facs="#facs_5_r2l13" n="N013"/>Mitls anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 729 N<hi style="superscript">o</hi> 1008 hat der <rs type="person" ref="#wkfm__3658">Luz</rs> dem <rs type="person" ref="#wkfm__46779">Johann Leonhard Spengelin</rs> <del>die</del> wehrend seiner Abwe-
                <lb facs="#facs_5_r2l14" n="N014"/>senheit die beständige procura ertheilet, auch die Firma des <rs type="person" ref="#wkfm__46779">Spengelin</rs> beygeruket
                <lb facs="#facs_5_r2l16" n="N015"/>Mitls Anbringen de ps: 5<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 740 N<hi style="superscript">o</hi> 1018 hat der <rs type="person" ref="#wkfm__3658">Luz</rs> die den <rs type="person" ref="#wkfm__46780">Matthias Thomann</rs> wehrend seiner Abwesen-
                <lb facs="#facs_5_r2l17" n="N016"/>heit untern 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 740 ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura mit beygerukter firma des <rs type="person" ref="#wkfm__46780">Thomann</rs> N<hi style="superscript">o</hi> 1017 eingeleget

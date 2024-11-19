@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -92,7 +93,7 @@
                <lb facs="#facs_83_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_83_r1l7" n="N007"/>In obigen Anbringen de ps: 27<hi style="superscript">ten</hi> Julii 730 N<hi style="superscript">o</hi> 2043 ist die Firma der Raggion <rs type="person" ref="#wkfm__19149">Wilkens und Bosquet</rs> von dem <rs type="person" ref="#wkfm__9118">Bos-
                <lb break="no" facs="#facs_83_r1l8" n="N008"/>quet</rs> eingeleget worden.
-               <lb facs="#facs_83_r1l10" n="N009"/>Mitls Anbringen de ps: 28<hi style="superscript">ten</hi> Julii 733 N<hi style="superscript">o</hi> 1080 hat der <rs type="person" ref="#wkfm__47011">Christian <hi>Wil</hi> Wimber</rs> die ihm von <rs type="person" ref="#wkfm__19149">Wilkens
+               <lb facs="#facs_83_r1l10" n="N009"/>Mitls Anbringen de ps: 28<hi style="superscript">ten</hi> Julii 733 N<hi style="superscript">o</hi> 1080 hat der <rs type="person" ref="#wkfm__47011">Christian <del>Wil</del> Wimber</rs> die ihm von <rs type="person" ref="#wkfm__19149">Wilkens
                <lb break="no" facs="#facs_83_r1l11" n="N010"/>und Bosquet</rs> ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura dd<hi style="superscript">to</hi> 21<hi style="superscript">ten</hi> Julii 733 N<hi style="superscript">o</hi> 1079 eingeleget
                <lb facs="#facs_83_r1l12" n="N011"/>Mitls Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 734 N<hi style="superscript">o</hi> 1082 hat <rs type="person" ref="#wkfm__19149">Wilkens und Bosquet</rs> die ihrem bedienten
                <lb facs="#facs_83_r1l13" n="N012"/><rs type="person" ref="#wkfm__47012">Franz Joseph Cornelißen</rs> untern 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 734 ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura N<hi style="superscript">o</hi> 1081 einge-

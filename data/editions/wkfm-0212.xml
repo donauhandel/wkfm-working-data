@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -85,7 +86,7 @@
                <lb facs="#facs_158_r1l5" n="N005"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 733 N<hi style="superscript">o</hi> 1937 hat der <rs type="person" ref="#wkfm__21998">Peter Vernay</rs>
                <lb facs="#facs_158_r1l6" n="N006"/>angezeiget, daß er sich den 17<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 733 von dem <rs type="person" ref="#wkfm__43912">Ferdinand Pörner</rs>
                <lb facs="#facs_158_r1l7" n="N007"/>separiret habe, wie dann auch der <rs type="person" ref="#wkfm__43912">Pörner</rs> mitls Anbringen de ps:
-               <lb facs="#facs_158_r1l8" n="N008"/>10<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 1863 seine Firma <hi><unclear>al</unclear></hi> <rs type="person" ref="#wkfm__47348">Ferdinand Pörner</rs> allein
+               <lb facs="#facs_158_r1l8" n="N008"/>10<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 1863 seine Firma <del><unclear>al</unclear></del> <rs type="person" ref="#wkfm__47348">Ferdinand Pörner</rs> allein
                <lb facs="#facs_158_r1l9" n="N009"/>eingeleget.
                <lb facs="#facs_158_r1l10" n="N010"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_158_r1l11" n="N011"/><seg type="orighead__other_notes">Anmerkungen</seg>

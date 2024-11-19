@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -89,7 +90,7 @@
             <pb facs="#facs_151" n="151" xml:id="img_0151" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1609.jpg"/>
             
             <ab facs="#facs_151_r1">
-               <lb facs="#facs_151_r1l3" n="N001"/><hi>798</hi>
+               <lb facs="#facs_151_r1l3" n="N001"/><del>798</del>
                <lb facs="#facs_151_r1l4" n="N002"/>797
                <lb facs="#facs_151_r1l2" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_151_r1l5" n="N004"/><rs type="person" ref="#wkfm__47182">Scholz Balthasar Sigmund</rs> kay: könig: Niderlags Verwanter
@@ -103,8 +104,8 @@
                <lb break="no" facs="#facs_151_r1l13" n="N012"/>Sigmund Scholz</rs> und <rs type="person" ref="#wkfm__47181">Carl Heinrich Tittel</rs> kund gemacht, und mit selben ein-
                <lb facs="#facs_151_r1l14" n="N013"/>geleget worden.
                <lb facs="#facs_151_r1l15" n="N014"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_151_r1l16" n="N015"/><hi>Mitls oblatorien dd<hi style="superscript"/></hi>to
-               <lb facs="#facs_151_r1l17" n="N016"/>Der <rs type="person" ref="#wkfm__47182">Balthasar Sigmund Scholz</rs> hat die <choice><expan/><abbr><hi>orig:</hi></abbr></choice> oblatorien untern 25<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 747
+               <lb facs="#facs_151_r1l16" n="N015"/><del>Mitls oblatorien dd<hi style="superscript"/></del>to
+               <lb facs="#facs_151_r1l17" n="N016"/>Der <rs type="person" ref="#wkfm__47182">Balthasar Sigmund Scholz</rs> hat die <choice><expan/><abbr><del>orig:</del></abbr></choice> oblatorien untern 25<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 747
                <lb facs="#facs_151_r1l18" n="N017"/>N<hi style="superscript">o</hi> 1147 in <choice><expan/><abbr>orig:</abbr></choice> dahin erlassen, das nachdem er sein negotium durch etwelche
                <lb facs="#facs_151_r1l19" n="N018"/>zwanzig Jahre allein continuiert, er bey seinen zunehmenden Alter aber
                <lb facs="#facs_151_r1l20" n="N019"/>nunmehro seinen Tochter Mann <rs type="person" ref="#wkfm__47181">Carl Heinrich Tittel</rs> in Compagnie zu nehmen

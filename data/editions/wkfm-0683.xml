@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -85,7 +86,7 @@
                <lb facs="#facs_15_r2l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_15_r2l6" n="N007"/>In obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1933 ist die Firma der Raggion
                <lb facs="#facs_15_r2l7" n="N008"/><rs type="person" ref="#wkfm__10906">Farovino und <choice><expan/><abbr>Compag:</abbr></choice></rs> von beeden sociis <rs type="person" ref="#wkfm__16575">Johann Jacob Forovino</rs> und
-               <lb facs="#facs_15_r2l8" n="N009"/><rs type="person" ref="#wkfm__47062">Wenzl<hi>l</hi> <unclear>Kemp</unclear></rs> eingeleget worden.
+               <lb facs="#facs_15_r2l8" n="N009"/><rs type="person" ref="#wkfm__47062">Wenzl<del>l</del> <unclear>Kemp</unclear></rs> eingeleget worden.
                <lb facs="#facs_15_r2l9" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_15_r2l10" n="N011"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

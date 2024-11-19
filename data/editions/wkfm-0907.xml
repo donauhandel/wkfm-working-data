@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -97,7 +98,7 @@
                <lb facs="#facs_95_r2l11" n="N011"/>vermög der in dem mit der <rs type="person" ref="#wkfm__46387">Maria Elisabeth Vethin</rs> untern 18<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice>
                <lb facs="#facs_95_r2l12" n="N012"/>754 errichteten <choice><expan/><abbr>orig:</abbr></choice> Kaufcontract N<hi style="superscript">o</hi> 1494 beygeruckten Quittung
                <lb facs="#facs_95_r2l13" n="N013"/>an handlungs Kaufschilling allschon abgeführet habe 6653 fl 9 x<hi style="superscript">r</hi>
-               <lb facs="#facs_95_r2l14" n="N014"/><hi>dann</hi> anbey <hi>einen bürgen</hi> der Verkauferin einen bürgen <choice><expan/><abbr>pr</abbr></choice> 8000 fl
+               <lb facs="#facs_95_r2l14" n="N014"/><del>dann</del> anbey <del>einen bürgen</del> der Verkauferin einen bürgen <choice><expan/><abbr>pr</abbr></choice> 8000 fl
                <lb facs="#facs_95_r2l15" n="N015"/>gestellet habe.
                <lb facs="#facs_95_r2l16" n="N016"/>Hiebey befinden sich annoch 2 attestata wegen Annehmung des Sup:
                <lb facs="#facs_95_r2l17" n="N017"/>und <unclear>eine</unclear> quittirte <unclear>acten</unclear> Extradirungs Auflag N<hi style="superscript">o</hi> 425, 1495 et 1496

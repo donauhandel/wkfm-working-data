@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -112,10 +113,10 @@
                <lb facs="#facs_97_r2l17" n="N013"/>laut Urkund 1501 mit 87 fl 21 x<hi style="superscript">r</hi>
                <lb facs="#facs_97_r2l18" n="N014"/>dann an selben <seg type="editorial_comment_seg"><unclear>Melioriret</unclear><note type="editorial_comment_note">lt. Duden\u003a me­li­o­rie­ren = verbessern</note></seg> <choice><expan/><abbr>pr</abbr></choice> 700 fl
                <lb facs="#facs_97_r2l20" n="N015"/>seiner Ehewirthin habe er die Widerlag laut Quittung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi>
-               <lb facs="#facs_97_r2l22" n="N016"/><choice><expan/><abbr>Febr:</abbr></choice> 755 <hi>bezahlt</hi> N<hi style="superscript">o</hi> 1503 bezahlt mit 800 fl
-               <lb facs="#facs_97_r2l25" n="N017"/>zusamen Eigenthum <hi>3287</hi> 3337 fl 21 x<hi style="superscript">r</hi>
+               <lb facs="#facs_97_r2l22" n="N016"/><choice><expan/><abbr>Febr:</abbr></choice> 755 <del>bezahlt</del> N<hi style="superscript">o</hi> 1503 bezahlt mit 800 fl
+               <lb facs="#facs_97_r2l25" n="N017"/>zusamen Eigenthum <del>3287</del> 3337 fl 21 x<hi style="superscript">r</hi>
                <lb facs="#facs_97_r2l28" n="N018"/>Zu Completirung des übrigen hat dessen Ehewirthin <rs type="person" ref="#wkfm__46388">Maria Anna</rs>
-               <lb facs="#facs_97_r2l29" n="N019"/>vorhin verehligt geweste <unclear>Bertola</unclear> das <choice><expan/><abbr>orig:</abbr></choice> <hi>Caut Instr</hi> <seg type="editorial_comment_seg">cortiorirte<note type="editorial_comment_note">wahrscheinlich certiorirte</note></seg>
+               <lb facs="#facs_97_r2l29" n="N019"/>vorhin verehligt geweste <unclear>Bertola</unclear> das <choice><expan/><abbr>orig:</abbr></choice> <del>Caut Instr</del> <seg type="editorial_comment_seg">cortiorirte<note type="editorial_comment_note">wahrscheinlich certiorirte</note></seg>
                <lb facs="#facs_97_r2l30" n="N020"/>Caut: Instrument dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 756 N<hi style="superscript">o</hi> 1504 eingeleget <choice><expan/><abbr>pr</abbr></choice> 4662 fl 39 x<hi style="superscript">r</hi>
                <lb facs="#facs_97_r2l34" n="N022"/>Hiebey befindet sich annoch eine Ausweisung wegen von der <rs type="person" ref="#wkfm__46388">Bertolla: Wittib</rs> bezahlten <unclear>250</unclear> fl
                <lb facs="#facs_97_r2l35" n="N023"/>eine Billanz über ihre Handlung <choice><expan/><abbr>pr</abbr></choice> 10918 fl 20 x<hi style="superscript">r</hi> avanzo und Erlags anbringen N<hi style="superscript">o</hi> 1505, 1506 et 1507

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -105,10 +106,10 @@
             <ab facs="#facs_33_r1">
                <lb facs="#facs_33_r1l1" n="N001"/>41
                <lb facs="#facs_33_r1l2" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_33_r1l3" n="N003"/><hi>Buirette</hi>
+               <lb facs="#facs_33_r1l3" n="N003"/><del>Buirette</del>
                <lb facs="#facs_33_r1l4" n="N004"/><rs type="person" ref="#wkfm__13226">Buirette Johann Wilhelm</rs> K. K. Niderlags Verwanter
                <lb facs="#facs_33_r1l5" n="N005"/><seg type="orighead__firma">Firma oder Raggion</seg>
-               <lb facs="#facs_33_r1l6" n="N006"/><rs type="person" ref="#wkfm__10272">Buirette Gebrüder</rs> laut <hi>der</hi> Anbringen de ps: 8<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 888 und
+               <lb facs="#facs_33_r1l6" n="N006"/><rs type="person" ref="#wkfm__10272">Buirette Gebrüder</rs> laut <del>der</del> Anbringen de ps: 8<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 888 und
                <lb facs="#facs_33_r1l7" n="N007"/>der an den <rs type="person" ref="#wkfm__12424">Bernhard Deglmann</rs> ausgestelten Procura dd<hi style="superscript">to</hi> 13t<hi style="superscript">en</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
                <lb facs="#facs_33_r1l8" n="N008"/>N<hi style="superscript">o</hi> 887 <rs type="person" ref="#wkfm__27516">Johann Wilhelm Buirette <choice><expan/><abbr>seel.</abbr></choice> Erben</rs> und sodann <rs type="person" ref="#wkfm__43836">Johann Wilhelm
                <lb break="no" facs="#facs_33_r1l9" n="N009"/>Buirette <choice><expan/><abbr>seel.</abbr></choice> Sohn et Compagnia</rs> laut Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 736 N<hi style="superscript">o</hi> 913 und oblationen
@@ -123,7 +124,7 @@
                <lb facs="#facs_33_r1l19" n="N018"/>N<hi style="superscript">o</hi> 913
                <lb facs="#facs_33_r1l21" n="N019"/>in <choice><expan/><abbr>orig.</abbr></choice> N<hi style="superscript">o</hi> 894 eingelegt
                <lb facs="#facs_33_r1l22" n="N020"/>Laut Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> <date>736</date> und oblatorien dd<hi style="superscript">to</hi> <choice><expan/><abbr>Apr:</abbr></choice> 736 N<hi style="superscript">o</hi> 1093 hat die Raggion <rs type="person" ref="#wkfm__43836">Johann
-               <lb break="no" facs="#facs_33_line_1628437289040_184" n="N021"/>Wilhelm Buirette <choice><expan/><abbr>seel.</abbr></choice> Sohn et <choice><expan/><abbr>Comp:</abbr></choice> ihren complimentario Jaque du Tens die Firma erhteilet <hi>0</hi>
+               <lb break="no" facs="#facs_33_line_1628437289040_184" n="N021"/>Wilhelm Buirette <choice><expan/><abbr>seel.</abbr></choice> Sohn et <choice><expan/><abbr>Comp:</abbr></choice> ihren complimentario Jaque du Tens die Firma erhteilet <del>0</del>
                <lb break="no" facs="#facs_33_r1l24" n="N022"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb break="no" facs="#facs_33_r1l25" n="N023"/>Die Raggion Johann Wilhelm Buirette <choice><expan/><abbr>seel:</abbr></choice> Sohn et <choice><expan/><abbr>Comp:</abbr></choice> hat die in <expan/><abbr>orig:</abbr>
                <lb break="no" facs="#facs_33_r1l26" n="N024"/>eingelegte Oblatorien ddto <expan/><abbr>Apr:</abbr> 736 No 1093 dahin erlassen, daß das
@@ -131,11 +132,11 @@
                <lb break="no" facs="#facs_33_r1l28" n="N026"/>ihr Endschafft erreichet habe der alteste Sohn des Wilhelm Buirette Johann
                <lb break="no" facs="#facs_33_r1l29" n="N027"/>Noe</rs> habe sich entschlossen mit eigener Substanz dann seiner Schwester <rs type="person" ref="#wkfm__43840">Charlotte
                <lb break="no" facs="#facs_33_r1l30" n="N028"/>Eleonore von Baumann</rs> assistenz, interesse und obligo die Wechsel dispositiones
-               <lb facs="#facs_33_r1l31" n="N029"/>zu Continuiren um zwahr unter obiger <hi>Firma</hi> Raggion, worinn nebst seiner
+               <lb facs="#facs_33_r1l31" n="N029"/>zu Continuiren um zwahr unter obiger <del>Firma</del> Raggion, worinn nebst seiner
                <lb facs="#facs_33_r1l32" n="N030"/>der <rs type="person" ref="#wkfm__43838">Jaques du Tens</rs> die Firma führen werde.
                <lb facs="#facs_33_r1l33" n="N031"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_33_r1l34" n="N032"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Der folgende Text seht am Ende der Rubrik Procura und Firmae Trager</note></seg> laut Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 740 N<hi style="superscript">o</hi> 923 und <choice><expan/><abbr>orig:</abbr></choice> Procura
-               <lb facs="#facs_33_r1l35" n="N033"/>dd<hi style="superscript">to</hi> <hi>17<hi style="superscript"/></hi>ten<hi style="superscript">o</hi> 922 ist die Firma dem <rs type="person" ref="#wkfm__43838">Du Tens</rs> anwiderum
+               <lb facs="#facs_33_r1l34" n="N032"/><seg type="editorial_comment_seg"><del>0</del><note type="editorial_comment_note">Der folgende Text seht am Ende der Rubrik Procura und Firmae Trager</note></seg> laut Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 740 N<hi style="superscript">o</hi> 923 und <choice><expan/><abbr>orig:</abbr></choice> Procura
+               <lb facs="#facs_33_r1l35" n="N033"/>dd<hi style="superscript">to</hi> <del>17<hi style="superscript"/></del>ten<hi style="superscript">o</hi> 922 ist die Firma dem <rs type="person" ref="#wkfm__43838">Du Tens</rs> anwiderum
                <lb facs="#facs_33_r1l36" n="N034"/>abgenohmen und die unumschränkte Procura dem <rs type="person" ref="#wkfm__43839">Johann Noe
                <lb break="no" facs="#facs_33_r1l37" n="N035"/>Buirette</rs> allein ertheilet worden.
             </ab>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -89,7 +90,7 @@
                <lb facs="#facs_33_r1l5" n="N005"/><rs type="person" ref="#wkfm__25401, 38514">Samuel Simon</rs> laut Procura dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 726 N<hi style="superscript">o</hi> 1068
                <lb facs="#facs_33_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_33_r1l7" n="N007"/>Mitls Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 726 N<hi style="superscript">o</hi> 1069 hat die <rs type="person" ref="#wkfm__43829">Fratchia Simonin</rs> des <rs type="person" ref="#wkfm__25401, 38514">Samuel
-               <lb break="no" facs="#facs_33_r1l8" n="N008"/>Simon</rs> Ehewirthin die ihr von gedacht ihren Ehewirthen wehrend <hi>ihrer</hi> seiner Ab=
+               <lb break="no" facs="#facs_33_r1l8" n="N008"/>Simon</rs> Ehewirthin die ihr von gedacht ihren Ehewirthen wehrend <del>ihrer</del> seiner Ab=
                <lb facs="#facs_33_r1l9" n="N009"/>wesenheit unterm 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 726 ertheilte <choice><expan/><abbr>orig.</abbr></choice> Procura mit von ihr beygerukter
                <lb facs="#facs_33_r1l10" n="N010"/>Firma N<hi style="superscript">o</hi> 1068 eingeleget.
                <lb facs="#facs_33_r1l11" n="N011"/>Mitls Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 746 N<hi style="superscript">o</hi> 1074 hat der <rs type="person" ref="#wkfm__25401, 38514">Samuel Simon</rs> angezeiget

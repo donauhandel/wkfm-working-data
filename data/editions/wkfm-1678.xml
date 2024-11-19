@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -91,12 +92,12 @@
                <lb facs="#facs_220_r1l3" n="N003"/>Der <rs type="person" ref="#wkfm__47582">Staudinger</rs> hat der mit der Maria Anna Braunin untern
                <lb facs="#facs_220_r1l4" n="N004"/>14<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 752 errichteten Heurathscontract N<hi style="superscript">o</hi> 2246 in <choice><expan/><abbr>orig:</abbr></choice> <unclear>eingeleget</unclear>
                <lb facs="#facs_220_r1l7" n="N005"/>kraft welchen 500 fl nebst den handlungs Gerechtigkeit alß heuraths gut
-               <lb facs="#facs_220_r1l8" n="N006"/>wie auch 1000 Widerlag auf überleben <hi>pact</hi> <hi>je</hi> anbey <hi><unclear>jenes</unclear></hi> jenes was
+               <lb facs="#facs_220_r1l8" n="N006"/>wie auch 1000 Widerlag auf überleben <del>pact</del> <del>je</del> anbey <del><unclear>jenes</unclear></del> jenes was
                <lb facs="#facs_220_r1l9" n="N007"/>wehrender Ehe erworben und ererbet wird alß ein gleiches
-               <lb facs="#facs_220_r1l10" n="N008"/>Gutt pactiret, <hi>dann</hi> weithers vorgesehen worden, das falß
-               <lb facs="#facs_220_r1l12" n="N009"/>die Braut vor dem Bräutigam sterben <hi>solle</hi> würde ihm Bräutigam
+               <lb facs="#facs_220_r1l10" n="N008"/>Gutt pactiret, <del>dann</del> weithers vorgesehen worden, das falß
+               <lb facs="#facs_220_r1l12" n="N009"/>die Braut vor dem Bräutigam sterben <del>solle</del> würde ihm Bräutigam
                <lb facs="#facs_220_r1l14" n="N010"/>gegen an jedwederes Kind ersterer Ehe bezahlenden 100 fl die
-               <lb facs="#facs_220_r1l15" n="N011"/><hi>samtne</hi> samentliche Haus Einrichtung und Klaidung zufallen
+               <lb facs="#facs_220_r1l15" n="N011"/><del>samtne</del> samentliche Haus Einrichtung und Klaidung zufallen
                <lb facs="#facs_220_r1l17" n="N012"/>solle
                <lb facs="#facs_220_r1l19" n="N013"/><choice><expan/><abbr>Ao</abbr></choice> 764 hat der <rs type="person" ref="#wkfm__47582">Joseph Staudinger</rs> seinen mit der <rs type="person" ref="#wkfm__47585">Maria Catharina
                <lb break="no" facs="#facs_220_r1l20" n="N014"/>de <unclear>Heilmanin</unclear></rs> untern 20<hi style="superscript">ten</hi> Septembris 762 errichteten Heuraths-Contract

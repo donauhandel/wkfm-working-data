@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -98,17 +99,17 @@
                <lb facs="#facs_177_r3l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_177_r3l9" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_177_r3l10" n="N010"/>Der<rs type="person" ref="#wkfm__30347"> Anton Pillitschotti</rs> hat mitls des Anbringens de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Feb:</abbr></choice> 736
-               <lb facs="#facs_177_line_1628451021255_1357" n="N011"/>N<hi style="superscript">o</hi> <hi>116</hi> 1065 folgender maßen ausgewisen, daß selber laut Raithandler Bericht
+               <lb facs="#facs_177_line_1628451021255_1357" n="N011"/>N<hi style="superscript">o</hi> <del>116</del> 1065 folgender maßen ausgewisen, daß selber laut Raithandler Bericht
                <lb facs="#facs_177_r3l12" n="N012"/>Ausschlag (NB: welcher in dem Anbringen mit lit A in <choice><expan/><abbr>orig:</abbr></choice> allegiret
                <lb facs="#facs_177_r3l14" n="N013"/>bey denen Mercantil actis aber nicht vorfündig ware, und an die <seg type="editorial_comment_seg"><unclear>Hofc</unclear><note type="editorial_comment_note">Hofcammer?</note></seg>
                <lb facs="#facs_177_r3l15" n="N014"/>laut <unclear>Ubergabs Consignation</unclear>
-               <lb facs="#facs_177_r3l16" n="N015"/>nicht übergeben worden) an ererbt <hi>dann</hi> und an erworbnen Gutt
+               <lb facs="#facs_177_r3l16" n="N015"/>nicht übergeben worden) an ererbt <del>dann</del> und an erworbnen Gutt
                <lb facs="#facs_177_line_1621470019053_3362" n="N016"/>Alß eigenthumlich besize 4300 fl
                <lb facs="#facs_177_r3l19" n="N017"/>Laut Kauf Contract über seine Handlung dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735
                <lb facs="#facs_177_r3l20" n="N018"/>in Copia vidimata N<hi style="superscript">o</hi> 1166 §<hi style="superscript">ro</hi> Viertens als ein ihm
                <lb facs="#facs_177_r3l21" n="N019"/>von denen <rs type="person" ref="#wkfm__43922">Fridrichischen Erben</rs> alß Verkäufern <unclear>credtirtes</unclear> 
                <lb facs="#facs_177_line_1621470125763_3390" n="N020"/>Gutt 3700 fl
-               <lb facs="#facs_177_r3l25" n="N021"/><hi>besize</hi>
+               <lb facs="#facs_177_r3l25" n="N021"/><del>besize</del>
                <lb facs="#facs_177_r3l26" n="N022"/>mithin in <choice><expan>Summa</expan><abbr>Sa</abbr></choice> 8000 fl
             </ab>
             

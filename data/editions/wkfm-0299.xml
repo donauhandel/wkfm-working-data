@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -92,7 +93,7 @@
             <pb facs="#facs_245" n="245" xml:id="img_0245" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0299.jpg"/>
             
             <ab facs="#facs_245_r1">
-               <lb facs="#facs_245_r1l2" n="N001"/><hi>146</hi>
+               <lb facs="#facs_245_r1l2" n="N001"/><del>146</del>
                <lb facs="#facs_245_r1l3" n="N002"/>147
                <lb facs="#facs_245_r1l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_245_r1l4" n="N004"/><rs type="person" ref="#wkfm__43986">Pürker Franz Joseph</rs> burgerlicher Handlsmann
@@ -115,7 +116,7 @@
                <lb facs="#facs_245_r1l26" n="N021"/><unclear>von</unclear> <rs type="person" ref="#wkfm__43987">Joseph Schwarzleuthner und Sohn</rs> an den <rs type="person" ref="#wkfm__43986">Franz Jos. Pürker</rs> laut dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi>
                <lb facs="#facs_245_line_1621473880528_5120" n="N022"/><gap/> 751 <choice><expan/><abbr>pr</abbr></choice> 2000 fl und 4<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> d. a. <choice><expan/><abbr>pr</abbr></choice> 1000 fl N<hi style="superscript">o</hi> 1244 et 1245 dann einen Wechsel-
                <lb facs="#facs_245_r1l29" n="N023"/>Brief auf eben denselben lautend von <rs type="person" ref="#wkfm__43988">Gebrüder Ruard</rs> dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 751 <choice><expan/><abbr>pr</abbr></choice>
-               <lb facs="#facs_245_line_1621473955257_5158" n="N024"/>1522 fl 20 x<hi style="superscript">r</hi> N<hi style="superscript">o</hi> 1846 und einen <hi>Scheu</hi> det: Scheun von <rs type="person" ref="#wkfm__43989">Jacob Mattheus Schmidt</rs> dd<hi style="superscript">to</hi> ult:
+               <lb facs="#facs_245_line_1621473955257_5158" n="N024"/>1522 fl 20 x<hi style="superscript">r</hi> N<hi style="superscript">o</hi> 1846 und einen <del>Scheu</del> det: Scheun von <rs type="person" ref="#wkfm__43989">Jacob Mattheus Schmidt</rs> dd<hi style="superscript">to</hi> ult:
                <lb facs="#facs_245_r1l32" n="N025"/><gap/> 751 N<hi style="superscript">o</hi> 1247 worbey sich zwey Anbringen wegen annehmung des Supl: N<hi style="superscript">o</hi> 1248 et 1249 befinden
             </ab>
             

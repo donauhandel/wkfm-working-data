@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -97,7 +98,7 @@
                <lb facs="#facs_33_r1l8" n="N009"/>volgender maßen ausgewisen, nemlich daß er eigenthumlich besize
                <lb facs="#facs_33_r1l9" n="N010"/>an erspahrten salario vermög attestati des<rs type="person" ref="#wkfm__37748"> Johann Dietschi</rs> dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> 
                <lb facs="#facs_33_line_1621463946943_1690" n="N011"/><choice><expan/><abbr>7br:</abbr></choice> 752 N<hi style="superscript">o</hi> 1655 2000 fl
-               <lb facs="#facs_33_r1l14" n="N012"/>dann an Überkommenen Nuzungs Antheil von <hi>Johann</hi>
+               <lb facs="#facs_33_r1l14" n="N012"/>dann an Überkommenen Nuzungs Antheil von <del>Johann</del>
                <lb facs="#facs_33_r1l15" n="N013"/><rs type="person" ref="#wkfm__44039">Dominico Bormastini</rs> laut dessen attestati dd<hi style="superscript">to</hi> 15<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice>
                <lb facs="#facs_33_line_1621463956772_1697" n="N014"/>752 N<hi style="superscript">o</hi> 1656 5000 fl
                <lb facs="#facs_33_r1l18" n="N015"/>zusamen Eigenthum 7000 fl

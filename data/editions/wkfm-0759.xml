@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -122,7 +123,7 @@
                <lb facs="#facs_91_r2l18" n="N016"/>Mitls Oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 7<unclear>5</unclear>5 No 1124 ist die Firma der Raggion <rs type="person" ref="#wkfm__47119">Falquet et <choice><expan/><abbr>Comp:</abbr></choice></rs> von beeden
                <lb facs="#facs_91_r2l19" n="N017"/>sociis <rs type="person" ref="#wkfm__42886">Bernhard Falquet</rs> und <rs type="person" ref="#wkfm__47121">Ignaz <unclear>Conver</unclear></rs> kund gemacht worden.
                <lb facs="#facs_91_r2l20" n="N018"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_91_r2l21" n="N019"/>Mitls Anbringen de ps: 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 740 N<hi style="superscript">o</hi> 1431 hat die Raggion <rs type="person" ref="#wkfm__39394">Falquet und Puthon</rs> die <hi>untern</hi>er
+               <lb facs="#facs_91_r2l21" n="N019"/>Mitls Anbringen de ps: 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 740 N<hi style="superscript">o</hi> 1431 hat die Raggion <rs type="person" ref="#wkfm__39394">Falquet und Puthon</rs> die <del>untern</del>er
                <lb facs="#facs_91_r2l22" n="N020"/>lassen Oblatorien sine dat mit beygerukter Certification des <rs type="person" ref="#wkfm__42886">Falquet</rs> dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 740 in Copia
                <lb facs="#facs_91_r2l23" n="N021"/>N<hi style="superscript">o</hi> 1118 eingeleget, mitls welchen selbe kund gemacht, das sich die Societaet unter der Raggion <rs type="person" ref="#wkfm__23970">Falquet
                <lb break="no" facs="#facs_91_r2l24" n="N022"/>und Violland</rs> mit Ende 739 determiniret, und er <rs type="person" ref="#wkfm__42886">Falquet</rs> entschlossen seinen Vettern und <unclear>vorhinigen</unclear>

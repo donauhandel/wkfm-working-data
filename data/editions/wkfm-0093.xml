@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -82,7 +83,7 @@
                <lb facs="#facs_40_r2l2" n="N002"/>Der <rs type="person" ref="#wkfm__11161">Johann Baptist</rs> und <rs type="person" ref="#wkfm__9824">Johann Peter Bolza</rs> haben in obigen Anbringen de ps:
                <lb facs="#facs_40_r2l3" n="N003"/>25<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> 725 N<hi style="superscript">o</hi> 38 sich erklähret das sie beyde zusamen ohne weithere asso
                <lb facs="#facs_40_r2l4" n="N004"/>ciation führen
-               <lb facs="#facs_40_r2l5" n="N005"/>Der<rs type="person" ref="#wkfm__11161"> Johann Baptist Bolza</rs> hat mitls Anbringen de ps: 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 736 <hi><unclear>eingeg</unclear></hi> <seg type="editorial_comment_seg">N<hi style="superscript">o</hi><note type="editorial_comment_note">Es folgt eine nicht lesbare Aktenzahl a1004428@univie.ac.at\u003a vermutl. 1867 entsprechend der vorherigen Seite</note></seg>
+               <lb facs="#facs_40_r2l5" n="N005"/>Der<rs type="person" ref="#wkfm__11161"> Johann Baptist Bolza</rs> hat mitls Anbringen de ps: 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 736 <del><unclear>eingeg</unclear></del> <seg type="editorial_comment_seg">N<hi style="superscript">o</hi><note type="editorial_comment_note">Es folgt eine nicht lesbare Aktenzahl a1004428@univie.ac.at\u003a vermutl. 1867 entsprechend der vorherigen Seite</note></seg>
                <lb facs="#facs_40_r2l6" n="N006"/>angezeiget, daß der <rs type="person" ref="#wkfm__9824">Johann Peter Bolza</rs> verstorben und hierdurch ihre <seg type="editorial_comment_seg">Soci<note type="editorial_comment_note">Societaet</note></seg>
                <lb facs="#facs_40_r2l7" n="N007"/>und das ganze Negotium unter der Raggion <rs type="person" ref="#wkfm__44788">Johann Baptist und Johann <seg type="editorial_comment_seg">P<note type="editorial_comment_note">Peter</note></seg>
                <lb break="no" facs="#facs_40_line_1628441144875_388" n="N008"/>Bolza</rs> bis auf den <unclear>Stralcio</unclear> mit Ende 735 ihre Endschaft errichtet habe und ein <unclear>gleiche</unclear>

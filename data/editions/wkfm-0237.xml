@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -97,11 +98,11 @@
                <lb facs="#facs_183_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_183_r1l9" n="N009"/>Der <rs type="person" ref="#wkfm__29663">Bertolla</rs> hat seinen Fundum mitls anbringen de ps: 4<hi style="superscript">ten</hi> Junii 736 N<hi style="superscript">o</hi>
                <lb facs="#facs_183_r1l10" n="N010"/>1168 folgender maßen ausgewisen: laut mit der <rs type="person" ref="#wkfm__47359">Maria Theresia
-               <lb break="no" facs="#facs_183_r1l11" n="N011"/>Weisin</rs> <hi>zu</hi> untern 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 <seg type="editorial_comment_seg">geschossenen<note type="editorial_comment_note">geschlossenen</note></seg> Handlungs Kauf Contract
+               <lb break="no" facs="#facs_183_r1l11" n="N011"/>Weisin</rs> <del>zu</del> untern 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 <seg type="editorial_comment_seg">geschossenen<note type="editorial_comment_note">geschlossenen</note></seg> Handlungs Kauf Contract
                <lb facs="#facs_183_r1l12" n="N012"/>in Copia vidimata N<hi style="superscript">o</hi> 1167 und in selber beygerukter Quittung
                <lb facs="#facs_183_r1l13" n="N013"/>habe er an dem Kaufschilling allschon 4231 fl 20 x<hi style="superscript">r</hi> und da für die
                <lb facs="#facs_183_r1l14" n="N014"/>von ihm rukständig gebliebenen Kaufschilling des <rs type="person" ref="#wkfm__18406">Johann di S. Nicolo</rs>
-               <lb facs="#facs_183_r1l15" n="N015"/><hi>alß</hi> sich in eben diesen Kauf Contract als Bürg und Zahler Constituiret
+               <lb facs="#facs_183_r1l15" n="N015"/><del>alß</del> sich in eben diesen Kauf Contract als Bürg und Zahler Constituiret
                <lb facs="#facs_183_r1l16" n="N016"/>in anbey dem nächsten von Haus etliche 1000 fl erwarthe, alß verhoffe
                <lb facs="#facs_183_r1l17" n="N017"/>er seinen fundum ausgewiesen zu haben. Diese Ausweisung ist laut der hierauf
                <lb facs="#facs_183_r1l18" n="N018"/>untern 8<hi style="superscript">ten</hi> Junii 736 ergangen decretation, nur über den von dem <rs type="person" ref="#wkfm__18406">Johann di

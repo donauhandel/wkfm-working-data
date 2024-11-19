@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -95,15 +96,15 @@
                <lb facs="#facs_91_r1l4" n="N004"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_91_r1l5" n="N005"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_91_r1l6" n="N006"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_91_r1l7" n="N007"/>Der <hi>Ga</hi> <rs type="person" ref="#wkfm__46380">Gapieller</rs> hat zu Ausweisung seines Fundi <choice><expan/><abbr>orig:</abbr></choice> Billanz über
+               <lb facs="#facs_91_r1l7" n="N007"/>Der <del>Ga</del> <rs type="person" ref="#wkfm__46380">Gapieller</rs> hat zu Ausweisung seines Fundi <choice><expan/><abbr>orig:</abbr></choice> Billanz über
                <lb facs="#facs_91_r1l8" n="N008"/>die Handlung seiner Ehewirthin als <rs type="person" ref="#wkfm__46381">Franz Anton Ipditsch <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs>
-               <lb facs="#facs_91_r1l9" n="N009"/>von <choice><expan/><abbr>Ao</abbr></choice> 752 <choice><expan/><abbr><hi>pr</hi></abbr></choice> an avanzo <choice><expan/><abbr>pr</abbr></choice> 31320 fl 14 x<hi style="superscript">r</hi> wie auch ein von eben der-
+               <lb facs="#facs_91_r1l9" n="N009"/>von <choice><expan/><abbr>Ao</abbr></choice> 752 <choice><expan/><abbr><del>pr</del></abbr></choice> an avanzo <choice><expan/><abbr>pr</abbr></choice> 31320 fl 14 x<hi style="superscript">r</hi> wie auch ein von eben der-
                <lb facs="#facs_91_r1l10" n="N010"/>selben untern 19<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 752 dahin ausgestelte conditionirtes <choice><expan/><abbr>orig:</abbr></choice> Instru-
-               <lb facs="#facs_91_r1l11" n="N011"/>ment N<hi style="superscript">o</hi> <unclear>1490</unclear> <hi>um</hi>, daß sie von ihren avanzo an gedacht ihren Ehewirthen
-               <lb facs="#facs_91_r1l13" n="N012"/>mit Einbringen<hi> über abzug</hi> des heurathgutts <choice><expan/><abbr>pr</abbr></choice> 500 fl und <hi>ihr</hi> in dem heuraths contract
-               <lb facs="#facs_91_r1l15" n="N013"/>denselben auf überleben zu gedachten 2000 fl den <hi>demselben cediren</hi> an
+               <lb facs="#facs_91_r1l11" n="N011"/>ment N<hi style="superscript">o</hi> <unclear>1490</unclear> <del>um</del>, daß sie von ihren avanzo an gedacht ihren Ehewirthen
+               <lb facs="#facs_91_r1l13" n="N012"/>mit Einbringen<del> über abzug</del> des heurathgutts <choice><expan/><abbr>pr</abbr></choice> 500 fl und <del>ihr</del> in dem heuraths contract
+               <lb facs="#facs_91_r1l15" n="N013"/>denselben auf überleben zu gedachten 2000 fl den <del>demselben cediren</del> an
                <lb facs="#facs_91_r1l17" n="N014"/>Waaren lager überlassen und für selben cassiren welle <choice><expan/><abbr>pr</abbr></choice> 8000 fl
-               <lb facs="#facs_91_r1l20" n="N015"/>hierneben befinden sich das Erlags Anbringen de ps: 11<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 752 und ein attestatum <hi>der</hi> des
+               <lb facs="#facs_91_r1l20" n="N015"/>hierneben befinden sich das Erlags Anbringen de ps: 11<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 752 und ein attestatum <del>der</del> des
                <lb facs="#facs_91_r1l21" n="N016"/>Tuchlaubens Collegii, wegen annehmung des Sup: N<hi style="superscript">o</hi> 1492 et 1491
             </ab>
             

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -98,9 +99,9 @@
                <lb facs="#facs_37_r3l10" n="N011"/>bey stehen gehabt und der Handlungs Überlassnem <unclear alternative="Magazin">Napeothin</unclear> wirklich aus-
                <lb facs="#facs_37_line_1620652226580_133" n="N012"/>gezahlet habe. 4000 fl
                <lb facs="#facs_37_r3l13" n="N013"/>dd<hi style="superscript">to</hi> 5<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 739 N<hi style="superscript">o</hi> 1407 wie auch einen von eben diesem seinem
-               <lb facs="#facs_37_r3l14" n="N014"/>Bruder Sub eadem dato ausgestelten Revers N<hi style="superscript">o</hi> 1408 in <choice><expan/><abbr>orig.</abbr></choice> <hi>daß</hi>
+               <lb facs="#facs_37_r3l14" n="N014"/>Bruder Sub eadem dato ausgestelten Revers N<hi style="superscript">o</hi> 1408 in <choice><expan/><abbr>orig.</abbr></choice> <del>daß</del>
                <lb facs="#facs_37_r3l15" n="N015"/>eingeleget kraft welchen lezteren der <rs type="person" ref="#wkfm__24258">Johann Sebastian</rs> sich <unclear>verbindt
-               <lb break="no" facs="#facs_37_line_1620652453428_166" n="N016"/>gedacht</unclear> seinem Brudern dergestalten zuzuzählen <hi>und</hi> <unclear>v</unclear> daß er hevon vor
+               <lb break="no" facs="#facs_37_line_1620652453428_166" n="N016"/>gedacht</unclear> seinem Brudern dergestalten zuzuzählen <del>und</del> <unclear>v</unclear> daß er hevon vor
                <lb facs="#facs_37_line_1620652392250_148" n="N017"/>befridigung deren Creditoren nichts zuruckbegehren wolle 4000 fl
                <lb facs="#facs_37_line_1620652400385_152" n="N018"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
             </ab>

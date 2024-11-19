@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -78,8 +79,8 @@
             
             <ab facs="#facs_134_r1">
                <lb facs="#facs_134_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_134_r1l2" n="N002"/><hi>M</hi> In obigen Ablatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 751 N<hi style="superscript">o</hi> 1121 hat der <rs type="person" ref="#wkfm__47178">Volkmar</rs> kund ge-
-               <lb facs="#facs_134_r1l3" n="N003"/>macht, das die zwischen ihm und dem <rs type="person" ref="#wkfm__47181">Carl Heinrich Tittel</rs> <hi>for</hi> in fortsezung der
+               <lb facs="#facs_134_r1l2" n="N002"/><del>M</del> In obigen Ablatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 751 N<hi style="superscript">o</hi> 1121 hat der <rs type="person" ref="#wkfm__47178">Volkmar</rs> kund ge-
+               <lb facs="#facs_134_r1l3" n="N003"/>macht, das die zwischen ihm und dem <rs type="person" ref="#wkfm__47181">Carl Heinrich Tittel</rs> <del>for</del> in fortsezung der
                <lb facs="#facs_134_r1l4" n="N004"/>Handlung des <rs type="person" ref="#wkfm__47183">Balthasar Sigmund Scholz</rs> unter der Raggion <rs type="person" ref="#wkfm__47180">Baltasar Sigmund Scholtz
                <lb break="no" facs="#facs_134_line_1621876973407_436" n="N005"/>und Compagnie</rs> vorgeweste Societaet unter nemlichen dato geendiget, und er die <rs type="person" ref="#wkfm__47184">Kircheisische</rs> übernohmene
                <lb facs="#facs_134_r1l7" n="N006"/>Handlung unter seinen alleinigen Nahmen und obligo forsezen werde.

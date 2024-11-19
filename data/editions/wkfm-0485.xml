@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -98,12 +99,12 @@
                <lb facs="#facs_165_r1l10" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_165_r1l11" n="N011"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_165_r1l12" n="N012"/>Mitls Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 753 N<hi style="superscript">o</hi> 1350 hat der <rs type="person" ref="#wkfm__43887">Kleinrath</rs> zu Ausweisung
-               <lb facs="#facs_165_r1l13" n="N013"/>seines <hi>Handlungs</hi> Fundi das von der <rs type="person" ref="#wkfm__43886">Maria Theresia Pragerin</rs> ausgesteltes <choice><expan/><abbr>orig:</abbr></choice>
-               <lb facs="#facs_165_r1l14" n="N014"/>attestatum <hi>ddto </hi> das er <rs type="person" ref="#wkfm__43887">Kleinrath</rs> in ihr der <rs type="person" ref="#wkfm__43886">Pragerin</rs> Handlung alß eigen-
+               <lb facs="#facs_165_r1l13" n="N013"/>seines <del>Handlungs</del> Fundi das von der <rs type="person" ref="#wkfm__43886">Maria Theresia Pragerin</rs> ausgesteltes <choice><expan/><abbr>orig:</abbr></choice>
+               <lb facs="#facs_165_r1l14" n="N014"/>attestatum <del>ddto </del> das er <rs type="person" ref="#wkfm__43887">Kleinrath</rs> in ihr der <rs type="person" ref="#wkfm__43886">Pragerin</rs> Handlung alß eigen-
                <lb facs="#facs_165_line_1621963143823_3367" n="N015"/>thumlich stehen habe dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 753 N<hi style="superscript">o</hi> 1348 <unclear>eigen</unclear> 4290 fl. 30 x<hi style="superscript">r</hi>
                <lb facs="#facs_165_r1l17" n="N016"/>dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 753 N<hi style="superscript">o</hi> 1348 eingeleget
-               <lb facs="#facs_165_r1l18" n="N017"/>Hierbey befindet sich annoch ein Anbringen wegen Annehmung des Supl: <hi>zu</hi> als
-               <lb facs="#facs_165_r1l19" n="N018"/>Pragerischen Handlungs socius zum burgerlichen Handlsmann <hi>de</hi> N<hi style="superscript">o</hi> 1349
+               <lb facs="#facs_165_r1l18" n="N017"/>Hierbey befindet sich annoch ein Anbringen wegen Annehmung des Supl: <del>zu</del> als
+               <lb facs="#facs_165_r1l19" n="N018"/>Pragerischen Handlungs socius zum burgerlichen Handlsmann <del>de</del> N<hi style="superscript">o</hi> 1349
             </ab>
             
         </div>

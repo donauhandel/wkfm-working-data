@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -102,7 +103,7 @@
                <lb facs="#facs_93_r2l9" n="N009"/>für den <rs type="person" ref="#wkfm__37748">Johann Dietschj</rs>, alß selber zu dem ersteren in Compagnie
                <lb facs="#facs_93_r2l10" n="N010"/>getretten ein von ihm ausgesteltes Cautions Instrument eingeleget,
                <lb facs="#facs_93_r2l11" n="N011"/>welches aber demselben, über das von dem <rs type="person" ref="#wkfm__37748">Johann Dietschi</rs> laut For-
-               <lb facs="#facs_93_r2l12" n="N012"/>mulo jurandi <hi>de</hi> N<hi style="superscript">o</hi> 1370 <hi>ab</hi> untern 14<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 748 <hi>ab</hi> dahin abge-
+               <lb facs="#facs_93_r2l12" n="N012"/>mulo jurandi <del>de</del> N<hi style="superscript">o</hi> 1370 <del>ab</del> untern 14<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 748 <del>ab</del> dahin abge-
                <lb facs="#facs_93_r2l13" n="N013"/>legten Cörperlichen Eyd daß er de ductis deducendis eigenthumlich
                <lb facs="#facs_93_r2l15" n="N014"/>wenigstens 8000 fl besize, zufolge auflag dd<hi style="superscript">to</hi> eadem sind laut
                <lb facs="#facs_93_r2l16" n="N015"/>Quittung beygerukter Quitttung dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1371

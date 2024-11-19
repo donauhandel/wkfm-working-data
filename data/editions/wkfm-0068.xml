@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -108,8 +109,8 @@
                <lb facs="#facs_15_r1l12" n="N011"/>stehe.
                <lb facs="#facs_15_r1l13" n="N012"/>In obigen Oblatorien dd<hi style="superscript">to</hi> 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 751 N<hi style="superscript">o</hi> 1103 haben die <rs type="person" ref="#wkfm__9690">Gebrüder Palm</rs> kund gemacht
                <lb facs="#facs_15_r1l14" n="N013"/>daß ihr <rs type="person" ref="#wkfm__43805">Franz Gottlieb Freyherr von Palm</rs>, welcher nebst seinem Bruder <rs type="person" ref="#wkfm__43806">Leopold
-               <lb break="no" facs="#facs_15_r1l15" n="N014"/>Carl Freyherrn von Palm</rs> <hi>unterm</hi> Director ihrer Handlung gewesen, den 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 749 ver-
-               <lb facs="#facs_15_r1l16" n="N015"/>storben, und sie nunmehr die Direction und Firma unter <unclear> <hi>gemeinne</hi></unclear><hi>r</hi>  de<rs type="person" ref="#wkfm__13459">m Joha<hi/>nn
+               <lb break="no" facs="#facs_15_r1l15" n="N014"/>Carl Freyherrn von Palm</rs> <del>unterm</del> Director ihrer Handlung gewesen, den 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 749 ver-
+               <lb facs="#facs_15_r1l16" n="N015"/>storben, und sie nunmehr die Direction und Firma unter <unclear> <del>gemeinne</del></unclear><del>r</del>  de<rs type="person" ref="#wkfm__13459">m Joha<del/>nn
                <lb break="no" facs="#facs_15_r1l17" n="N016"/>Heinrich Stammetz</rs> unter seinen eignen Nahmen anvertraut haben.
                <lb facs="#facs_15_r1l18" n="N017"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_15_r1l19" n="N018"/>Die <rs type="person" ref="#wkfm__9690">Gebrüder Palm</rs> haben untern 18<hi style="superscript">ten</hi> Julii 751 Oblatorien wovon sie ein <choice><expan/><abbr>orig.</abbr></choice> einge
@@ -120,7 +121,7 @@
                <lb facs="#facs_15_r1l24" n="N023"/><rs type="person" ref="#wkfm__13459">Stammetz </rs>sich auch mit 20000 fl und also um den 5<hi style="superscript">ten</hi> Theil interessiret habe.
                <lb facs="#facs_15_r1l25" n="N024"/>Diesen hat der <rs type="person" ref="#wkfm__13459">Stammetz </rs>gleichmäßige oblatorien mit dem Beysaz das sein <unclear>eingenes </unclear>unter
                <lb facs="#facs_15_r1l26" n="N025"/>der Raggion <rs type="person" ref="#wkfm__43807">Christian Kalchschmid <choice><expan/><abbr>seel.</abbr></choice> Wittib e Compgano</rs> geführetes negotium <seg type="editorial_comment_seg">darzu<note type="editorial_comment_note">gezogen werde ange- und zu ende die künftige firma Johann Heinrich Stammetz beygeruket ddto... No 1104</note></seg>
-               <lb facs="#facs_15_r1l28" n="N026"/>gezogen worden seye. und zu ende <hi>sein</hi> die künftige firma Johann Heinrich Stametz
+               <lb facs="#facs_15_r1l28" n="N026"/>gezogen worden seye. und zu ende <del>sein</del> die künftige firma Johann Heinrich Stametz
                <lb facs="#facs_15_r1l30" n="N027"/>beygeruket dd<hi style="superscript">to</hi> <unclear>eodem</unclear> N<hi style="superscript">o</hi> 1104.
                <lb facs="#facs_15_r1l31" n="N028"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

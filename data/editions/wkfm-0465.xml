@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -103,7 +104,7 @@
                <lb facs="#facs_145_r2l10" n="N011"/>dienten <rs type="person" ref="#wkfm__46161">Ferdinand Kerndler</rs> und <rs type="person" ref="#wkfm__46162">Johann Georg <unclear>Höckher</unclear></rs> zusamen käuflichen uberlassen
                <lb facs="#facs_145_r2l11" n="N012"/>habe, und von dem Tuchlaubens Collegio untern 4<hi style="superscript">ten</hi> Junio d. a. ausgestelte <choice><expan/><abbr>orig:</abbr></choice> Urkunden
                <lb facs="#facs_145_r2l12" n="N013"/>N<hi style="superscript">o</hi> 1314 das beede erstgedachte nach geleisteten <unclear>praestandis</unclear> bey dem Gericht einver-
-               <lb facs="#facs_145_r2l13" n="N014"/>leibet werden solle mit dem <hi>H</hi> <rs type="person" ref="#wkfm__46162">Johann Georg Hökher</rs> den Fundum gemeinsamlich folgender-
+               <lb facs="#facs_145_r2l13" n="N014"/>leibet werden solle mit dem <del>H</del> <rs type="person" ref="#wkfm__46162">Johann Georg Hökher</rs> den Fundum gemeinsamlich folgender-
                <lb facs="#facs_145_r2l14" n="N015"/>massen ausgewisen
                <lb facs="#facs_145_r2l15" n="N016"/>Daß er <rs type="person" ref="#wkfm__46161">Kerndler</rs> von seiner Schwester und Schwagern <rs type="person" ref="#wkfm__46164">Schiettler</rs> vermög <choice><expan/><abbr>orig.</abbr></choice> revers dd<hi style="superscript">to</hi>
                <lb facs="#facs_145_line_1621961692102_2654" n="N017"/><gap/> May 746 N<hi style="superscript">o</hi> 1311 geschänkter bekommen baar 2000 fl

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -93,11 +94,11 @@
                <lb facs="#facs_141_r1l5" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_141_r1l6" n="N007"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_141_r1l7" n="N008"/>Der <rs type="person" ref="#wkfm__46574">Härtl</rs> hat seinen fundum mitls des über seines Vatters <rs type="person" ref="#wkfm__10600">Norbert
-               <lb break="no" facs="#facs_141_r1l9" n="N009"/>Härtl</rs> <hi>abhandlungs aus</hi> Verlassenschaffts Abhandlungs-Ausschlag dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> <unclear>749</unclear>
-               <lb facs="#facs_141_r1l10" n="N010"/>Extract in vidimus N<hi style="superscript">o</hi> 1561 <hi>ordge</hi> alß an überkommenen Vätterlichen Erb-
+               <lb break="no" facs="#facs_141_r1l9" n="N009"/>Härtl</rs> <del>abhandlungs aus</del> Verlassenschaffts Abhandlungs-Ausschlag dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> <unclear>749</unclear>
+               <lb facs="#facs_141_r1l10" n="N010"/>Extract in vidimus N<hi style="superscript">o</hi> 1561 <del>ordge</del> alß an überkommenen Vätterlichen Erb-
                <lb facs="#facs_141_r1l12" n="N011"/>Gutt ausgewisen <choice><expan/><abbr>pr</abbr></choice> 8546 fl 29 3/4 x<hi style="superscript">r</hi>
                <lb facs="#facs_141_r1l13" n="N012"/>annebst einen <choice><expan/><abbr>orig:</abbr></choice> Erklährung von seinen Geschwistern und mit Erben
-               <lb facs="#facs_141_r1l14" n="N013"/><hi>dd<hi style="superscript"/></hi>to<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 756, daß sie ihm die Vätterliche Handlung allein über-
+               <lb facs="#facs_141_r1l14" n="N013"/><del>dd<hi style="superscript"/></del>to<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 756, daß sie ihm die Vätterliche Handlung allein über-
                <lb facs="#facs_141_r1l15" n="N014"/>lassen und heran nichts mehr zu fordern haben N<hi style="superscript">o</hi> 1562 eingeleget.
                <lb facs="#facs_141_r1l16" n="N015"/>Anbey befinden sich 2 Anbringen wegen Annehmung des Supl: N<hi style="superscript">o</hi> 1563 et 1564
                <lb facs="#facs_141_r1l17" n="N016"/>Not: <choice><expan/><abbr>ao</abbr></choice> 804 unter 3. März ist besagter <rs type="person" ref="#wkfm__46574">Härtl</rs> gestorben, und vermög

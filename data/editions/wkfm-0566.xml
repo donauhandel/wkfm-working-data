@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -96,12 +97,12 @@
                <lb facs="#facs_66_r1l7" n="N006"/>gotium zu ihrer disposition übergeben habe, und sie solches mit selbsteignen und gedachter
                <lb facs="#facs_66_r1l8" n="N007"/><rs type="person" ref="#wkfm__46242">v. Palm</rs> Capitalien unter der Raggion <rs type="person" ref="#wkfm__10900">Dohm und Ely</rs> zu prosequiren gesinnet seyen.
                <lb facs="#facs_66_r1l9" n="N008"/>In obigen Anbringen de ps: 8<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 751 N<hi style="superscript">o</hi> 1927 und oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 751 N<hi style="superscript">o</hi> 1117 hat
-               <lb facs="#facs_66_r1l10" n="N009"/>der <rs type="person" ref="#wkfm__46239">Hermann Fridrich v. Dohm zu <hi>Dohm</hi> Dohmkirchen</rs> angezeiget und kund gemacht
+               <lb facs="#facs_66_r1l10" n="N009"/>der <rs type="person" ref="#wkfm__46239">Hermann Fridrich v. Dohm zu <del>Dohm</del> Dohmkirchen</rs> angezeiget und kund gemacht
                <lb facs="#facs_66_r1l11" n="N010"/>daß das Negotium unter der Raggion <rs type="person" ref="#wkfm__10900">Dohm und Ely</rs> finiret seye, er <rs type="person" ref="#wkfm__46239">v. Dohm</rs> dem <rs type="person" ref="#wkfm__22683">Ely</rs>
                <lb facs="#facs_66_r1l12" n="N011"/>hinausbezahlet und das negotium cum onere et commodo auf sich allein genohmen habe,
                <lb facs="#facs_66_r1l13" n="N012"/>anbey gesinnet seye, solches mit seinem alleinigen obligo auf vorigen fuß zu con-
-               <lb facs="#facs_66_r1l14" n="N013"/>tinuiren <hi>seinen b jüngeren brudern aber</hi> weil er aber ohne Kinder seye, seinen jüngern
-               <lb facs="#facs_66_r1l15" n="N014"/>Brudern <rs type="person" ref="#wkfm__46241">Johann Ludolph von Dohm zu <hi>Dohmk</hi> Dohmkirchen</rs> zu associren und die Raggion
+               <lb facs="#facs_66_r1l14" n="N013"/>tinuiren <del>seinen b jüngeren brudern aber</del> weil er aber ohne Kinder seye, seinen jüngern
+               <lb facs="#facs_66_r1l15" n="N014"/>Brudern <rs type="person" ref="#wkfm__46241">Johann Ludolph von Dohm zu <del>Dohmk</del> Dohmkirchen</rs> zu associren und die Raggion
                <lb facs="#facs_66_r1l16" n="N015"/><rs type="person" ref="#wkfm__46240">Gebrüder von Dohm</rs> laufen zu lassen
                <lb facs="#facs_66_r1l17" n="N016"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_66_r1l18" n="N017"/><seg type="orighead__other_notes">Anmerckungen</seg>

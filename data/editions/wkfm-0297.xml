@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -102,7 +103,7 @@
                <lb facs="#facs_243_r1l13" n="N014"/>Für den überreste hat eben dieser <rs type="person" ref="#wkfm__37701">Landwider</rs> das <choice><expan/><abbr>orig:</abbr></choice> Cautions
                <lb facs="#facs_243_line_1621473685890_5014" n="N015"/>Instrument dd<hi style="superscript">to</hi> 19<hi style="superscript">ten</hi> Junii 749 N<hi style="superscript">o</hi> 1231 eingeleget <choice><expan/><abbr>pr</abbr></choice> 5333 fl 20 x<hi style="superscript">r</hi>
                <lb facs="#facs_243_r1l17" n="N016"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
-               <lb facs="#facs_243_line_1621473707586_5032" n="N017"/>Worbey sich annoch 2 Anbringen des Supl: und zwey Bericht von dem <choice><expan/><abbr><hi>burgl:</hi></abbr></choice> Magistrat
+               <lb facs="#facs_243_line_1621473707586_5032" n="N017"/>Worbey sich annoch 2 Anbringen des Supl: und zwey Bericht von dem <choice><expan/><abbr><del>burgl:</del></abbr></choice> Magistrat
                <lb facs="#facs_243_r1l20" n="N018"/>und <choice><expan/><abbr>burg:</abbr></choice> Handlstand wegen dessen an und Aufnehmung befinden sub N<hi style="superscript">o</hi>
                <lb facs="#facs_243_r1l21" n="N019"/>1232, 1233, 1234, et 1235 Ibidem Inventurs Relation samt
                <lb facs="#facs_243_r1l22" n="N020"/>Inventur sub N<hi style="superscript">o</hi> 1236 de dato 15 März 787

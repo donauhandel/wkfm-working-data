@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -119,13 +120,13 @@
                <lb break="no" facs="#facs_116_r1l4" n="N004"/>Rebay</rs> separiret sie beede in eine Compagnie von 1<hi style="superscript">ten</hi> ej: auf 5 Jahr getretten seye,
                <lb facs="#facs_116_r1l5" n="N005"/>wonebens solle dem societaets contract dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> Junii 747 N<hi style="superscript">o</hi> 2004 in <choice><expan/><abbr>orig:</abbr></choice> einge-
                <lb facs="#facs_116_r1l6" n="N006"/>leget kraft welchen die societaet durch 5 Jahr von 1<hi style="superscript">ten</hi> Junii 747 bis dat: 752 dergestalten
-               <lb facs="#facs_116_r1l7" n="N007"/><unclear>fürtauren</unclear> <hi>solle,</hi> daß durch diese zeit keiner hievon abgehe, von dem eingelegten Capital
+               <lb facs="#facs_116_r1l7" n="N007"/><unclear>fürtauren</unclear> <del>solle,</del> daß durch diese zeit keiner hievon abgehe, von dem eingelegten Capital
                <lb facs="#facs_116_r1l8" n="N008"/>nichts herausnehmen sondern biß zu Ende auch ohne <choice><expan/><abbr>intee</abbr></choice> ligen zu lassen schuldig seyn solle
                <lb facs="#facs_116_r1l9" n="N009"/>beede die Handlung beobachten, die <unclear>Märkte</unclear> frequentiren und unter der Raggion <rs type="person" ref="#wkfm__46537">Mayer und Hakell</rs> die Firma führen, die Handlung
                <lb facs="#facs_116_r1l10" n="N010"/>Unkosten gemeinsamblich bestritten, jedweder nicht mehr alß jährl: 600 fl  aconto des Gewüns herausnehmen, alle Monath Cassa
                <lb facs="#facs_116_r1l11" n="N011"/>gemacht und Extract formiret, alle Jahr Billanz gezogen, und der Gewünn in gleich theil zu guten geschrieben werde, keiner
-               <lb facs="#facs_116_r1l12" n="N012"/>ohne des andern Vorwissen <hi><unclear>unter</unclear></hi> in der Handlung etwas Wichtiges unternehmen, Waaren beställen, bürgschaft leisten, ausser-
-               <lb facs="#facs_116_r1l13" n="N013"/>dem Negotio Wechselbrief ausstellen, alß in widrigen der Schaden ihm allein zufallen <hi>so</hi> würde, beede sich vor <unclear>ausborgen</unclear>
+               <lb facs="#facs_116_r1l12" n="N012"/>ohne des andern Vorwissen <del><unclear>unter</unclear></del> in der Handlung etwas Wichtiges unternehmen, Waaren beställen, bürgschaft leisten, ausser-
+               <lb facs="#facs_116_r1l13" n="N013"/>dem Negotio Wechselbrief ausstellen, alß in widrigen der Schaden ihm allein zufallen <del>so</del> würde, beede sich vor <unclear>ausborgen</unclear>
                <lb facs="#facs_116_r1l14" n="N014"/>hätte, auch die Aufnehm und Abdankung deren bedienten und <unclear>gungen</unclear> mit beeder Einwilligung beschehen, auch die Erben
                <lb facs="#facs_116_r1l15" n="N015"/>anbey dei societaet durch die bestimmte zeit zu continuiren schuldig, fallß einer oder der der andere nach Verschlüssung des
                <lb facs="#facs_116_r1l16" n="N016"/>Zeit auszutretten gedenckete, selbe 6 Monat vorhero die behörige Anzeige gemacht, bey der Austrettung
@@ -148,7 +149,7 @@
                <lb facs="#facs_116_r1l34" n="N034"/>Wittib nebst Heurathguth, Widerlag, und paraphernal Guth annoch 1300 fl zufallen etc. etc.
                <lb facs="#facs_116_r1l35" n="N035"/><choice><expan/><abbr>nro:</abbr></choice> 2185 1/4
                <lb facs="#facs_116_r1l36" n="N036"/><seg type="orighead__other_notes">Anmerckungen</seg>
-               <lb facs="#facs_116_r1l37" n="N037"/><hi>0</hi>
+               <lb facs="#facs_116_r1l37" n="N037"/><del>0</del>
                <lb facs="#facs_116_r1l38" n="N038"/>Vermög Anzeige de ps: 21<hi style="superscript">ten</hi> Marty 765 hat sich <rs type="person" ref="#wkfm__46535">Franz Hakel</rs> erkläret, das er 
                <lb facs="#facs_116_r1l39" n="N039"/>keinen Compagnon habe, sondern nur seinen freyen Bedienten <rs type="person" ref="#wkfm__46539">Franz Xaveri
                <lb break="no" facs="#facs_116_r1l40" n="N040"/>Hackel</rs> und <rs type="person" ref="#wkfm__46540">Mathias Joseph Seidl</rs> statt ihres Salarj jedem das 1/8tl des Gewinns

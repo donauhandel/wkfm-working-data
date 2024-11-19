@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -100,7 +101,7 @@
             
             <ab facs="#facs_166_r1">
                <lb facs="#facs_166_line_1621963208249_3381" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_166_line_1621963254504_3401" n="N002"/>Des <rs type="person" ref="#wkfm__43886">Johann Franz Prager <choice><expan/><abbr>seel.</abbr></choice> Wittib</rs> hat mit dem <rs type="person" ref="#wkfm__43887">Franz <hi>Prager</hi> Kleinrath</rs> ihrem Schwigersohn
+               <lb facs="#facs_166_line_1621963254504_3401" n="N002"/>Des <rs type="person" ref="#wkfm__43886">Johann Franz Prager <choice><expan/><abbr>seel.</abbr></choice> Wittib</rs> hat mit dem <rs type="person" ref="#wkfm__43887">Franz <del>Prager</del> Kleinrath</rs> ihrem Schwigersohn
                <lb facs="#facs_166_r1l3" n="N003"/>untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 749 den <choice><expan/><abbr>orig:</abbr></choice> societaets Contract abgeschlossen und N<hi style="superscript">o</hi> 1888 eingeleget
                <lb facs="#facs_166_r1l4" n="N004"/>krafft welchen die Societaet lebenslänglich wehren, die Firma <rs type="person" ref="#wkfm__43886">Johann Franz Prager <choice><expan/><abbr>sel.</abbr></choice>
                <lb break="no" facs="#facs_166_r1l5" n="N005"/>Wittib</rs> laufen, die <rs type="person" ref="#wkfm__43886">Pragerin</rs> ihr ganzes Capital in der Handlung ligen zu lassen schuldig
@@ -116,7 +117,7 @@
                <lb facs="#facs_166_r1l15" n="N015"/>genüßen haben nach den tod der <rs type="person" ref="#wkfm__43886">Pragerin</rs> sollen ihre Kinder 1 Jahrlang <unclear>dieselbe</unclear>
                <lb facs="#facs_166_r1l16" n="N016"/>Nuzung der Handlung zuziehen habe sohin aber von dem <rs type="person" ref="#wkfm__43887">Kleinrath</rs> nach vor
                <lb facs="#facs_166_r1l17" n="N017"/>läufiger Schäzung an Vaterliche und mütterlichen hindangefertiget werden sollen
-               <lb facs="#facs_166_r1l18" n="N018"/>Der <rs type="person" ref="#wkfm__43887">Klainrath</rs> hat in obigen anbringen de <unclear>d</unclear> <hi>17<hi style="superscript"/></hi>ten<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 756 N<hi style="superscript">o</hi> 1916 angezeiget daß
+               <lb facs="#facs_166_r1l18" n="N018"/>Der <rs type="person" ref="#wkfm__43887">Klainrath</rs> hat in obigen anbringen de <unclear>d</unclear> <del>17<hi style="superscript"/></del>ten<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 756 N<hi style="superscript">o</hi> 1916 angezeiget daß
                <lb facs="#facs_166_r1l19" n="N019"/>obige societaet mit der <rs type="person" ref="#wkfm__43886">Prager: Wittib</rs> ressolviret worden und die Handlung auf ihn allein gekomenen <gap/>
                <lb facs="#facs_166_r1l20" n="N020"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_166_line_1621963320330_3429" n="N021"/>Der <rs type="person" ref="#wkfm__43887">Klainrath</rs> hat den mit der <rs type="person" ref="#wkfm__46179">Anna Maria Pragerin</rs> unter 29<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 749

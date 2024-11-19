@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -94,12 +95,12 @@
                <lb facs="#facs_217_r3l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_217_r3l9" n="N009"/>Der Setti hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1746 folgender
                <lb facs="#facs_217_r3l10" n="N010"/>maßen ausgewisen das er Eigenthumlichen besize Vermög testaments Extract
-               <lb facs="#facs_217_r3l11" n="N011"/><hi>No</hi> § Neuntens N<hi style="superscript">o</hi> 1747 an Mütterlichen Erbgutt 6000 fl
+               <lb facs="#facs_217_r3l11" n="N011"/><del>No</del> § Neuntens N<hi style="superscript">o</hi> 1747 an Mütterlichen Erbgutt 6000 fl
                <lb facs="#facs_217_r3l13" n="N012"/>an abgeworffenen Gewün von seiner Handlung in Triest 2000 fl
                <lb facs="#facs_217_r3l14" n="N013"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
                <lb facs="#facs_217_r3l15" n="N014"/>Anbey hat dessen Vatter <rs type="person" ref="#wkfm__8802">Lucas Joseph Setti</rs> das <choice><expan/><abbr>orig:</abbr></choice> respective
                <lb facs="#facs_217_r3l16" n="N015"/>attestatum und Cautions Instrument dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 752 N<hi style="superscript">o</hi> 1748 in 
-               <lb facs="#facs_217_r3l17" n="N016"/><choice><expan/><abbr>orig:</abbr></choice> dahin eingeleget das <hi>sein Sohn</hi> gedacht sein Sohn 8000 fl eigen-
+               <lb facs="#facs_217_r3l17" n="N016"/><choice><expan/><abbr>orig:</abbr></choice> dahin eingeleget das <del>sein Sohn</del> gedacht sein Sohn 8000 fl eigen-
                <lb facs="#facs_217_r3l18" n="N017"/>thumlich besize und er für solche 8000 fl <unclear>casire</unclear>
             </ab>
             

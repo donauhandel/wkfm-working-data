@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -90,7 +91,7 @@
                <lb facs="#facs_209_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_209_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_209_r1l9" n="N009"/>Der <rs type="person" ref="#wkfm__47370">Perger</rs> hat zu Ausweisung seines Fundi ein von <rs type="person" ref="#wkfm__16482">Cornelius Daniel Schickh</rs>
-               <lb facs="#facs_209_r1l10" n="N010"/>untern 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 739 dahin ausgesteltes attestatum de N<hi style="superscript">o</hi> 1192 <hi>da</hi> eingeleget, das 
+               <lb facs="#facs_209_r1l10" n="N010"/>untern 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 739 dahin ausgesteltes attestatum de N<hi style="superscript">o</hi> 1192 <del>da</del> eingeleget, das 
                <lb facs="#facs_209_r1l11" n="N011"/>der <rs type="person" ref="#wkfm__47370">Perger</rs> an vätterlichen und erspahrten Gutt eigenthumlich besize 3000 fl
                <lb facs="#facs_209_r1l12" n="N012"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__16482">Cornelius Daniel Schickh</rs> das
                <lb facs="#facs_209_r1l13" n="N013"/><choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument dd<hi style="superscript">to</hi> 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 739 N<hi style="superscript">o</hi> 1193 eingeleget <choice><expan/><abbr>pr</abbr></choice> 5000 fl

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -101,18 +102,18 @@
                <lb break="no" facs="#facs_104_r1l9" n="N008"/>Küner</rs> und <rs type="person" ref="#wkfm__21476">Philip Jacob Bender</rs> angezeiget und kund gemacht, daß ihre societaet untern ult: <choice><expan/><abbr>Mart:</abbr></choice>
                <lb facs="#facs_104_r1l10" n="N009"/>d. a. zu Ende gehe und den stralico der <rs type="person" ref="#wkfm__37955">Küner</rs> übernohmen habe.
                <lb facs="#facs_104_line_1621958718741_1459" n="N010"/>Mitls Anbringen de ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 736 N<hi style="superscript">o</hi> 1905 hat die Raggion <rs type="person" ref="#wkfm__40640">Küner und <choice><expan/><abbr>Comp:</abbr></choice></rs> den Societaets Contract
-               <lb facs="#facs_104_line_1621958744181_1478" n="N011"/>in <choice><expan/><abbr>orig:</abbr></choice> <hi><unclear>gemahrer</unclear></hi> wie auch mitls Anbringen de ps: 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 749 N<hi style="superscript">o</hi> 1906 ein <choice><expan/><abbr>orig:</abbr></choice> Exemplar und der
-               <lb facs="#facs_104_r1l16" n="N012"/>sohin abgeenderten societaets Contract eingeleget, Es ist aber <hi>selber</hi> dieser societaets contract
-               <lb facs="#facs_104_r1l17" n="N013"/>über beschehenes Anlangen de ps: 18<hi style="superscript">ten</hi> May 747 nach<hi>t</hi> vorgehender Anzeige des dissolvirten societaet
-               <lb facs="#facs_104_r1l18" n="N014"/><hi>de</hi> zu folge Auflag <hi>eodem</hi> dd<hi style="superscript">to</hi> eodem und laut Quittung dd<hi style="superscript">to</hi> 19<hi style="superscript">ten</hi> <hi>Ma</hi> ej: <hi>von</hi> N<hi style="superscript">o</hi> 1907 dem
+               <lb facs="#facs_104_line_1621958744181_1478" n="N011"/>in <choice><expan/><abbr>orig:</abbr></choice> <del><unclear>gemahrer</unclear></del> wie auch mitls Anbringen de ps: 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 749 N<hi style="superscript">o</hi> 1906 ein <choice><expan/><abbr>orig:</abbr></choice> Exemplar und der
+               <lb facs="#facs_104_r1l16" n="N012"/>sohin abgeenderten societaets Contract eingeleget, Es ist aber <del>selber</del> dieser societaets contract
+               <lb facs="#facs_104_r1l17" n="N013"/>über beschehenes Anlangen de ps: 18<hi style="superscript">ten</hi> May 747 nach<del>t</del> vorgehender Anzeige des dissolvirten societaet
+               <lb facs="#facs_104_r1l18" n="N014"/><del>de</del> zu folge Auflag <del>eodem</del> dd<hi style="superscript">to</hi> eodem und laut Quittung dd<hi style="superscript">to</hi> 19<hi style="superscript">ten</hi> <del>Ma</del> ej: <del>von</del> N<hi style="superscript">o</hi> 1907 dem
                <lb facs="#facs_104_r1l19" n="N015"/><rs type="person" ref="#wkfm__37955">Jacob Küner</rs> und <rs type="person" ref="#wkfm__46134">Wolfgang Reisch</rs> ad <unclear>casandum</unclear> extradiret worden
                <lb facs="#facs_104_r1l20" n="N016"/>Mitls Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 747 N<hi style="superscript">o</hi> 1913 hat der <rs type="person" ref="#wkfm__37955">Jacob Küner</rs> und <rs type="person" ref="#wkfm__46134">Wolfgang Reisch</rs>
-               <lb facs="#facs_104_r1l21" n="N017"/>angezeiget, daß <hi>die</hi> ihre bisherige societaet unter der raggion <rs type="person" ref="#wkfm__40640">Küner und <choice><expan/><abbr>Comp:</abbr></choice></rs> mit ult: <choice><expan/><abbr><unclear>Apr:</unclear></abbr></choice>
-               <lb facs="#facs_104_r1l22" n="N018"/>d. a. <unclear>dissolviret</unclear> <hi>wor</hi> von dem <rs type="person" ref="#wkfm__37955">Küner</rs> der <rs type="person" ref="#wkfm__46134">Reisch</rs> wegen seines antheils gänzlich befridiget und der <unclear>stral-
+               <lb facs="#facs_104_r1l21" n="N017"/>angezeiget, daß <del>die</del> ihre bisherige societaet unter der raggion <rs type="person" ref="#wkfm__40640">Küner und <choice><expan/><abbr>Comp:</abbr></choice></rs> mit ult: <choice><expan/><abbr><unclear>Apr:</unclear></abbr></choice>
+               <lb facs="#facs_104_r1l22" n="N018"/>d. a. <unclear>dissolviret</unclear> <del>wor</del> von dem <rs type="person" ref="#wkfm__37955">Küner</rs> der <rs type="person" ref="#wkfm__46134">Reisch</rs> wegen seines antheils gänzlich befridiget und der <unclear>stral-
                <lb break="no" facs="#facs_104_r1l24" n="N019"/>cio</unclear> übernohmen worden seye.
                <lb facs="#facs_104_line_1621958799490_1502" n="N020"/>Mitls Anbringen de ps: 18<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 941 und oblatorien dd<hi style="superscript">to</hi> ps: 10<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 1111 hat der <rs type="person" ref="#wkfm__37955">Jacob Küner</rs> ange-
                <lb facs="#facs_104_r1l26" n="N021"/>zeiget und kund gemacht, daß er <rs type="person" ref="#wkfm__37955">Jacob Küner</rs> von <rs type="place" key="Memmingen">Memmingen</rs> in Compagnie seines hiesigen Hauses
-               <lb facs="#facs_104_r1l27" n="N022"/>das negotium unter voriger Raggion <rs type="person" ref="#wkfm__40640">Küner und <choice><expan/><abbr>Comp:</abbr></choice></rs> <hi><unclear>seine</unclear></hi> mit alleiniger obligo zu continuiren entschlossen.
+               <lb facs="#facs_104_r1l27" n="N022"/>das negotium unter voriger Raggion <rs type="person" ref="#wkfm__40640">Küner und <choice><expan/><abbr>Comp:</abbr></choice></rs> <del><unclear>seine</unclear></del> mit alleiniger obligo zu continuiren entschlossen.
                <lb facs="#facs_104_r1l28" n="N023"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_104_r1l29" n="N024"/><seg type="orighead__other_notes">Anmerckungen</seg>
             </ab>

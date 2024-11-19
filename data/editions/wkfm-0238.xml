@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -88,12 +89,12 @@
                <lb facs="#facs_184_r1l4" n="N004"/>der <rs type="person" ref="#wkfm__43927">Maria Anna Höglmüllerin</rs> untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 737 errichteten heuraths
                <lb facs="#facs_184_r1l5" n="N005"/>Contract N<hi style="superscript">o</hi> 2091 in Copia eingleget, krafft welchen 500 fl heurath Gutt nebst
                <lb facs="#facs_184_r1l6" n="N006"/>1000 fl Widerlag auf Überleben pactiret anbey vorgesehen worden, daß die
-               <lb facs="#facs_184_r1l7" n="N007"/>Braut ihren Bräutigam ihr übriges Vermögen <hi><unclear>gegen Q</unclear></hi> samt der Nuzung des-
-               <lb facs="#facs_184_r1l8" n="N008"/>selben in die Handlung gegen Quittung und dem <hi>überlassen</hi> einlegen wolle, 
+               <lb facs="#facs_184_r1l7" n="N007"/>Braut ihren Bräutigam ihr übriges Vermögen <del><unclear>gegen Q</unclear></del> samt der Nuzung des-
+               <lb facs="#facs_184_r1l8" n="N008"/>selben in die Handlung gegen Quittung und dem <del>überlassen</del> einlegen wolle, 
                <lb facs="#facs_184_r1l9" n="N009"/>das sie <unclear>ihr</unclear> ein drittl von der Nuzung der Handlung zu kommen, und
                <lb facs="#facs_184_r1l10" n="N010"/>das Capital, falß der Bräutigam vor ihr versterben solte, ihr gegen zuruck-
                <lb facs="#facs_184_line_1621470432419_3475" n="N011"/>stellung der Quittung baar hinausbezahlet werden, von jenem was wehrender Ehe erworben
-               <lb facs="#facs_184_r1l13" n="N012"/>werden würde dem erbenden 2/3 dem andern aber 1/3 tl <hi>zufallen so</hi> und falß ein
+               <lb facs="#facs_184_r1l13" n="N012"/>werden würde dem erbenden 2/3 dem andern aber 1/3 tl <del>zufallen so</del> und falß ein
                <lb facs="#facs_184_r1l14" n="N013"/>theil ohne Leibs erben und testament versterben würde dem Uberlebenden <unclear>besa</unclear>
                <lb facs="#facs_184_r1l15" n="N014"/>1000 zufallen sollen.
                <lb facs="#facs_184_r1l16" n="N015"/><seg type="orighead__other_notes">Anmerckungen</seg>

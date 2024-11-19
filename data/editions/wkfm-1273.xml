@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -92,7 +93,7 @@
                <lb facs="#facs_89_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_89_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_89_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_89_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__46927">May</rs> hat <hi>zu</hi> seinen fundum mitls der Specification N<hi style="superscript">o</hi> 1622 folgender
+               <lb facs="#facs_89_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__46927">May</rs> hat <del>zu</del> seinen fundum mitls der Specification N<hi style="superscript">o</hi> 1622 folgender
                <lb facs="#facs_89_r1l9" n="N010"/>massen ausgewisen, nemlich das er eigenthumlich besize
                <lb facs="#facs_89_r1l10" n="N011"/>an Vätterlichen Erbgutt 3200 fl
                <lb facs="#facs_89_r1l12" n="N012"/>an hievon a 7 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> durch 12 Jahr ausständig gewesen und bezahlten <choice><expan/><abbr>intee</abbr></choice> 2300 fl

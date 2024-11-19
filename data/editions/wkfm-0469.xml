@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -99,7 +100,7 @@
                <lb facs="#facs_149_r1l17" n="N014"/>und solche laut beygerukter Formula jurandi untern 2<hi style="superscript">ten</hi> Junii 747
                <lb facs="#facs_149_r1l18" n="N015"/>mit einem Cörperlichen Eyd dahin bestättiget, daß er an gutten Waaren
                <lb facs="#facs_149_r1l19" n="N016"/>und gutten activen Schulden wenigstens 30000 fl eigenthumlich besize.
-               <lb facs="#facs_149_r1l20" n="N017"/><hi>besi</hi>
+               <lb facs="#facs_149_r1l20" n="N017"/><del>besi</del>
             </ab>
             
         </div>

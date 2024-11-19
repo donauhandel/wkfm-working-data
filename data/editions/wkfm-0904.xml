@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -82,7 +83,7 @@
             <ab facs="#facs_92_r1">
                <lb facs="#facs_92_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_92_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_92_r1l3" n="N003"/>Der <rs type="person" ref="#wkfm__46380">Gapieller</rs> hat den mit der <hi>Fr</hi> <rs type="person" ref="#wkfm__46381">Maria Franzisca Jptischin</rs>
+               <lb facs="#facs_92_r1l3" n="N003"/>Der <rs type="person" ref="#wkfm__46380">Gapieller</rs> hat den mit der <del>Fr</del> <rs type="person" ref="#wkfm__46381">Maria Franzisca Jptischin</rs>
                <lb facs="#facs_92_r1l4" n="N004"/>untern 5<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 749 abgeschlossenen Heuraths Contract N<hi style="superscript">o</hi> 2165 in 
                <lb facs="#facs_92_r1l5" n="N005"/><choice><expan/><abbr>orig:</abbr></choice> eingeleget krafft welchen 500 fl heurathgutt nebst 1000 fl Wider-
                <lb facs="#facs_92_r1l6" n="N006"/>lag auf überleben, dann jenes, was wehrender Ehe erworben und er-
@@ -90,7 +91,7 @@
                <lb facs="#facs_92_r1l8" n="N008"/>worden, daß die Braut dem Bräutigam 2000 fl dergestalten zur freyen
                <lb facs="#facs_92_r1l9" n="N009"/>disposition geben wolle, daß solche fals er Bräuttigam vor der Braut
                <lb facs="#facs_92_r1l10" n="N010"/>versterben solte und keine Kinder <unclear>verliesse</unclear> ihr Braut anwiderum
-               <lb facs="#facs_92_r1l11" n="N011"/>zuruk <hi><unclear>fa</unclear></hi> <hi><unclear>we</unclear></hi> <hi>ansonsten aber</hi> fals aber Kinder vorhanden denen Kindern zu-
+               <lb facs="#facs_92_r1l11" n="N011"/>zuruk <del><unclear>fa</unclear></del> <del><unclear>we</unclear></del> <del>ansonsten aber</del> fals aber Kinder vorhanden denen Kindern zu-
                <lb facs="#facs_92_r1l12" n="N012"/>fallen sollen.
                <lb facs="#facs_92_r1l13" n="N013"/><seg type="orighead__other_notes">Anmerckungen</seg>
             </ab>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -95,8 +96,8 @@
                <lb facs="#facs_179_r1l10" n="N011"/>gewesten <choice><expan>Hofcommission (?)</expan><abbr>HofCoon</abbr></choice> getroffnen Vergleich ddto 26<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 735 N<hi style="superscript">o</hi> 112
                <lb facs="#facs_179_r1l11" n="N012"/>zumahlen seinen Handlungs-Kauf vor emanirter falliten-Ordnung
                <lb facs="#facs_179_r1l12" n="N013"/>angebunden, gegen von dem <rs type="person" ref="#wkfm__43871">Anton Joseph Jlling</rs> untern 31<hi style="superscript">ten</hi>
-               <lb facs="#facs_179_r1l13" n="N014"/><choice><expan/><abbr>Mart:</abbr></choice> 734 <hi>ausgest</hi> wegen übergebung der Handlung und begebung
-               <lb facs="#facs_179_r1l14" n="N015"/>der Handlungs freyheit ausgestelten <hi>Revers</hi> und in Copia vidimata
+               <lb facs="#facs_179_r1l13" n="N014"/><choice><expan/><abbr>Mart:</abbr></choice> 734 <del>ausgest</del> wegen übergebung der Handlung und begebung
+               <lb facs="#facs_179_r1l14" n="N015"/>der Handlungs freyheit ausgestelten <del>Revers</del> und in Copia vidimata
                <lb facs="#facs_179_r1l15" n="N016"/>N<hi style="superscript">o</hi> 113 eingelegten Revers dispensiret worden.
             </ab>
             

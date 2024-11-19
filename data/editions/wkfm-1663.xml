@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -98,7 +99,7 @@
                <lb facs="#facs_205_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_205_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_205_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_205_r1l9" n="N009"/>Der <rs type="person" ref="#wkfm__47571">Siber</rs> hat seinen Fundum mitls der <hi>Specification <unclear>welcher</unclear></hi> untern 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice>
+               <lb facs="#facs_205_r1l9" n="N009"/>Der <rs type="person" ref="#wkfm__47571">Siber</rs> hat seinen Fundum mitls der <del>Specification <unclear>welcher</unclear></del> untern 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice>
                <lb facs="#facs_205_r1l10" n="N010"/>747 von ihm beeydigten Specification N<hi style="superscript">o</hi> 1732 folgender maßen ausgewisen
                <lb facs="#facs_205_r1l11" n="N011"/>nemlich daß er eigenthumlich besize bey N <rs type="person" ref="#wkfm__27475 [?]">Weissenbekh</rs> 1530 fl
                <lb facs="#facs_205_r1l13" n="N012"/>an Mütterlichen 600 fl

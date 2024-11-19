@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -93,7 +94,7 @@
                <lb facs="#facs_69_r2l10" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_69_r2l11" n="N011"/>Der<rs type="person" ref="#wkfm__43201"> Anton Rathgeb</rs> hat zu Ausweisung seines Fundi mitls anbringen de ps:
                <lb facs="#facs_69_r2l12" n="N012"/><unclear>26<hi style="superscript"/></unclear><hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 737 N<hi style="superscript">o</hi> 1663 das von seinem Vattern <rs type="person" ref="#wkfm__46701">Bathasar Johann Rathgeb</rs> untern 22<hi style="superscript">ten</hi> ej:
-               <lb facs="#facs_69_r2l13" n="N013"/>ausgestelte <choice><expan/><abbr>orig:</abbr></choice> cautions instrument <choice><expan/><abbr><hi>pr</hi></abbr></choice> N<hi style="superscript">o</hi> 1661 eingeleget <choice><expan/><abbr>pr</abbr></choice> 8000 fl
+               <lb facs="#facs_69_r2l13" n="N013"/>ausgestelte <choice><expan/><abbr>orig:</abbr></choice> cautions instrument <choice><expan/><abbr><del>pr</del></abbr></choice> N<hi style="superscript">o</hi> 1661 eingeleget <choice><expan/><abbr>pr</abbr></choice> 8000 fl
             </ab>
             
         </div>

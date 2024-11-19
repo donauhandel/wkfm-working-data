@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -99,9 +100,9 @@
                <lb facs="#facs_235_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__43974">Niclas Plankh</rs> hat zu Ausweisung seines Fundi die orig: <choice><expan>Specification</expan><abbr><unclear>Specifi:</unclear></abbr></choice>
                <lb facs="#facs_235_r1l11" n="N010"/>N<hi style="superscript">o</hi> 1208 dahin eingeleget, daß er Vermög Conto Corrente (welcher nicht beyliget)
                <lb facs="#facs_235_line_1621473146862_4706" n="N011"/>an Waaren als eigenthum besize 3054 fl 15 x<hi style="superscript">r</hi>
-               <lb facs="#facs_235_r1l16" n="N012"/>welches er auch laut beygerukter formulaguardi untern <hi>23<hi style="superscript"/></hi>ten
+               <lb facs="#facs_235_r1l16" n="N012"/>welches er auch laut beygerukter formulaguardi untern <del>23<hi style="superscript"/></del>ten
                <lb facs="#facs_235_r1l17" n="N013"/>23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 745 mit eignen Corperlichen Eyd bekräfftiget
-               <lb facs="#facs_235_r1l18" n="N014"/>zu Completirung des übrigen hat selber <hi>zwey</hi> <choice><expan/><abbr>orig:</abbr></choice> Cautions
+               <lb facs="#facs_235_r1l18" n="N014"/>zu Completirung des übrigen hat selber <del>zwey</del> <choice><expan/><abbr>orig:</abbr></choice> Cautions
                <lb facs="#facs_235_line_1621473173798_4729" n="N015"/>Instrumenta als von <rs type="person" ref="#wkfm__43975">Johann Franz Zobl</rs> dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> Julii <choice><expan/><abbr>pr</abbr></choice> 3000 fl
                <lb facs="#facs_235_line_1621473181454_4736" n="N016"/>dann von <rs type="person" ref="#wkfm__9287">Daniel Wohlgemuth</rs> <choice><expan/><abbr>pr</abbr></choice> 2000 fl
                <lb facs="#facs_235_line_1621473188605_4743" n="N017"/><choice><expan/><abbr>Sa</abbr></choice> 8054 fl 15 x<hi style="superscript">r</hi>

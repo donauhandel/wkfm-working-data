@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -94,9 +95,9 @@
                <lb break="no" facs="#facs_210_r1l5" n="N005"/>Schmidt</rs> und Tochter Mann <rs type="person" ref="#wkfm__44051">Johann Caspar Scheidlin</rs> mit dem <rs type="person" ref="#wkfm__11308">Matthias
                <lb break="no" facs="#facs_210_r1l7" n="N006"/>Laßgallner</rs> eingetretten seye.
                <lb facs="#facs_210_r1l9" n="N007"/>Die Raggion <rs type="person" ref="#wkfm__44049">Kriner Schmidt und Scheidlin</rs> hat sich in obigen Anbringe de ps:
-               <lb facs="#facs_210_r1l11" n="N008"/>27<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 728 N<hi style="superscript">o</hi> 935 <hi>sich</hi> erklähret, das hierunter niemand anderer <unclear>theil</unclear>
+               <lb facs="#facs_210_r1l11" n="N008"/>27<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 728 N<hi style="superscript">o</hi> 935 <del>sich</del> erklähret, das hierunter niemand anderer <unclear>theil</unclear>
                <lb facs="#facs_210_r1l12" n="N009"/>alß der <rs type="person" ref="#wkfm__44053">Johann Andre Schmidt</rs> und <rs type="person" ref="#wkfm__44051">Johann Caspar Scheidlin</rs>
-               <lb facs="#facs_210_r1l15" n="N010"/>Die Raggion <rs type="person" ref="#wkfm__44049">Kriner Schmidt und Scheidlin</rs> hat mitls obigen <hi>obla</hi> avocatorien <unclear>de ps:</unclear>
+               <lb facs="#facs_210_r1l15" n="N010"/>Die Raggion <rs type="person" ref="#wkfm__44049">Kriner Schmidt und Scheidlin</rs> hat mitls obigen <del>obla</del> avocatorien <unclear>de ps:</unclear>
                <lb facs="#facs_210_r1l17" n="N011"/>1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1149 wie auch der <rs type="person" ref="#wkfm__44051">Johann Caspar v. Scheidlin</rs> mit oblatorien dd<hi style="superscript">to</hi> <gap/>
                <lb facs="#facs_210_r1l19" n="N012"/>N<hi style="superscript">o</hi> 1148 und abringen de ps: 23<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 2059 respective kundgemacht und ange-
                <lb facs="#facs_210_r1l21" n="N013"/>zeiget, daß ihre societaet mit Ende dieses Jahrs aufhören und küntighin als

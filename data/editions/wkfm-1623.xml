@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -82,7 +83,7 @@
             
             <ab facs="#facs_165_r3">
                <lb facs="#facs_165_line_1626262850142_2076" n="N001"/>136
-               <lb facs="#facs_165_line_1626262868766_2089" n="N002"/><hi>786</hi>
+               <lb facs="#facs_165_line_1626262868766_2089" n="N002"/><del>786</del>
                <lb facs="#facs_165_line_1626262875766_2093" n="N003"/>804
                <lb facs="#facs_165_r3l1" n="N004"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_165_r3l2" n="N005"/><rs type="person" ref="#wkfm__47519">Schönthann Johann Gottlieb</rs> burgerlicher Handlsmann

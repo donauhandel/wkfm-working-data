@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -100,10 +101,10 @@
                <lb facs="#facs_248_r1l6" n="N006"/>Recht und Gerechtigkeiten verheurathet der Bräutigam solche mit 2000 fl <unclear>widerlag</unclear>
                <lb facs="#facs_248_r1l7" n="N007"/>anebens heurathgutt und Widerlag auf überleben und was beede theile
                <lb facs="#facs_248_line_1621474294988_5292" n="N008"/>die untern 17<hi style="superscript">ten</hi> May 753 errichtete Inventur wehrender Ehe ererben oder <unclear>erobern</unclear> alß ein <unclear>glei-</unclear>
-               <lb facs="#facs_248_r1l10" n="N009"/>ches Gutt wie auch das <hi>die bey</hi> der Braut <hi>befindlich</hi> von denen bey ihr anligend <unclear>be-</unclear>
+               <lb facs="#facs_248_r1l10" n="N009"/>ches Gutt wie auch das <del>die bey</del> der Braut <del>befindlich</del> von denen bey ihr anligend <unclear>be-</unclear>
                <lb facs="#facs_248_r1l13" n="N010"/>findliche 4000 fl die Nuznüßung allein gebihren, der Bräutigam auch schuldig
                <lb facs="#facs_248_r1l14" n="N011"/>seyn solle, die Firma auf des verstorbenen Sartori Nahmen zu führen und <gap/>
-               <lb facs="#facs_248_r1l15" n="N012"/><unclear>etwa</unclear> zur Handlung <unclear>inclinirenden</unclear> Sohn mit zu interessiren <hi><unclear>schuldig</unclear></hi> stipuliret w<gap/>
+               <lb facs="#facs_248_r1l15" n="N012"/><unclear>etwa</unclear> zur Handlung <unclear>inclinirenden</unclear> Sohn mit zu interessiren <del><unclear>schuldig</unclear></del> stipuliret w<gap/>
                <lb facs="#facs_248_r1l16" n="N013"/>In obiger Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 N<hi style="superscript">o</hi> 159 hat sich die <rs type="person" ref="#wkfm__43993">Blumbergerin</rs> <gap/>
                <lb facs="#facs_248_r1l17" n="N014"/>hin Sartorin Sohn geäusseret, das sie von der in dem Heuraths Contract § fünftens
                <lb facs="#facs_248_r1l18" n="N015"/><unclear>gemachten Vorsehung</unclear>, das der <rs type="person" ref="#wkfm__43992">Blumberger</rs> ihr Ehewirth die Firma auf des Sartori <choice><expan/><abbr>seel:</abbr></choice> <gap/>
@@ -116,7 +117,7 @@
                <lb facs="#facs_248_r1l25" n="N022"/>ordnete Handlsleute <rs type="person" ref="#wkfm__43994">Joseph Melzer</rs> und <rs type="person" ref="#wkfm__43995">Anton Hirtmayr</rs>
                <lb facs="#facs_248_r1l26" n="N023"/>die über diese Handlung errichtete Billanz sub B ein-
                <lb facs="#facs_248_r1l27" n="N024"/>geleget und findet sich solche bey den firmen sub
-               <lb facs="#facs_248_r1l28" n="N025"/>N<hi style="superscript">o</hi> <hi>158 1/2</hi> 162 1/2.
+               <lb facs="#facs_248_r1l28" n="N025"/>N<hi style="superscript">o</hi> <del>158 1/2</del> 162 1/2.
             </ab>
             
         </div>

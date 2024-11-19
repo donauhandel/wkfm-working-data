@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -98,7 +99,7 @@
                <lb facs="#facs_31_r2l13" n="N011"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_31_r2l14" n="N012"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_31_r2l15" n="N013"/>Von der Raggion <rs type="person" ref="#wkfm__46969">Johann Wagner <choice><expan/><abbr>seel:</abbr></choice> Wittib und Sohn</rs> ist zu ausweisung des
-               <lb facs="#facs_31_r2l16" n="N014"/>handlungs Fundi ein vidimirter Extract aus der <rs type="person" ref="#wkfm__8599">Johann Wagner</rs> <hi>seinen</hi> untern
+               <lb facs="#facs_31_r2l16" n="N014"/>handlungs Fundi ein vidimirter Extract aus der <rs type="person" ref="#wkfm__8599">Johann Wagner</rs> <del>seinen</del> untern
                <lb facs="#facs_31_r2l18" n="N015"/><unclear>3<hi style="superscript"/></unclear><hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 740 errichteten Testament N<hi style="superscript">o</hi> 1849 eingeleget worden, kraft welchen §
                <lb facs="#facs_31_r2l19" n="N016"/>zehentens denen vier Wagnerischen Kindern zweyter Ehe jedwedern 10000 fl
                <lb facs="#facs_31_r2l20" n="N017"/>verschaffet worden.

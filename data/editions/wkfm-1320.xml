@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -84,7 +85,7 @@
                <lb facs="#facs_28_r1l5" n="N005"/>Contract N<hi style="superscript">o</hi> 2202 in copia vidimata eingeleget, kraft welchem 1000 fl heurath-
                <lb facs="#facs_28_r1l6" n="N006"/>Gutt nebst 2000 fl Widerlag dergestalten pactiret worden, daß solche
                <lb facs="#facs_28_r1l7" n="N007"/>nach de Bräutigams Tod der überlebenden Braut zufallen, fals aber
-               <lb facs="#facs_28_r1l8" n="N008"/>die Braut vor dem Bräutigam sterben <hi>solte</hi> würde der Braut mit
+               <lb facs="#facs_28_r1l8" n="N008"/>die Braut vor dem Bräutigam sterben <del>solte</del> würde der Braut mit
                <lb facs="#facs_28_r1l10" n="N009"/>solcher beeden leztwilligen zu disponiren bevorstehen solle.
                <lb facs="#facs_28_r1l11" n="N010"/><seg type="orighead__other_notes">Anmerckungen</seg>
             </ab>

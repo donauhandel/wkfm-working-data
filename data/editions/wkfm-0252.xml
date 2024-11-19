@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -108,7 +109,7 @@
                <lb facs="#facs_198_r1l12" n="N012"/>auf gleiche theil und jedwederer denen Creditoribus in <unclear>solidum</unclear> zu hafften schuldig
                <lb facs="#facs_198_r1l13" n="N013"/>seyn solle.
                <lb facs="#facs_198_r1l14" n="N014"/>Mitls Anbringen de ps: 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 N<hi style="superscript">o</hi> 1887 hat <rs type="person" ref="#wkfm__43943">Passy und Perinet</rs> angezeiget, daß sie <unclear>ihr</unclear>
-               <lb facs="#facs_198_r1l15" n="N015"/>ihrer Handlung der <rs type="person" ref="#wkfm__43947">Peter</rs> und <rs type="person" ref="#wkfm__43948">Franz Passy</rs> <hi>ohne</hi> jedoch ohne ihre Risico und obligo associret haben. <hi>0</hi>
+               <lb facs="#facs_198_r1l15" n="N015"/>ihrer Handlung der <rs type="person" ref="#wkfm__43947">Peter</rs> und <rs type="person" ref="#wkfm__43948">Franz Passy</rs> <del>ohne</del> jedoch ohne ihre Risico und obligo associret haben. <del>0</del>
                <lb facs="#facs_198_r1l16" n="N016"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_198_r1l17" n="N017"/><seg type="orighead__other_notes">Anmerckungen</seg><seg type="editorial_comment_seg"><note type="editorial_comment_note">Fortsetzung der Rubrik Societaets Contract und Interessenten</note></seg>
                <lb facs="#facs_198_r1l19" n="N020"/><rs type="person" ref="#wkfm__43946">Philibert Anton Perinet</rs>, <rs type="person" ref="#wkfm__43947">Peter Bassy</rs> und <rs type="person" ref="#wkfm__43948">Franz Bassy</rs>, das alle 4 gleich

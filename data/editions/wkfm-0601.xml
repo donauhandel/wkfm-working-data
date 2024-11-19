@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -106,7 +107,7 @@
                <lb facs="#facs_101_line_1621965778457_4425" n="N014"/>an neu eingeschafften Waarn 731 fl
                <lb facs="#facs_101_line_1621965771926_4416" n="N015"/>an actionen 737 fl
                <lb facs="#facs_101_line_1621965763658_4407" n="N016"/>an baaren <choice><expan/><abbr>pr</abbr></choice> Cassa 350 fl
-               <lb facs="#facs_101_line_1621965717253_4388" n="N017"/><hi>zusamen</hi> <choice><expan/><abbr>Sa</abbr></choice> 4238 fl. 38 x<hi style="superscript">r</hi>
+               <lb facs="#facs_101_line_1621965717253_4388" n="N017"/><del>zusamen</del> <choice><expan/><abbr>Sa</abbr></choice> 4238 fl. 38 x<hi style="superscript">r</hi>
             </ab>
             
         </div>

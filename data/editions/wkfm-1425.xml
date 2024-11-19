@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -91,7 +92,7 @@
                <lb facs="#facs_73_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_73_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_73_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__46735">Reyell</rs> hat zu Ausweisung seines Handlungs Fundi die <choice><expan/><abbr>orig:</abbr></choice> Inven-
-               <lb facs="#facs_73_r1l9" n="N010"/>tur dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 737 N<hi style="superscript">o</hi> 1664 eingeleget an <hi>seinem</hi> Antheil an Ubermaß <choice><expan/><abbr>pr</abbr></choice> 2124 fl
+               <lb facs="#facs_73_r1l9" n="N010"/>tur dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 737 N<hi style="superscript">o</hi> 1664 eingeleget an <del>seinem</del> Antheil an Ubermaß <choice><expan/><abbr>pr</abbr></choice> 2124 fl
                <lb facs="#facs_73_r1l11" n="N011"/>dann ein von seiner Ehewirthin <rs type="person" ref="#wkfm__46737">Maria Anna</rs> unter 6<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 738 N<hi style="superscript">o</hi> 1665 in <choice><expan/><abbr>orig:</abbr></choice> dahin
                <lb facs="#facs_73_r1l12" n="N012"/>ausgestelte Erklährung, daß sie von der ihr zugehörigen Halbscheid des
                <lb facs="#facs_73_r1l13" n="N013"/>Vermögens zur Sicherheit deren Handlungs Creditoren gewidmet haben

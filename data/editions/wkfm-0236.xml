@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -97,7 +98,7 @@
                <lb facs="#facs_182_r1l3" n="N003"/>einen Societaets Contract abgeschlossen und solchen in Copia vidimata N<hi style="superscript">o</hi> 1868
                <lb facs="#facs_182_r1l4" n="N004"/>eingeleget krafft welchen der fundus in einen Waaren lager von 41120 fl und daß
                <lb facs="#facs_182_r1l5" n="N005"/>der <rs type="person" ref="#wkfm__46560">Paumgartner</rs> <choice><expan/><abbr>pr</abbr></choice> 6000 fl in Werth die übrige der <rs type="person" ref="#wkfm__10641">Moser</rs> einlegen
-               <lb facs="#facs_182_r1l6" n="N006"/>solle. <hi>stabiliret</hi> die Nuzung über abzug aller Unkosten in 2 Theil zer-
+               <lb facs="#facs_182_r1l6" n="N006"/>solle. <del>stabiliret</del> die Nuzung über abzug aller Unkosten in 2 Theil zer-
                <lb facs="#facs_182_r1l7" n="N007"/>teilet und jedwedern 1 Theil zukommen, nach zwey Jahren aber dem <rs type="person" ref="#wkfm__10641">Moser</rs>
                <lb facs="#facs_182_r1l8" n="N008"/>sein <rs type="person" ref="#wkfm__46908">Sohn</rs> in Compagnie zu nehmen bevorstehen und sohin die Nuzung
                <lb facs="#facs_182_r1l9" n="N009"/>in 3 Theil zertheilet und der dritte theil gedachten <rs type="person" ref="#wkfm__46908">Moserischen Sohn</rs> zuweisen

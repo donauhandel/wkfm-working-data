@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -89,7 +90,7 @@
             
             <ab facs="#facs_177_r2">
                <lb facs="#facs_177_line_1626263037669_2184" n="N001"/>137
-               <lb facs="#facs_177_line_1626691681745_1053" n="N002"/><hi>792</hi>
+               <lb facs="#facs_177_line_1626691681745_1053" n="N002"/><del>792</del>
                <lb facs="#facs_177_line_1626691684595_1056" n="N003"/>810
                <lb facs="#facs_177_r2l1" n="N004"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_177_r2l3" n="N005"/><rs type="person" ref="#wkfm__33707">Schweinzer Johann Andre</rs> burgerlicher Handlsmann
@@ -105,7 +106,7 @@
                <lb facs="#facs_177_r2l19" n="N015"/>Ein Cautions Instrument eingleget <choice><expan/><abbr>pr</abbr></choice> 4000 fl
                <lb facs="#facs_177_r2l20" n="N016"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
                <lb facs="#facs_177_r2l21" n="N017"/>Uber die von dem <rs type="person" ref="#wkfm__33707">Schweinzer</rs> gemachte Anzeige, das aus seinem Stal<gap/> zu er-
-               <lb facs="#facs_177_r2l22" n="N018"/><unclear>sehen</unclear> wäre, das er 8000 fl eigenthumlich besize ist <hi>ihm</hi> selben zu folgender
+               <lb facs="#facs_177_r2l22" n="N018"/><unclear>sehen</unclear> wäre, das er 8000 fl eigenthumlich besize ist <del>ihm</del> selben zu folgender
                <lb facs="#facs_177_r2l23" n="N019"/>hierauf erlassenen Auflag dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 742 und Quittung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> ej:
                <lb facs="#facs_177_r2l24" n="N020"/>N<hi style="superscript">o</hi> 1718 <unclear>obiger</unclear> von dem <rs type="person" ref="#wkfm__9344">Kircher</rs> eingelegtes Cautionis Instrument
                <lb facs="#facs_177_r2l25" n="N021"/>extradiret worden.

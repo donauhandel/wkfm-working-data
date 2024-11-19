@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -101,7 +102,7 @@
                <lb facs="#facs_143_line_1621876608692_344" n="N015"/>Instrument dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 756 N<hi style="superscript">o</hi> 1451 eingeleget <choice><expan/><abbr>pr</abbr></choice> 2320 fl 9 x<hi style="superscript">r</hi>
                <lb facs="#facs_143_r1l20" n="N016"/><choice><expan/><abbr>Sa</abbr></choice> 4000 fl
                <lb facs="#facs_143_r1l21" n="N017"/>Hirbey befindet sich ein Anbringen wegen <unclear>Annehmung </unclear>des <choice><expan/><abbr><unclear>Sup:</unclear></abbr></choice> N<hi style="superscript">o</hi> 1452
-               <lb facs="#facs_143_r1l22" n="N018"/><hi>0</hi>
+               <lb facs="#facs_143_r1l22" n="N018"/><del>0</del>
             </ab>
             
         </div>

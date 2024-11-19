@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -130,7 +131,7 @@
                <lb facs="#facs_141_r2l13" n="N013"/>unter der Raggion <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und <choice><expan/><abbr>Compag:</abbr></choice></rs> laufenden Negotio seye, wehrend seiner Abwesenheit habe
                <lb facs="#facs_141_line_1628443608142_928" n="N014"/>der <rs type="person" ref="#wkfm__10683">Carl Joseph Starkh</rs> und <rs type="person" ref="#wkfm__15300">Johann Anton Bormastino k. k. Niderlags Verwanter</rs>, an welchen <unclear>lezteren</unclear> er die Pro-
                <lb facs="#facs_141_r2l15" n="N015"/>cura gegeben hatte, geführet, nunmehro aber wider er <rs type="person" ref="#wkfm__36354">Bormastino der jüngere</rs> allein und mit aufhöbung
-               <lb facs="#facs_141_r2l16" n="N016"/>der von dem <rs type="person" ref="#wkfm__10683">Starkh</rs> gehabten Firmierung, <hi>die</hi> mit bewilligung seiner interessierten <rs type="person" ref="#wkfm__9133">Bormastino et Butterna</rs> die
+               <lb facs="#facs_141_r2l16" n="N016"/>der von dem <rs type="person" ref="#wkfm__10683">Starkh</rs> gehabten Firmierung, <del>die</del> mit bewilligung seiner interessierten <rs type="person" ref="#wkfm__9133">Bormastino et Butterna</rs> die
                <lb facs="#facs_141_r2l17" n="N017"/>firma <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und <choice><expan/><abbr>Comag:</abbr></choice></rs><choice><expan/><abbr/></choice> wie selbe in <gap/> beygeruket führen, welcher Erklährung <rs type="person" ref="#wkfm__9133">Bormastino und
                <lb break="no" facs="#facs_141_r2l18" n="N018"/>Butterna</rs> mitls Anbringen de ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 729 N<hi style="superscript">o</hi> 87 gänzlich beygestimmet.
                <lb facs="#facs_141_r2l19" n="N019"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 732 N<hi style="superscript">o</hi> 1859 ist die Procura der Raggion <rs type="person" ref="#wkfm__36354">Johann Anton Bormastino der jüngere</rs>
@@ -151,15 +152,15 @@
                <lb facs="#facs_141_line_1621466319257_2287" n="N034"/>in <choice><expan/><abbr>orig:</abbr></choice> sine Dato N<hi style="superscript">o</hi> 1143 eingeleget, daß die Compagnie der Raggion <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und <choice><expan/><abbr>Compag:</abbr></choice></rs>
                <lb facs="#facs_141_line_1621466253593_2267" n="N035"/>mit interesse von <rs type="person" ref="#wkfm__9133">Bormastino e Butterna</rs>
                <lb facs="#facs_141_r2l41" n="N036"/><unclear>in</unclear> abgewichenen Monath <choice><expan/><abbr>Apr:</abbr></choice> 728 ihr Endschafft erreichet habe, welche aber <unclear>sohin</unclear> anwiderum
-               <lb facs="#facs_141_r2l42" n="N037"/>und biß <unclear>nunzu</unclear> unter nemlicher Raggion mit interesse deren nemlichen und des <rs type="person" ref="#wkfm__8593">Johann Maria von Tinti</rs> unter <hi>0</hi>
+               <lb facs="#facs_141_r2l42" n="N037"/>und biß <unclear>nunzu</unclear> unter nemlicher Raggion mit interesse deren nemlichen und des <rs type="person" ref="#wkfm__8593">Johann Maria von Tinti</rs> unter <del>0</del>
                <lb facs="#facs_141_r2l43" n="N038"/><seg type="orighead__fundi">Fundi Ausweisung</seg><seg type="editorial_comment_seg"><note type="editorial_comment_note">Der Folgende Text bildet das Ende der Rubrik Oblatorien und Avocatorien</note></seg>
-               <lb facs="#facs_141_r2l44" n="N039"/><hi>0</hi> firmirung des<rs type="person" ref="#wkfm__10683"> Carl Joseph Starkh</rs> alß Siglen administratore <unclear>continuiret</unclear> worden seye
+               <lb facs="#facs_141_r2l44" n="N039"/><del>0</del> firmirung des<rs type="person" ref="#wkfm__10683"> Carl Joseph Starkh</rs> alß Siglen administratore <unclear>continuiret</unclear> worden seye
                <lb facs="#facs_141_line_1621466147760_2245" n="N040"/>nunmehro aber seye die Firma der vorigen Raggion dem <rs type="person" ref="#wkfm__36354">Johann Anton Bormastino dem jüngern</rs> allein <unclear>anvertrauet</unclear>
                <lb facs="#facs_141_r2l48" n="N041"/>worden
-               <lb facs="#facs_141_r2l49" n="N042"/>Mitls Anbringen de ps: 5<hi style="superscript">ten</hi> Julii 731 <hi>hat d</hi> N<hi style="superscript">o</hi> 1858 hat der <rs type="person" ref="#wkfm__36354">Johann Anton Bormastino der
-               <lb break="no" facs="#facs_141_r2l50" n="N043"/>jüngere</rs> die von <hi>de</hi> ihm untern 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> 731 dahin erlassene oblatorien N<hi style="superscript">o</hi> 1090 in <choice><expan/><abbr>org:</abbr></choice> einge-
+               <lb facs="#facs_141_r2l49" n="N042"/>Mitls Anbringen de ps: 5<hi style="superscript">ten</hi> Julii 731 <del>hat d</del> N<hi style="superscript">o</hi> 1858 hat der <rs type="person" ref="#wkfm__36354">Johann Anton Bormastino der
+               <lb break="no" facs="#facs_141_r2l50" n="N043"/>jüngere</rs> die von <del>de</del> ihm untern 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> 731 dahin erlassene oblatorien N<hi style="superscript">o</hi> 1090 in <choice><expan/><abbr>org:</abbr></choice> einge-
                <lb facs="#facs_141_r2l51" n="N044"/>leget, daß die Raggion <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und <choice><expan/><abbr>Compag:</abbr></choice></rs> unter nemlichen dato ihr Endschafft er-
-               <lb facs="#facs_141_r2l52" n="N045"/>reichet habe, und das Negotium <hi>nebst dem Stralicio der vorigen</hi> unter der Raggion <rs type="person" ref="#wkfm__36354">Johann
+               <lb facs="#facs_141_r2l52" n="N045"/>reichet habe, und das Negotium <del>nebst dem Stralicio der vorigen</del> unter der Raggion <rs type="person" ref="#wkfm__36354">Johann
                <lb break="no" facs="#facs_141_r2l53" n="N046"/>Anton Bormastino der jüngere</rs> mit interesse des <rs type="person" ref="#wkfm__9133">Bormastino e Butterna</rs> nebst dem
                <lb facs="#facs_141_r2l54" n="N047"/>Stralcio der vorigen Raggion unter Firmirung des <rs type="person" ref="#wkfm__36354">Johann Anton Bormastino des jüngern</rs>
                <lb facs="#facs_141_r2l55" n="N048"/>fortgesezet werden wird.

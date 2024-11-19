@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -74,7 +75,7 @@
             
             <ab facs="#facs_14_r1">
                <lb facs="#facs_14_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_14_r1l2" n="N002"/>In obiger Erklährung <hi>ha</hi> dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 249 hat sich
+               <lb facs="#facs_14_r1l2" n="N002"/>In obiger Erklährung <del>ha</del> dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 249 hat sich
                <lb facs="#facs_14_r1l3" n="N003"/>der <rs type="person" ref="#wkfm__46198">Dietz</rs> geäusseret das er seine Handlung allein ohne Compagnon
                <lb facs="#facs_14_r1l4" n="N004"/>führe
                <lb facs="#facs_14_r1l5" n="N005"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>

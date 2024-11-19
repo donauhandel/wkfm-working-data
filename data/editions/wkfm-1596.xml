@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -102,8 +103,8 @@
                <lb facs="#facs_138_r1l14" n="N013"/>Verstorbenen Vermögen pactiret worden.
                <lb facs="#facs_138_r1l15" n="N014"/><seg type="orighead__other_notes">Anmerckungen</seg>
                <lb facs="#facs_138_r1l16" n="N015"/>Mittels Anbringen de psto: 8<hi style="superscript">ten</hi> April 779 hat der hiesige Handlstand ange-
-               <lb facs="#facs_138_r1l17" n="N016"/>zeiget, das <rs type="person" ref="#wkfm__10071">Mathias Silber</rs> den 27: Merz 779 gestorben, hierüber ist <hi>der</hi>
-               <lb facs="#facs_138_r1l18" n="N017"/><hi>bericht</hi> weitere Anzeige <hi><unclear>hirzu</unclear></hi> ex off: erstattet und solche bey den 
+               <lb facs="#facs_138_r1l17" n="N016"/>zeiget, das <rs type="person" ref="#wkfm__10071">Mathias Silber</rs> den 27: Merz 779 gestorben, hierüber ist <del>der</del>
+               <lb facs="#facs_138_r1l18" n="N017"/><del>bericht</del> weitere Anzeige <del><unclear>hirzu</unclear></del> ex off: erstattet und solche bey den 
                <lb facs="#facs_138_r1l19" n="N018"/><rs type="person" ref="#wkfm__10071">Mathias Silberischen</rs> <choice><expan>Mercantil [?]</expan><abbr>Mtil</abbr></choice> acten aufzubehalten verordnet worden. liegt bey
                <lb facs="#facs_138_r1l20" n="N019"/>den firmen a N<hi style="superscript">o</hi> 492 usq 506 inclusvie sub N<hi style="superscript">o</hi> 724 1/2
             </ab>

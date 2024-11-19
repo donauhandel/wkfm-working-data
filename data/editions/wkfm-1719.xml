@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -80,8 +81,8 @@
             
             <ab facs="#facs_13_r2">
                <lb facs="#facs_13_r2l2" n="N001"/>852
-               <lb facs="#facs_13_line_1630351303280_390" n="N002"/><hi>825</hi>
-               <lb facs="#facs_13_line_1626342999682_3256" n="N003"/><hi>143</hi>
+               <lb facs="#facs_13_line_1630351303280_390" n="N002"/><del>825</del>
+               <lb facs="#facs_13_line_1626342999682_3256" n="N003"/><del>143</del>
                <lb facs="#facs_13_line_1626343004073_3259" n="N004"/>144
                <lb facs="#facs_13_r2l1" n="N005"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_13_line_1630351303280_391" n="N006"/><rs type="person" ref="#wkfm__46957">Wanderpohl Johann Detlof</rs> hofbefreyter Handlsmann

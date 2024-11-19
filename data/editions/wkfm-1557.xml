@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -98,7 +99,7 @@
                <lb facs="#facs_99_r1l11" n="N011"/>worden
                <lb facs="#facs_99_r1l12" n="N012"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_99_r1l13" n="N013"/>Der <rs type="person" ref="#wkfm__43782">Anton Segalla</rs> und <rs type="person" ref="#wkfm__47467">Domenico Bigongini</rs> haben die mitls Anbringen de ps: 10<hi style="superscript">ten</hi>
-               <lb facs="#facs_99_r1l14" n="N014"/><choice><expan/><abbr>Janu:</abbr></choice> 726 <hi>angel</hi> in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1141 eingelegte oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> ej: dahin erlassen
+               <lb facs="#facs_99_r1l14" n="N014"/><choice><expan/><abbr>Janu:</abbr></choice> 726 <del>angel</del> in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1141 eingelegte oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> ej: dahin erlassen
                <lb facs="#facs_99_r1l15" n="N015"/>daß sie beede mit interesse des <rs type="person" ref="#wkfm__47468">Johann Carignani</rs> von Neapl ein Negotium
                <lb facs="#facs_99_r1l16" n="N016"/>stabiliret, und unter der societaets raggion <rs type="person" ref="#wkfm__12817">Segalla e Bigongini</rs> mit ihrer beeden
                <lb facs="#facs_99_r1l17" n="N017"/>Firmirung führen werden

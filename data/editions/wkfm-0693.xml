@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -81,7 +82,7 @@
                <lb facs="#facs_25_r3l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_25_r3l3" n="N004"/><rs type="person" ref="#wkfm__12360">Fuchß Bernhard</rs> burgerlicher Handlsmann
                <lb facs="#facs_25_r3l4" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_25_r3l5" n="N006"/><hi>Bernhardt Fuchß laut Erklährung dd<hi style="superscript"/></hi>to
+               <lb facs="#facs_25_r3l5" n="N006"/><del>Bernhardt Fuchß laut Erklährung dd<hi style="superscript"/></del>to
                <lb facs="#facs_25_r3l6" n="N007"/><rs type="person" ref="#wkfm__47068">Bernhardt Fuchß und Sohn</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1932
                <lb facs="#facs_25_r3l7" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_25_r3l8" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

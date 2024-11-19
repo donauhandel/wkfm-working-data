@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -81,7 +82,7 @@
                <lb facs="#facs_214_r1l2" n="N002"/>Der <rs type="person" ref="#wkfm__8487">Joseph Schwarzleithner</rs> hat mitls Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> <unclear>749</unclear>
                <lb facs="#facs_214_r1l3" n="N003"/>N<hi style="superscript">o</hi> 2060 und oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 1150 et 1151 respectivé angezeiget
                <lb facs="#facs_214_r1l5" n="N004"/>und kund gemacht, das er sich seinem Sohn <rs type="person" ref="#wkfm__47576">Franz Schwarzleithner</rs> mit
-               <lb facs="#facs_214_r1l6" n="N005"/>Eingangs Jahres um den dritten Theil <hi>associret habe</hi> Gewün und
+               <lb facs="#facs_214_r1l6" n="N005"/>Eingangs Jahres um den dritten Theil <del>associret habe</del> Gewün und
                <lb facs="#facs_214_r1l7" n="N006"/>Verlust associret habe, und die Handlung unter der Raggion <rs type="person" ref="#wkfm__43987">Joseph
                <lb break="no" facs="#facs_214_r1l9" n="N007"/>Schwarzleithner und Sohn</rs> mit beeden firmirung werde fortgeführet
                <lb facs="#facs_214_r1l10" n="N008"/>werden.

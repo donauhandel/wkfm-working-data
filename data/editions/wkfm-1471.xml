@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -121,15 +122,15 @@
                <lb facs="#facs_13_r2l18" n="N018"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_13_r2l19" n="N019"/>Die Raggion <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und Compagnie</rs> hat die <choice><expan/><abbr>orig:</abbr></choice> oblatorien untern 16<hi style="superscript">ten</hi> May 726 N<hi style="superscript">o</hi> 1142 welche selbe mitls
                <lb facs="#facs_13_r2l20" n="N020"/>Anbringen de ps: 20<hi style="superscript">ten</hi> May 726 N<hi style="superscript">o</hi> 706 eingeleget, dahin erlassen daß das unter der Raggion <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und Com-
-               <lb break="no" facs="#facs_13_r2l21" n="N021"/>pagnie</rs> geloffene <hi>mit interel</hi> negotium mit <choice><expan/><abbr>intee</abbr></choice> des <rs type="person" ref="#wkfm__43904">Franz Ferdinand von <unclear>Klannberg</unclear></rs> und <rs type="person" ref="#wkfm__36354">Johann Anton Bor-
-               <lb break="no" facs="#facs_13_r2l22" n="N022"/>mastino</rs> gänzlch aufgehoben mit <hi>interesse</hi> eignen Capitalien aber mit interesse von <rs type="person" ref="#wkfm__9133">Barmastino und
-               <lb break="no" facs="#facs_13_r2l23" n="N023"/>Butterna</rs> und alleinigen Firmirung des <hi>J</hi> <rs type="person" ref="#wkfm__10683">Carl Joseph Starkh</rs> <hi>aber</hi> anwiderum erneuert worden seye.
-               <lb facs="#facs_13_r2l25" n="N024"/>Eben dieselbe hat <hi>mitls</hi> durch die oblatorien <hi>dd<hi style="superscript"/></hi>to<hi style="superscript">o</hi> 1143 in <choice><expan/><abbr>orig:</abbr></choice> sine dato, welche <hi>derselb</hi> der <rs type="person" ref="#wkfm__36354">Johann Anton Borma-
+               <lb break="no" facs="#facs_13_r2l21" n="N021"/>pagnie</rs> geloffene <del>mit interel</del> negotium mit <choice><expan/><abbr>intee</abbr></choice> des <rs type="person" ref="#wkfm__43904">Franz Ferdinand von <unclear>Klannberg</unclear></rs> und <rs type="person" ref="#wkfm__36354">Johann Anton Bor-
+               <lb break="no" facs="#facs_13_r2l22" n="N022"/>mastino</rs> gänzlch aufgehoben mit <del>interesse</del> eignen Capitalien aber mit interesse von <rs type="person" ref="#wkfm__9133">Barmastino und
+               <lb break="no" facs="#facs_13_r2l23" n="N023"/>Butterna</rs> und alleinigen Firmirung des <del>J</del> <rs type="person" ref="#wkfm__10683">Carl Joseph Starkh</rs> <del>aber</del> anwiderum erneuert worden seye.
+               <lb facs="#facs_13_r2l25" n="N024"/>Eben dieselbe hat <del>mitls</del> durch die oblatorien <del>dd<hi style="superscript"/></del>to<hi style="superscript">o</hi> 1143 in <choice><expan/><abbr>orig:</abbr></choice> sine dato, welche <del>derselb</del> der <rs type="person" ref="#wkfm__36354">Johann Anton Borma-
                <lb break="no" facs="#facs_13_r2l27" n="N025"/>stino der jüngere</rs> mitls Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 729 N<hi style="superscript">o</hi> 1144 eingelegt, weithers kund gemacht, daß die Firma den
                <lb facs="#facs_13_r2l28" n="N026"/><rs type="person" ref="#wkfm__10683">Carl Joseph Stark</rs>, welcher ohnehin kein interesse in dem negotio gehabt habe, abgenohmen und dem
                <lb facs="#facs_13_r2l29" n="N027"/><rs type="person" ref="#wkfm__36354">Johann Anton Bormastino dem jüngeren</rs> anvertrauet worden seye das negotium aber mit <choice><expan/><abbr>intee</abbr></choice>
-               <lb facs="#facs_13_r2l30" n="N028"/><rs type="person" ref="#wkfm__9133">Bormastini und Butterna</rs> und <rs type="person" ref="#wkfm__8593">Johann Maria Tinti</rs> <hi>fort</hi> unter der vorigen Raggion werde fortgesezet
-               <lb facs="#facs_13_r2l31" n="N029"/>werden <hi>werden</hi>.
+               <lb facs="#facs_13_r2l30" n="N028"/><rs type="person" ref="#wkfm__9133">Bormastini und Butterna</rs> und <rs type="person" ref="#wkfm__8593">Johann Maria Tinti</rs> <del>fort</del> unter der vorigen Raggion werde fortgesezet
+               <lb facs="#facs_13_r2l31" n="N029"/>werden <del>werden</del>.
                <lb facs="#facs_13_r2l34" n="N030"/>Mitls oblatorien dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi> Junii 731 N<hi style="superscript">o</hi> 1090 in <choice><expan/><abbr>orig:</abbr></choice> hat der <rs type="person" ref="#wkfm__36354">Johann Anton Bormastino der jüngere</rs> kund ge-
                <lb facs="#facs_13_r2l35" n="N031"/>macht, daß das negotium unter der Raggion <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und Compagnie</rs> gänzlich geendiget seye, und er
                <lb facs="#facs_13_r2l36" n="N032"/><unclear>ein solches</unclear> unter seiner eignen Raggion mit dem Stralzio der vorigen und intee von <rs type="person" ref="#wkfm__9133">Bormastino und Butterna</rs> continuiren werde

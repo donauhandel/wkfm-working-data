@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -78,7 +79,7 @@
             
             <ab facs="#facs_1_r1">
                <lb facs="#facs_1_line_1630419930525_1079" n="N001"/>153
-               <lb facs="#facs_1_line_1627563238831_1160" n="N002"/><hi>890</hi>
+               <lb facs="#facs_1_line_1627563238831_1160" n="N002"/><del>890</del>
                <lb facs="#facs_1_line_1627563244631_1163" n="N003"/>908
                <lb facs="#facs_1_r1l1" n="N004"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_1_r1l3" n="N005"/><rs type="person" ref="#wkfm__7607">Zacher Johann</rs> burgerlicher Handlsmann

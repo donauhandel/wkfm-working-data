@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -83,7 +84,7 @@
             <ab facs="#facs_54_r1">
                <lb facs="#facs_54_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_54_r1l2" n="N002"/>In obigen Anbringen de ps: 8<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1051 und Erklährung dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi>
-               <lb facs="#facs_54_r1l3" n="N003"/><choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1050 hat der <rs type="person" ref="#wkfm__11940">v. Münch</rs> <hi>den</hi> nebst dem von <rs type="person" ref="#wkfm__46698">Rauner dem jüngern</rs>
+               <lb facs="#facs_54_r1l3" n="N003"/><choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1050 hat der <rs type="person" ref="#wkfm__11940">v. Münch</rs> <del>den</del> nebst dem von <rs type="person" ref="#wkfm__46698">Rauner dem jüngern</rs>
                <lb facs="#facs_54_r1l4" n="N004"/>angezeiget, das sie das Negotium unter ihrer beeder interesse und obligo allein
                <lb facs="#facs_54_r1l6" n="N005"/>unter der societaets raggion <rs type="person" ref="#wkfm__8334">v. Rauner <unclear>Jgre</unclear> und Münch</rs> führen
                <lb facs="#facs_54_r1l7" n="N006"/>Mitls Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 733 N<hi style="superscript">o</hi> 1999 und Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> N<hi style="superscript">o</hi> 1024 hat

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -90,13 +91,13 @@
                <lb facs="#facs_25_r2l4" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
                <lb facs="#facs_25_r2l6" n="N006"/><rs type="person" ref="#wkfm__47410">Mathias Schmidt <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi>
                <lb facs="#facs_25_r2l7" n="N007"/>668
-               <lb facs="#facs_25_r2l8" n="N008"/><hi><rs type="person" ref="#wkfm__47412">Johann Adam Schmidt</rs> laut Anbringen de ps: 17<hi style="superscript"/></hi>ten
-               <lb facs="#facs_25_r2l9" n="N009"/><hi>dd<hi style="superscript"/></hi>to
+               <lb facs="#facs_25_r2l8" n="N008"/><del><rs type="person" ref="#wkfm__47412">Johann Adam Schmidt</rs> laut Anbringen de ps: 17<hi style="superscript"/></del>ten
+               <lb facs="#facs_25_r2l9" n="N009"/><del>dd<hi style="superscript"/></del>to
                <lb facs="#facs_25_r2l11" n="N010"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_25_r2l12" n="N011"/><hi>In obigen Anbringen de ps: 17<hi style="superscript"/></hi>ten
-               <lb facs="#facs_25_r2l13" n="N012"/><hi>ihrer Raggion <rs type="person" ref="#wkfm__47412">Johann Adam Schmidt</rs> ihrem Sohn <rs type="person" ref="#wkfm__47414">Johann Franz Schmidt</rs> ertheilet</hi>
-               <lb facs="#facs_25_r2l14" n="N013"/><hi>habe. Anbey die erstgedacht ihren Sohn ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura dd<hi style="superscript"/></hi>to
-               <lb facs="#facs_25_r2l15" n="N014"/><hi>726 mit beygerukter dessen Firma einge in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript"/></hi>o
+               <lb facs="#facs_25_r2l12" n="N011"/><del>In obigen Anbringen de ps: 17<hi style="superscript"/></del>ten
+               <lb facs="#facs_25_r2l13" n="N012"/><del>ihrer Raggion <rs type="person" ref="#wkfm__47412">Johann Adam Schmidt</rs> ihrem Sohn <rs type="person" ref="#wkfm__47414">Johann Franz Schmidt</rs> ertheilet</del>
+               <lb facs="#facs_25_r2l14" n="N013"/><del>habe. Anbey die erstgedacht ihren Sohn ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura dd<hi style="superscript"/></del>to
+               <lb facs="#facs_25_r2l15" n="N014"/><del>726 mit beygerukter dessen Firma einge in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript"/></del>o
                <lb facs="#facs_25_r2l16" n="N015"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_25_r2l17" n="N016"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

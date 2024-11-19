@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -79,7 +80,7 @@
             <ab facs="#facs_81_r1">
                <lb facs="#facs_81_line_1629123366408_2048" n="N001"/>762
                <lb facs="#facs_81_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_81_r1l3" n="N003"/><rs type="person" ref="#wkfm__47452">Steigmiller Johann Ernst</rs> burgerlicher <hi>Handlsmann</hi> Zukerbäker
+               <lb facs="#facs_81_r1l3" n="N003"/><rs type="person" ref="#wkfm__47452">Steigmiller Johann Ernst</rs> burgerlicher <del>Handlsmann</del> Zukerbäker
                <lb facs="#facs_81_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
                <lb facs="#facs_81_r1l5" n="N005"/><rs type="person" ref="#wkfm__47453">Johann Ernst Steigmüller</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
                <lb facs="#facs_81_r1l6" n="N006"/>N<hi style="superscript">o</hi> 696

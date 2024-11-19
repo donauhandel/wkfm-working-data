@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -81,7 +82,7 @@
             <ab facs="#facs_122_r1">
                <lb facs="#facs_122_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_122_r1l2" n="N002"/>In obigen anbringen de ps: 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> 728 N<hi style="superscript">o</hi> 80 hat der <rs type="person" ref="#wkfm__43785">Pöttenberger</rs>
-               <lb facs="#facs_122_r1l3" n="N003"/>von <hi>k</hi>einen Compagnon keine Meldung gemacht
+               <lb facs="#facs_122_r1l3" n="N003"/>von <del>k</del>einen Compagnon keine Meldung gemacht
                <lb facs="#facs_122_line_1621464886142_1953" n="N004"/>In obigen Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> 729 N<hi style="superscript">o</hi> 1852 hat <rs type="person" ref="#wkfm__9684">Franz Joseph Bran-
                <lb break="no" facs="#facs_122_r1l5" n="N005"/>degsky</rs> und <rs type="person" ref="#wkfm__43785">Pöttenberger</rs> die miteinander führende Firma <rs type="person" ref="#wkfm__15308">Bran-
                <lb break="no" facs="#facs_122_r1l6" n="N006"/>degsky und Pöttenberger</rs> eingeleget

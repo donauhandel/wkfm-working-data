@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -91,8 +92,8 @@
                <lb facs="#facs_41_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_41_r1l9" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_41_r1l10" n="N010"/>Der <rs type="person" ref="#wkfm__46436">Ettenreich</rs> hat zu Ausweisung seines Fundi den von seinem Bruder
-               <lb facs="#facs_41_r1l11" n="N011"/><rs type="person" ref="#wkfm__46438">Joseph Ettenreich</rs> <hi>untern</hi> dahir ausgestelten Revers, das weil ihm <rs type="person" ref="#wkfm__46436">Johann
-               <lb break="no" facs="#facs_41_r1l12" n="N012"/>Heinrich</rs> an seinem Fundo 3000 fl abgesen, er solche <hi>ein</hi> in die Handlung
+               <lb facs="#facs_41_r1l11" n="N011"/><rs type="person" ref="#wkfm__46438">Joseph Ettenreich</rs> <del>untern</del> dahir ausgestelten Revers, das weil ihm <rs type="person" ref="#wkfm__46436">Johann
+               <lb break="no" facs="#facs_41_r1l12" n="N012"/>Heinrich</rs> an seinem Fundo 3000 fl abgesen, er solche <del>ein</del> in die Handlung
                <lb facs="#facs_41_r1l13" n="N013"/>einlegen und <unclear>hievon</unclear> vor befridigung deren Creditoren nichts heraus nehmen
                <lb facs="#facs_41_r1l14" n="N014"/>wole dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> Junii 743 N<hi style="superscript">o</hi> 1409 in <choice><expan/><abbr>orig.</abbr></choice> eingeleget.
             </ab>

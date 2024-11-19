@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -100,7 +101,7 @@
                <lb facs="#facs_108_r1l5" n="N005"/>der mitgedachte <rs type="person" ref="#wkfm__46170">Hammer</rs> untern 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 741 abgeschlossenen societaets
                <lb facs="#facs_108_r1l6" n="N006"/>Contract N<hi style="superscript">o</hi> 1518 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget, kraft welchen der <rs type="person" ref="#wkfm__46170">Hammer</rs> nicht <unclear>befugt</unclear>
                <lb facs="#facs_108_r1l7" n="N007"/>ohne der <rs type="person" ref="#wkfm__46393">Hayderin</rs> Einwilligung aus der societaet zu tretten, noch <unclear>sie</unclear>
-               <lb facs="#facs_108_r1l8" n="N008"/><hi>so</hi> ihn aus selber zu schaffen, sondern ihm eher die Handlung nur <unclear>der</unclear>
+               <lb facs="#facs_108_r1l8" n="N008"/><del>so</del> ihn aus selber zu schaffen, sondern ihm eher die Handlung nur <unclear>der</unclear>
                <lb facs="#facs_108_r1l9" n="N009"/>Kosten abzutretten schuldig seye, Sie <rs type="person" ref="#wkfm__46393">Hayderin</rs> auch weder per actus <gap/>
                <lb facs="#facs_108_r1l10" n="N010"/>vivos noch ultimo voluntatis die handlung an einen andern übertragen
                <lb facs="#facs_108_r1l11" n="N011"/>können, sondern der <rs type="person" ref="#wkfm__46170">Hammer</rs> allezeit dem Vorzug um der Kosten, die handlungs
@@ -113,10 +114,10 @@
                <lb break="no" facs="#facs_108_r1l19" n="N018"/>handlung</rs>  nunmehro unter seiner eignen Raggion <rs type="person" ref="#wkfm__46525">Franz Joseph Hammer</rs> führe.
                <lb facs="#facs_108_r1l23" n="N019"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_108_r1l24" n="N020"/>Mitls Anbringen de ps: 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 743 N<hi style="superscript">o</hi> 2170 hat der <rs type="person" ref="#wkfm__46170">Hammer</rs> den mit der
-               <lb facs="#facs_108_r1l25" n="N021"/><rs type="person" ref="#wkfm__46393">Anna Susanna von Haydern</rs> untern 16<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 741 <hi>N<hi style="superscript"/></hi>o
+               <lb facs="#facs_108_r1l25" n="N021"/><rs type="person" ref="#wkfm__46393">Anna Susanna von Haydern</rs> untern 16<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 741 <del>N<hi style="superscript"/></del>o
                <lb facs="#facs_108_r1l26" n="N022"/>heuraths Contract N<hi style="superscript">o</hi> 2169 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget, krafft welchen 1000 fl heuraths-
                <lb facs="#facs_108_r1l27" n="N023"/>gutt nebst 2000 fl Widerlag auf überleben, und jenes, was wehrender
-               <lb facs="#facs_108_r1l28" n="N024"/>Ehe erworben <hi>und er</hi> wird als ein gleiches Gutt stipuliret worden
+               <lb facs="#facs_108_r1l28" n="N024"/>Ehe erworben <del>und er</del> wird als ein gleiches Gutt stipuliret worden
                <lb facs="#facs_108_r1l29" n="N025"/><seg type="orighead__other_notes">Anmerckungen</seg>
             </ab>
             

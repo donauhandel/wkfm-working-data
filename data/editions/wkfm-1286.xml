@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -110,7 +111,7 @@
                <lb facs="#facs_102_r1l20" n="N018"/><gap/> <unclear>entfernt,</unclear> und fals selbe nicht ubereinkommen durch den dritten, wie auch alle zwistigkeiten <unclear>kunftig</unclear>
                <lb facs="#facs_102_r1l21" n="N019"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_102_r1l22" n="N020"/><seg type="orighead__other_notes">Anmerckungen</seg><seg type="editorial_comment_seg"><note type="editorial_comment_note">Fortsetzung der Rubrik Societaets Contract und Interessenten</note></seg>
-               <lb facs="#facs_102_r1l23" n="N021"/><hi>0</hi> zwey verständige entschiden werden, und jeder bey 1000 fl Pönn zu <unclear>aquiesciren</unclear>
+               <lb facs="#facs_102_r1l23" n="N021"/><del>0</del> zwey verständige entschiden werden, und jeder bey 1000 fl Pönn zu <unclear>aquiesciren</unclear>
                <lb facs="#facs_102_r1l24" n="N022"/>schuldig seye
             </ab>
             

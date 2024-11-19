@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -89,11 +90,11 @@
                <lb facs="#facs_196_r1l6" n="N003"/>Mitls Anbringen de ps: 29<hi style="superscript">ten</hi> May 745 N<hi style="superscript">o</hi> 2241 hat der <rs type="person" ref="#wkfm__47558">Salvini</rs> den mit der 
                <lb facs="#facs_196_r1l8" n="N004"/><rs type="person" ref="#wkfm__47560">Maria Theresia Mayrgschwenderin</rs> untern 8<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 743 errichteten Heurahtscon-
                <lb facs="#facs_196_r1l10" n="N005"/>tract N<hi style="superscript">o</hi> 2240 in Cipia vidimata eingeleget, kraft welchen 1000 fl Heurathgutt nebst 2000 fl Wider-
-               <lb facs="#facs_196_r1l11" n="N006"/>lag wie auch alle mobilien und pretiosa, wovon ander bey lebzeiten <hi>und</hi> <gap/> <hi><unclear>all</unclear></hi> nach bezahl<gap/>
-               <lb facs="#facs_196_r1l12" n="N007"/>disponiret werden <hi>so</hi> würde, auf Überleben, dann jenes was wehrender Ehe erworben
-               <lb facs="#facs_196_r1l13" n="N008"/>würde, dergestalten alß ein gleiches Gutt <hi>pactiret</hi>  waß falß der <unclear>Versterbende</unclear>
+               <lb facs="#facs_196_r1l11" n="N006"/>lag wie auch alle mobilien und pretiosa, wovon ander bey lebzeiten <del>und</del> <gap/> <del><unclear>all</unclear></del> nach bezahl<gap/>
+               <lb facs="#facs_196_r1l12" n="N007"/>disponiret werden <del>so</del> würde, auf Überleben, dann jenes was wehrender Ehe erworben
+               <lb facs="#facs_196_r1l13" n="N008"/>würde, dergestalten alß ein gleiches Gutt <del>pactiret</del>  waß falß der <unclear>Versterbende</unclear>
                <lb facs="#facs_196_r1l15" n="N009"/>keine disposition rukliessen ein solches dem überlebenden gänzlich zufallen solle <unclear>pac-</unclear>
-               <lb facs="#facs_196_r1l18" n="N010"/>tiret, <hi><unclear>da</unclear></hi> wie auch weithers vorgesehen worden, daß die Braut nebst dem Bräut<gap/>
+               <lb facs="#facs_196_r1l18" n="N010"/>tiret, <del><unclear>da</unclear></del> wie auch weithers vorgesehen worden, daß die Braut nebst dem Bräut<gap/>
                <lb facs="#facs_196_r1l19" n="N011"/>dem Bräutigam 500 fl an statt der Einrichtung zuzählen, falß Kinder vorhanden dem
                <lb facs="#facs_196_r1l22" n="N012"/>überlebenden theil die Nuzung ihres Erbtheils biß zu ihrer Vogtbahrkeit in solang selber
                <lb facs="#facs_196_r1l23" n="N013"/>Wittib Stand ferblieben würde, der Braut aber in solang selbe Wittib verbleiben würde

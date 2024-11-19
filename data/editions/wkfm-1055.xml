@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -103,7 +104,7 @@
                <lb facs="#facs_135_r1l22" n="N014"/>an baaren <choice><expan/><abbr>pr</abbr></choice> Cassa 1000 fl
                <lb facs="#facs_135_r1l23" n="N015"/>zusamen Eigenthumlich 5200 fl
                <lb facs="#facs_135_r1l25" n="N016"/>zu Completirung des uberreste hat der <rs type="person" ref="#wkfm__46568">Joseph Heigl</rs> das in Copia
-               <lb facs="#facs_135_r1l26" n="N017"/>vidimata N<hi style="superscript">o</hi> 1533 eingelegte Cautions Instrument <hi>dd<hi style="superscript"/></hi>to<hi style="superscript">ten</hi>
+               <lb facs="#facs_135_r1l26" n="N017"/>vidimata N<hi style="superscript">o</hi> 1533 eingelegte Cautions Instrument <del>dd<hi style="superscript"/></del>to<hi style="superscript">ten</hi>
                <lb facs="#facs_135_r1l28" n="N018"/><choice><expan/><abbr>Mart:</abbr></choice> 750 ausgestellet <choice><expan/><abbr>pr</abbr></choice> 2800 fl
                <lb facs="#facs_135_r1l29" n="N019"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
                <lb facs="#facs_135_r1l30" n="N020"/>Hiebey befindet sich annoch ein Anbringen wegen Annehmung des Supl: N<hi style="superscript">o</hi> 1534
