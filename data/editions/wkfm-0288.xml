@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_234">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0288.jpg" width="2934px" height="4501px" n="https://files.transkribus.eu/Get?id=BNFEUGQEPRMPBBQDPXQPYUYK"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-0288.jpg" width="2934px" height="4501px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0288.jpg"/>
          <zone points="344,242 344,3449 2495,3449 2495,242" rendition="TextRegion" xml:id="facs_234_r1">
             <zone points="983,383 1053,372 1123,365 1193,358 1263,352 1333,348 1403,345 1473,344 1543,342 1613,341 1683,341 1753,339 1823,339 1893,339 1963,339 2033,338 2103,336 2173,335 2243,331 2313,327 2384,323 2384,242 2313,246 2243,250 2173,254 2103,255 2033,257 1963,258 1893,258 1823,258 1753,258 1683,260 1613,260 1543,261 1473,263 1403,264 1333,267 1263,271 1193,277 1123,284 1053,291 983,302" rendition="Line" xml:id="facs_234_r1l1"/>
             <zone points="377,584 474,581 572,580 669,578 767,577 864,577 962,577 1059,577 1157,578 1254,580 1352,581 1449,581 1547,583 1644,584 1742,586 1839,586 1937,586 2034,586 2132,585 2229,583 2327,581 2327,502 2229,504 2132,506 2034,507 1937,507 1839,507 1742,507 1644,505 1547,504 1449,502 1352,502 1254,501 1157,499 1059,498 962,498 864,498 767,498 669,499 572,501 474,502 377,505" rendition="Line" xml:id="facs_234_r1l2"/>
@@ -72,7 +72,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_234" n="234" xml:id="img_0234" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0288.jpg"/>
+            <pb facs="#facs_234" n="234" xml:id="img_0234" source="https://files.transkribus.eu/Get?id=BNFEUGQEPRMPBBQDPXQPYUYK"/>
             
             <ab facs="#facs_234_r1">
                <lb facs="#facs_234_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>

@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2982" lry="4473" xml:id="facs_104">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0424.jpg" width="2982px" height="4473px" n="https://files.transkribus.eu/Get?id=SDRDLPBONLBTBKTDXHIWADXY"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-0424.jpg" width="2982px" height="4473px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0424.jpg"/>
          <zone points="228,231 228,3332 2892,3332 2892,231" rendition="TextRegion" xml:id="facs_104_r1">
             <zone points="1041,305 1108,302 1176,299 1243,298 1311,296 1379,295 1446,295 1514,293 1581,293 1649,293 1717,295 1784,295 1852,295 1919,295 1987,295 2054,293 2122,292 2190,290 2257,289 2325,286 2393,283 2393,231 2325,234 2257,237 2190,238 2122,240 2054,241 1987,243 1919,243 1852,243 1784,243 1717,243 1649,241 1581,241 1514,241 1446,243 1379,243 1311,244 1243,246 1176,247 1108,250 1041,253" rendition="Line" xml:id="facs_104_r1l1"/>
             <zone points="249,322 467,247 496,246 2892,246 2892,298 2759,314 2627,329 2495,342 2363,353 2231,362 2099,370 1966,376 1702,385 1438,388 1306,389 1041,388 909,386 645,382 249,374" rendition="Line" xml:id="facs_104_line_1621958681616_1438"/>
@@ -89,7 +89,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_104" n="104" xml:id="img_0104" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0424.jpg"/>
+            <pb facs="#facs_104" n="104" xml:id="img_0104" source="https://files.transkribus.eu/Get?id=SDRDLPBONLBTBKTDXHIWADXY"/>
             
             <ab facs="#facs_104_r1">
                <lb facs="#facs_104_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>

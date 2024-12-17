@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_122">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0790.jpg" width="2994px" height="4530px" n="https://files.transkribus.eu/Get?id=ZJTZVOMRBMCZQPHECOHQCSZO"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-0790.jpg" width="2994px" height="4530px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0790.jpg"/>
          <zone points="267,253 267,3711 2886,3711 2886,253" rendition="TextRegion" xml:id="facs_122_r1">
             <zone points="1154,363 1219,359 1285,356 1351,353 1416,351 1482,350 1548,348 1613,347 1679,347 1745,346 1811,345 1876,345 1942,344 2008,344 2073,342 2139,341 2205,339 2270,336 2336,333 2402,330 2468,326 2468,253 2402,257 2336,260 2270,263 2205,266 2139,268 2073,269 2008,271 1942,271 1876,272 1811,272 1745,273 1679,274 1613,274 1548,275 1482,277 1416,278 1351,280 1285,283 1219,286 1154,290" rendition="Line" xml:id="facs_122_r1l1"/>
             <zone points="413,581 536,568 659,558 782,549 905,543 1028,537 1151,533 1274,528 1397,525 1520,522 1643,519 1766,516 1889,513 2012,510 2135,506 2258,499 2381,492 2504,485 2627,474 2750,462 2874,447 2874,374 2750,389 2627,401 2504,412 2381,419 2258,426 2135,433 2012,437 1889,440 1766,443 1643,446 1520,449 1397,452 1274,455 1151,460 1028,464 905,470 782,476 659,485 536,495 413,508" rendition="Line" xml:id="facs_122_r1l2"/>
@@ -87,7 +87,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_122" n="122" xml:id="img_0122" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0790.jpg"/>
+            <pb facs="#facs_122" n="122" xml:id="img_0122" source="https://files.transkribus.eu/Get?id=ZJTZVOMRBMCZQPHECOHQCSZO"/>
             
             <ab facs="#facs_122_r1">
                <lb facs="#facs_122_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>

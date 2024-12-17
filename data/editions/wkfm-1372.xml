@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_20">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1372.jpg" width="2953px" height="4400px" n="https://files.transkribus.eu/Get?id=RGYJIGWMSAPDVDWPWMJTINFP"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-1372.jpg" width="2953px" height="4400px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1372.jpg"/>
          <zone points="411,198 411,3307 2823,3307 2823,198" rendition="TextRegion" xml:id="facs_20_r1">
             <zone points="1095,328 1156,326 1218,324 1279,322 1341,321 1403,319 1464,319 1526,318 1587,318 1649,317 1711,316 1772,315 1834,315 1895,313 1957,312 2019,310 2080,307 2142,304 2203,300 2265,296 2327,291 2327,198 2265,203 2203,207 2142,211 2080,214 2019,217 1957,219 1895,220 1834,222 1772,222 1711,223 1649,224 1587,225 1526,225 1464,226 1403,226 1341,228 1279,229 1218,231 1156,233 1095,235" rendition="Line" xml:id="facs_20_r1l1"/>
             <zone points="444,505 562,497 681,492 799,489 918,487 1036,487 1155,489 1273,490 1392,492 1510,495 1629,496 1747,496 1866,496 1984,495 2103,492 2221,485 2340,477 2458,465 2577,449 2695,430 2814,408 2814,323 2695,345 2577,364 2458,380 2340,392 2221,400 2103,407 1984,410 1866,411 1747,411 1629,411 1510,410 1392,407 1273,405 1155,404 1036,402 918,402 799,404 681,407 562,412 444,420" rendition="Line" xml:id="facs_20_r1l2"/>
@@ -72,7 +72,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_20" n="20" xml:id="img_0020" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1372.jpg"/>
+            <pb facs="#facs_20" n="20" xml:id="img_0020" source="https://files.transkribus.eu/Get?id=RGYJIGWMSAPDVDWPWMJTINFP"/>
             
             <ab facs="#facs_20_r1">
                <lb facs="#facs_20_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>

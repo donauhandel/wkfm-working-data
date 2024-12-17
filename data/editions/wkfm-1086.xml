@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_22">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1086.jpg" width="3087px" height="4530px" n="https://files.transkribus.eu/Get?id=SJPARJOSTAYEQUMKQUQTZOWM"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-1086.jpg" width="3087px" height="4530px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1086.jpg"/>
          <zone points="334,201 332,3402 2984,3402 2986,201" rendition="TextRegion" xml:id="facs_22_r1">
             <zone points="1060,357 2247,357 2247,191 1060,191" rendition="Line" xml:id="facs_22_line_1619604192005_1465"/>
             <zone points="1251,2062 1283,2062 1315,2062 1347,2062 1379,2062 1412,2062 1444,2062 1476,2062 1508,2061 1540,2061 1573,2061 1605,2059 1637,2059 1669,2058 1701,2058 1734,2058 1766,2056 1798,2056 1830,2056 1862,2055 1895,2055 1895,1998 1862,1998 1830,1999 1798,1999 1766,1999 1734,2001 1701,2001 1669,2001 1637,2002 1605,2002 1573,2004 1540,2004 1508,2004 1476,2005 1444,2005 1412,2005 1379,2005 1347,2005 1315,2005 1283,2005 1251,2005" rendition="Line" xml:id="facs_22_r1l2"/>
@@ -81,7 +81,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_22" n="22" xml:id="img_0022" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1086.jpg"/>
+            <pb facs="#facs_22" n="22" xml:id="img_0022" source="https://files.transkribus.eu/Get?id=SJPARJOSTAYEQUMKQUQTZOWM"/>
             
             <ab facs="#facs_22_r1">
                <lb facs="#facs_22_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>

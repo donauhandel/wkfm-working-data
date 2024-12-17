@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="3086" lry="4491" xml:id="facs_41">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1225.jpg" width="3086px" height="4491px" n="https://files.transkribus.eu/Get?id=TCDENOIVUWKCAKUNMRXBBPLJ"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-1225.jpg" width="3086px" height="4491px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1225.jpg"/>
          <zone points="135,175 135,2977 2771,2977 2771,175" rendition="TextRegion" xml:id="facs_41_r1">
             <zone points="2606,428 2633,430 2661,431 2688,433 2716,432 2743,429 2771,422 2771,344 2743,351 2716,354 2688,355 2661,353 2633,352 2606,350" rendition="Line" xml:id="facs_41_r1l2" subtype="page-number"/>
             <zone points="1170,253 1202,253 1235,254 1267,254 1300,256 1332,256 1365,257 1397,258 1430,259 1462,260 1495,262 1527,262 1560,263 1592,263 1625,265 1657,265 1690,263 1722,263 1755,263 1787,262 1820,260 1820,182 1787,184 1755,185 1722,185 1690,185 1657,187 1625,187 1592,185 1560,185 1527,184 1495,184 1462,182 1430,181 1397,180 1365,179 1332,178 1300,178 1267,176 1235,176 1202,175 1170,175" rendition="Line" xml:id="facs_41_r1l1"/>
@@ -76,7 +76,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_41" n="41" xml:id="img_0041" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1225.jpg"/>
+            <pb facs="#facs_41" n="41" xml:id="img_0041" source="https://files.transkribus.eu/Get?id=TCDENOIVUWKCAKUNMRXBBPLJ"/>
             
             <ab facs="#facs_41_r1">
                <lb facs="#facs_41_r1l2" n="N001"/>606

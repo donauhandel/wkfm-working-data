@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_120">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1578.jpg" width="2929px" height="4455px" n="https://files.transkribus.eu/Get?id=LDKQCWVZYPVSXEEYUFAPTUIJ"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-1578.jpg" width="2929px" height="4455px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1578.jpg"/>
          <zone points="248,123 248,3328 2871,3328 2871,123" rendition="TextRegion" xml:id="facs_120_r1">
             <zone points="996,301 1060,288 1124,278 1188,270 1252,262 1316,258 1380,253 1444,250 1508,249 1572,249 1636,249 1700,249 1764,249 1828,249 1892,250 1956,249 2020,249 2084,247 2148,244 2212,240 2277,235 2277,123 2212,128 2148,132 2084,135 2020,137 1956,137 1892,138 1828,137 1764,137 1700,137 1636,137 1572,137 1508,137 1444,138 1380,141 1316,146 1252,150 1188,158 1124,166 1060,176 996,189" rendition="Line" xml:id="facs_120_r1l1"/>
             <zone points="299,543 427,527 555,515 683,504 811,495 939,487 1067,481 1195,475 1323,469 1451,464 1580,459 1708,453 1836,446 1964,439 2092,430 2220,419 2348,406 2476,392 2604,374 2732,354 2861,330 2861,227 2732,251 2604,271 2476,289 2348,303 2220,316 2092,327 1964,336 1836,343 1708,350 1580,356 1451,361 1323,366 1195,372 1067,378 939,384 811,392 683,401 555,412 427,424 299,440" rendition="Line" xml:id="facs_120_r1l2"/>
@@ -71,7 +71,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_120" n="120" xml:id="img_0120" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1578.jpg"/>
+            <pb facs="#facs_120" n="120" xml:id="img_0120" source="https://files.transkribus.eu/Get?id=LDKQCWVZYPVSXEEYUFAPTUIJ"/>
             
             <ab facs="#facs_120_r1">
                <lb facs="#facs_120_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>

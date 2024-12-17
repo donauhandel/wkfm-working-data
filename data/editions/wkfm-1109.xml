@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_9">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1109.jpg" width="3134px" height="4521px" n="https://files.transkribus.eu/Get?id=XHPCWAWBWGMMUABROCDSHFST"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-1109.jpg" width="3134px" height="4521px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1109.jpg"/>
          <zone points="331,204 293,3043 2841,3041 2879,202" rendition="TextRegion" xml:id="facs_9_r1">
             <zone points="2693,331 2866,331 2866,459 2693,459" rendition="Line" xml:id="facs_9_line_1628001945262_740" subtype="page-number"/>
             <zone points="1221,308 1937,308 1937,199 1221,199" rendition="Line" xml:id="facs_9_line_1624518156683_1146"/>
@@ -74,7 +74,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_9" n="9" xml:id="img_0009" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1109.jpg"/>
+            <pb facs="#facs_9" n="9" xml:id="img_0009" source="https://files.transkribus.eu/Get?id=XHPCWAWBWGMMUABROCDSHFST"/>
             
             <ab facs="#facs_9_r1">
                <lb facs="#facs_9_r1l1" n="N003"/><rs type="person" ref="#wkfm__8089">Lang Anton</rs> burgerlicher Tuchlaubens Verwanter

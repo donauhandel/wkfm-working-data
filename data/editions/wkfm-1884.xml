@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_30">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1884.jpg" width="2893px" height="4398px" n="https://files.transkribus.eu/Get?id=PLXAEFUJEDHWCVWYAGUSBEYC"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-1884.jpg" width="2893px" height="4398px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1884.jpg"/>
          <zone points="249,118 249,3292 2694,3292 2694,118" rendition="TextRegion" xml:id="facs_30_r1">
             <zone points="1107,245 1169,242 1231,241 1293,242 1355,243 1417,246 1479,249 1541,253 1603,256 1665,260 1727,263 1789,267 1851,270 1913,272 1975,274 2037,272 2099,271 2161,268 2223,263 2286,256 2286,133 2223,140 2161,145 2099,148 2037,149 1975,151 1913,149 1851,147 1789,144 1727,140 1665,137 1603,133 1541,130 1479,126 1417,123 1355,120 1293,119 1231,118 1169,119 1107,122" rendition="Line" xml:id="facs_30_r1l1"/>
             <zone points="261,427 381,422 501,419 621,419 741,422 861,425 981,430 1102,435 1222,442 1342,447 1462,452 1582,457 1702,460 1822,461 1943,460 2063,456 2183,450 2303,440 2423,426 2543,407 2664,385 2664,271 2543,293 2423,312 2303,326 2183,336 2063,342 1943,346 1822,347 1702,346 1582,343 1462,338 1342,333 1222,328 1102,321 981,316 861,311 741,308 621,305 501,305 381,308 261,313" rendition="Line" xml:id="facs_30_r1l2"/>
@@ -70,7 +70,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_30" n="30" xml:id="img_0030" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1884.jpg"/>
+            <pb facs="#facs_30" n="30" xml:id="img_0030" source="https://files.transkribus.eu/Get?id=PLXAEFUJEDHWCVWYAGUSBEYC"/>
             
             <ab facs="#facs_30_r1">
                <lb facs="#facs_30_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>

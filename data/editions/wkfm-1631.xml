@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2880" lry="4398" xml:id="facs_173">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1631.jpg" width="2880px" height="4398px" n="https://files.transkribus.eu/Get?id=WOBRGRYSBLJWBMPJZMAOTLCM"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-1631.jpg" width="2880px" height="4398px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1631.jpg"/>
          <zone points="185,86 185,2876 2778,2876 2778,86" rendition="TextRegion" xml:id="facs_173_r1">
             <zone points="2652,240 2677,242 2702,243 2727,243 2752,243 2778,243 2778,185 2752,185 2727,185 2702,185 2677,184 2652,182" rendition="Line" xml:id="facs_173_r1l2" subtype="page-number"/>
             <zone points="2658,321 2686,320 2715,321 2743,321 2772,318 2772,263 2743,266 2715,266 2686,265 2658,266" rendition="Line" xml:id="facs_173_r1l3" subtype="page-number"/>
@@ -74,7 +74,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_173" n="173" xml:id="img_0173" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1631.jpg"/>
+            <pb facs="#facs_173" n="173" xml:id="img_0173" source="https://files.transkribus.eu/Get?id=WOBRGRYSBLJWBMPJZMAOTLCM"/>
             
             <ab facs="#facs_173_r1">
                <lb facs="#facs_173_r1l2" n="N001"/><del>790</del>

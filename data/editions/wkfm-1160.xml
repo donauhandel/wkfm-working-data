@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="3030" lry="4530" xml:id="facs_60">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1160.jpg" width="3030px" height="4530px" n="https://files.transkribus.eu/Get?id=VAIDRUPCYYATEQBWOCQUMMXS"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-1160.jpg" width="3030px" height="4530px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1160.jpg"/>
          <zone points="222,226 222,3750 2820,3750 2820,226" rendition="TextRegion" xml:id="facs_60_r1">
             <zone points="1110,384 1169,377 1229,372 1288,366 1348,362 1408,359 1467,355 1527,351 1587,350 1646,347 1706,344 1766,342 1825,340 1885,338 1945,335 2004,333 2064,331 2124,327 2183,324 2243,321 2303,317 2303,226 2243,230 2183,233 2124,236 2064,240 2004,242 1945,244 1885,247 1825,249 1766,251 1706,253 1646,256 1587,259 1527,260 1467,264 1408,268 1348,271 1288,275 1229,281 1169,286 1110,293" rendition="Line" xml:id="facs_60_r1l1"/>
             <zone points="294,509 419,504 544,501 669,500 794,500 919,501 1044,504 1169,508 1294,512 1419,516 1544,519 1669,521 1794,522 1919,522 2044,521 2169,517 2294,511 2419,501 2544,489 2669,473 2795,453 2795,362 2669,382 2544,398 2419,410 2294,420 2169,426 2044,430 1919,431 1794,431 1669,430 1544,428 1419,425 1294,421 1169,417 1044,413 919,410 794,409 669,409 544,410 419,413 294,418" rendition="Line" xml:id="facs_60_r1l2"/>
@@ -85,7 +85,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_60" n="60" xml:id="img_0060" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1160.jpg"/>
+            <pb facs="#facs_60" n="60" xml:id="img_0060" source="https://files.transkribus.eu/Get?id=VAIDRUPCYYATEQBWOCQUMMXS"/>
             
             <ab facs="#facs_60_r1">
                <lb facs="#facs_60_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>

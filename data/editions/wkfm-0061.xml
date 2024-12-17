@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_8">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0061.jpg" width="3087px" height="4530px" n="https://files.transkribus.eu/Get?id=CSRLYKXQNVRKJLWRJEVQDBSU"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-0061.jpg" width="3087px" height="4530px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0061.jpg"/>
          <zone points="477,232 477,3330 2868,3330 2868,232" rendition="TextRegion" xml:id="facs_8_r1">
             <zone points="759,385 835,383 911,381 987,377 1063,373 1139,370 1215,367 1291,363 1367,358 1443,355 1519,350 1595,347 1671,343 1747,339 1823,335 1899,331 1975,328 2051,324 2127,321 2203,318 2280,316 2280,232 2203,234 2127,237 2051,240 1975,244 1899,247 1823,251 1747,255 1671,259 1595,263 1519,266 1443,271 1367,274 1291,279 1215,283 1139,286 1063,289 987,293 911,297 835,299 759,301" rendition="Line" xml:id="facs_8_r1l1"/>
             <zone points="519,607 635,601 752,595 868,591 985,585 1101,582 1218,577 1334,574 1451,570 1567,567 1684,564 1801,559 1917,556 2034,552 2150,547 2267,543 2383,538 2500,532 2616,526 2733,519 2850,511 2850,427 2733,435 2616,442 2500,448 2383,454 2267,459 2150,463 2034,468 1917,472 1801,475 1684,480 1567,483 1451,486 1334,490 1218,493 1101,498 985,501 868,507 752,511 635,517 519,523" rendition="Line" xml:id="facs_8_r1l2"/>
@@ -78,7 +78,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_8" n="8" xml:id="img_0008" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0061.jpg"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008" source="https://files.transkribus.eu/Get?id=CSRLYKXQNVRKJLWRJEVQDBSU"/>
             
             <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>

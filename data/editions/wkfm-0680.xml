@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_12">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0680.jpg" width="2994px" height="4530px" n="https://files.transkribus.eu/Get?id=QIDJDNZDNFHXHGSHEVLBQOIU"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-0680.jpg" width="2994px" height="4530px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0680.jpg"/>
          <zone points="1237,183 1237,3410 2476,3421 2476,194" rendition="TextRegion" xml:id="facs_12_r2">
             <zone points="1241,343 2469,352 2469,202 1241,193" rendition="Line" xml:id="facs_12_r2l1"/>
             <zone points="1403,2057 1437,2059 1471,2062 1505,2063 1539,2065 1573,2066 1607,2068 1641,2069 1675,2069 1709,2069 1744,2069 1778,2069 1812,2069 1846,2069 1880,2068 1914,2068 1948,2066 1982,2065 2016,2063 2050,2062 2085,2060 2085,1910 2050,1912 2016,1913 1982,1915 1948,1916 1914,1918 1880,1918 1846,1919 1812,1919 1778,1919 1744,1919 1709,1919 1675,1919 1641,1919 1607,1918 1573,1916 1539,1915 1505,1913 1471,1912 1437,1909 1403,1907" rendition="Line" xml:id="facs_12_r2l2"/>
@@ -68,7 +68,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_12" n="12" xml:id="img_0012" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0680.jpg"/>
+            <pb facs="#facs_12" n="12" xml:id="img_0012" source="https://files.transkribus.eu/Get?id=QIDJDNZDNFHXHGSHEVLBQOIU"/>
             
             <ab facs="#facs_12_r2">
                <lb facs="#facs_12_r2l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>

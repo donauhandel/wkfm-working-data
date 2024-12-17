@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_6">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0011.jpg" width="2934px" height="4530px" n="https://files.transkribus.eu/Get?id=HKLUGKOERPHEDCBVIJGCDPVF"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-0011.jpg" width="2934px" height="4530px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0011.jpg"/>
          <zone points="473,285 473,3468 2738,3468 2738,285" rendition="TextRegion" xml:id="facs_6_r1">
             <zone points="897,396 965,396 1034,396 1103,396 1172,397 1241,399 1310,401 1378,403 1447,408 1516,411 1585,414 1654,418 1723,422 1792,426 1860,430 1929,433 1998,436 2067,439 2136,442 2205,445 2274,447 2274,336 2205,334 2136,331 2067,328 1998,325 1929,322 1860,319 1792,315 1723,311 1654,307 1585,303 1516,300 1447,297 1378,292 1310,290 1241,288 1172,286 1103,285 1034,285 965,285 897,285" rendition="Line" xml:id="facs_6_r1l1"/>
             <zone points="509,566 619,565 730,565 840,566 951,569 1061,573 1172,578 1282,584 1393,591 1503,598 1614,604 1725,612 1835,617 1946,623 2056,628 2167,632 2277,634 2388,635 2498,634 2609,631 2720,625 2720,520 2609,526 2498,529 2388,530 2277,529 2167,527 2056,523 1946,518 1835,512 1725,507 1614,499 1503,493 1393,486 1282,479 1172,473 1061,468 951,464 840,461 730,460 619,460 509,461" rendition="Line" xml:id="facs_6_r1l2"/>
@@ -71,7 +71,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_6" n="6" xml:id="img_0006" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0011.jpg"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006" source="https://files.transkribus.eu/Get?id=HKLUGKOERPHEDCBVIJGCDPVF"/>
             
             <ab facs="#facs_6_r1">
                <lb facs="#facs_6_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>

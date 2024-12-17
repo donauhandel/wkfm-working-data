@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_8">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1336.jpg" width="2940px" height="4464px" n="https://files.transkribus.eu/Get?id=FSLTFIRJQXTMVXYYMYRIFKHF"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-1336.jpg" width="2940px" height="4464px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1336.jpg"/>
          <zone points="339,150 339,3266 2826,3266 2826,150" rendition="TextRegion" xml:id="facs_8_r1">
             <zone points="1052,313 1115,301 1179,293 1243,286 1307,281 1371,278 1434,277 1498,275 1562,275 1626,277 1690,277 1753,278 1817,280 1881,281 1945,281 2009,281 2072,281 2136,279 2200,276 2264,271 2328,265 2328,150 2264,156 2200,161 2136,164 2072,166 2009,166 1945,166 1881,166 1817,165 1753,163 1690,162 1626,162 1562,160 1498,160 1434,162 1371,163 1307,166 1243,171 1179,178 1115,186 1052,198" rendition="Line" xml:id="facs_8_r1l1"/>
             <zone points="389,455 510,451 632,448 754,448 876,449 998,451 1120,455 1241,459 1363,464 1485,470 1607,475 1729,479 1851,484 1973,487 2094,490 2216,491 2338,490 2460,488 2582,482 2704,475 2826,464 2826,350 2704,361 2582,368 2460,374 2338,376 2216,377 2094,376 1973,373 1851,370 1729,365 1607,361 1485,356 1363,350 1241,345 1120,341 998,337 876,335 754,334 632,334 510,337 389,341" rendition="Line" xml:id="facs_8_r1l2"/>
@@ -70,7 +70,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_8" n="8" xml:id="img_0008" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1336.jpg"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008" source="https://files.transkribus.eu/Get?id=FSLTFIRJQXTMVXYYMYRIFKHF"/>
             
             <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>

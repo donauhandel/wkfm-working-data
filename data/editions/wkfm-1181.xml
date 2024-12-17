@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="3048" lry="4615" xml:id="facs_81">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1181.jpg" width="3048px" height="4615px" n="https://files.transkribus.eu/Get?id=TKWHVZKQJOLCVCTAHDWKVAFN"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-1181.jpg" width="3048px" height="4615px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1181.jpg"/>
          <zone points="134,273 134,4449 2916,4457 2916,281" rendition="TextRegion" xml:id="facs_81_r1">
             <zone points="2769,403 2913,403 2913,526 2769,526" rendition="Line" xml:id="facs_81_line_1624531065119_4286" subtype="page-number"/>
             <zone points="1259,349 1294,349 1329,348 1364,348 1400,348 1435,348 1470,348 1505,348 1541,348 1576,348 1611,349 1646,349 1682,349 1717,349 1752,349 1787,350 1823,351 1858,351 1893,350 1928,349 1964,349 1964,274 1928,274 1893,275 1858,276 1823,276 1787,275 1752,274 1717,274 1682,274 1646,274 1611,274 1576,273 1541,273 1505,273 1470,273 1435,273 1400,273 1364,273 1329,273 1294,274 1259,274" rendition="Line" xml:id="facs_81_r1l1"/>
@@ -87,7 +87,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_81" n="81" xml:id="img_0081" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1181.jpg"/>
+            <pb facs="#facs_81" n="81" xml:id="img_0081" source="https://files.transkribus.eu/Get?id=TKWHVZKQJOLCVCTAHDWKVAFN"/>
             
             <ab facs="#facs_81_r1">
                <lb facs="#facs_81_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>

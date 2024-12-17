@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_2">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1354.jpg" width="2940px" height="4464px" n="https://files.transkribus.eu/Get?id=RGTKTBCMVAEZCXHFZVLLMJER"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-1354.jpg" width="2940px" height="4464px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1354.jpg"/>
          <zone points="357,164 357,3205 2868,3205 2868,164" rendition="TextRegion" xml:id="facs_2_r1">
             <zone points="1226,290 1291,289 1357,287 1423,287 1488,287 1554,287 1620,287 1685,289 1751,289 1817,290 1883,290 1948,290 2014,290 2080,289 2145,287 2211,286 2277,283 2342,280 2408,274 2474,268 2540,260 2540,164 2474,172 2408,178 2342,184 2277,187 2211,190 2145,191 2080,193 2014,194 1948,194 1883,194 1817,194 1751,193 1685,193 1620,191 1554,191 1488,191 1423,191 1357,191 1291,193 1226,194" rendition="Line" xml:id="facs_2_r1l1"/>
             <zone points="471,417 590,407 710,399 830,396 950,396 1070,397 1190,402 1309,408 1429,414 1549,420 1669,427 1789,433 1909,439 2029,442 2148,444 2268,442 2388,439 2508,431 2628,419 2748,402 2868,381 2868,287 2748,308 2628,325 2508,337 2388,345 2268,348 2148,350 2029,348 1909,345 1789,339 1669,333 1549,326 1429,320 1309,314 1190,308 1070,303 950,302 830,302 710,305 590,313 471,323" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -70,7 +70,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_2" n="2" xml:id="img_0002" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1354.jpg"/>
+            <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=RGTKTBCMVAEZCXHFZVLLMJER"/>
             
             <ab facs="#facs_2_r1">
                <lb facs="#facs_2_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>

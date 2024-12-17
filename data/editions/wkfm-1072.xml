@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_8">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1072.jpg" width="3087px" height="4530px" n="https://files.transkribus.eu/Get?id=LFYKULKSPJEWUUYZEMVPRXST"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-1072.jpg" width="3087px" height="4530px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1072.jpg"/>
          <zone points="404,208 433,4892 3025,4892 2996,208" rendition="TextRegion" xml:id="facs_8_r1">
             <zone points="1128,343 1191,337 1255,331 1318,327 1382,324 1445,322 1509,320 1572,319 1636,318 1699,318 1763,318 1827,318 1890,316 1954,316 2017,315 2081,314 2144,312 2208,309 2271,305 2335,300 2399,294 2399,236 2335,242 2271,247 2208,251 2144,254 2081,256 2017,257 1954,258 1890,258 1827,260 1763,260 1699,260 1636,260 1572,261 1509,262 1445,264 1382,266 1318,269 1255,273 1191,279 1128,285" rendition="Line" xml:id="facs_8_r1l1"/>
             <zone points="513,577 635,571 757,565 879,562 1001,558 1123,556 1245,553 1367,552 1489,549 1611,547 1734,544 1856,540 1978,535 2100,531 2222,522 2344,514 2466,503 2588,491 2710,475 2832,457 2955,435 2955,377 2832,399 2710,417 2588,433 2466,445 2344,456 2222,464 2100,473 1978,477 1856,482 1734,486 1611,489 1489,491 1367,494 1245,495 1123,498 1001,500 879,504 757,507 635,513 513,519" rendition="Line" xml:id="facs_8_r1l2"/>
@@ -72,7 +72,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_8" n="8" xml:id="img_0008" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1072.jpg"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008" source="https://files.transkribus.eu/Get?id=LFYKULKSPJEWUUYZEMVPRXST"/>
             
             <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>

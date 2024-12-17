@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_48">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0668.jpg" width="2994px" height="4530px" n="https://files.transkribus.eu/Get?id=MZADCJSIVLQVKXBRAYOQBIFD"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-0668.jpg" width="2994px" height="4530px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0668.jpg"/>
          <zone points="1218,215 1218,3467 2448,3467 2448,215" rendition="TextRegion" xml:id="facs_48_r1">
             <zone points="1218,368 1279,367 1341,365 1402,365 1464,365 1525,367 1587,367 1648,368 1710,370 1771,371 1833,372 1894,374 1956,376 2017,377 2079,379 2140,380 2202,380 2263,382 2325,382 2386,382 2448,382 2448,232 2386,232 2325,232 2263,232 2202,230 2140,230 2079,229 2017,227 1956,226 1894,224 1833,222 1771,221 1710,220 1648,218 1587,217 1525,217 1464,215 1402,215 1341,215 1279,217 1218,218" rendition="Line" xml:id="facs_48_r1l1"/>
             <zone points="1271,2108 1306,2108 1341,2108 1376,2108 1412,2107 1447,2107 1482,2107 1518,2107 1553,2105 1588,2105 1624,2104 1659,2104 1694,2104 1729,2102 1765,2102 1800,2102 1835,2101 1871,2101 1906,2100 1941,2099 1977,2099 1977,1949 1941,1949 1906,1950 1871,1951 1835,1951 1800,1952 1765,1952 1729,1952 1694,1954 1659,1954 1624,1954 1588,1955 1553,1955 1518,1957 1482,1957 1447,1957 1412,1957 1376,1958 1341,1958 1306,1958 1271,1958" rendition="Line" xml:id="facs_48_r1l2"/>
@@ -68,7 +68,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_48" n="48" xml:id="img_0048" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0668.jpg"/>
+            <pb facs="#facs_48" n="48" xml:id="img_0048" source="https://files.transkribus.eu/Get?id=MZADCJSIVLQVKXBRAYOQBIFD"/>
             
             <ab facs="#facs_48_r1">
                <lb facs="#facs_48_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>

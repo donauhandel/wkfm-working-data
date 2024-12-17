@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_156">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1614.jpg" width="2872px" height="4419px" n="https://files.transkribus.eu/Get?id=BIMVKVVDDEOYTYGQQGJMLXYJ"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-1614.jpg" width="2872px" height="4419px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1614.jpg"/>
          <zone points="270,145 270,3226 2799,3226 2799,145" rendition="TextRegion" xml:id="facs_156_r1">
             <zone points="1059,238 1126,230 1193,224 1261,219 1328,215 1395,213 1463,211 1530,211 1597,211 1665,213 1732,213 1799,214 1867,216 1934,216 2001,217 2069,217 2136,216 2203,214 2271,211 2338,207 2406,202 2406,145 2338,150 2271,154 2203,157 2136,159 2069,160 2001,160 1934,159 1867,159 1799,157 1732,156 1665,156 1597,154 1530,154 1463,154 1395,156 1328,158 1261,162 1193,167 1126,173 1059,181" rendition="Line" xml:id="facs_156_r1l1"/>
             <zone points="306,384 430,377 555,371 679,367 804,365 929,363 1053,362 1178,362 1303,362 1427,362 1552,362 1677,362 1801,362 1926,360 2051,357 2175,354 2300,349 2425,342 2549,333 2674,322 2799,309 2799,272 2674,285 2549,296 2425,305 2300,312 2175,317 2051,320 1926,323 1801,325 1677,325 1552,325 1427,325 1303,325 1178,325 1053,325 929,326 804,328 679,330 555,334 430,340 306,347" rendition="Line" xml:id="facs_156_r1l2"/>
@@ -70,7 +70,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_156" n="156" xml:id="img_0156" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1614.jpg"/>
+            <pb facs="#facs_156" n="156" xml:id="img_0156" source="https://files.transkribus.eu/Get?id=BIMVKVVDDEOYTYGQQGJMLXYJ"/>
             
             <ab facs="#facs_156_r1">
                <lb facs="#facs_156_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>

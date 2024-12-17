@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_26">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1880.jpg" width="2893px" height="4398px" n="https://files.transkribus.eu/Get?id=KSGYEGWLSKWFDKORFXRGNVUX"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-1880.jpg" width="2893px" height="4398px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1880.jpg"/>
          <zone points="111,107 111,3273 2718,3273 2718,107" rendition="TextRegion" xml:id="facs_26_r1">
             <zone points="956,223 1013,216 1071,209 1128,204 1186,202 1244,201 1301,201 1359,201 1416,202 1474,205 1532,208 1589,210 1647,213 1704,216 1762,219 1820,220 1877,220 1935,220 1992,218 2050,214 2108,210 2108,116 2050,120 1992,124 1935,126 1877,126 1820,126 1762,125 1704,122 1647,119 1589,116 1532,114 1474,111 1416,108 1359,107 1301,107 1244,107 1186,108 1128,110 1071,115 1013,122 956,129" rendition="Line" xml:id="facs_26_r1l1"/>
             <zone points="276,390 395,384 515,381 634,379 754,378 873,379 993,381 1112,384 1232,387 1351,390 1471,391 1591,393 1710,394 1830,393 1949,391 2069,387 2188,380 2308,371 2427,360 2547,344 2667,325 2667,231 2547,250 2427,266 2308,277 2188,286 2069,293 1949,297 1830,299 1710,300 1591,299 1471,297 1351,296 1232,293 1112,290 993,287 873,285 754,284 634,285 515,287 395,290 276,296" rendition="Line" xml:id="facs_26_r1l2"/>
@@ -78,7 +78,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_26" n="26" xml:id="img_0026" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1880.jpg"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026" source="https://files.transkribus.eu/Get?id=KSGYEGWLSKWFDKORFXRGNVUX"/>
             
             <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>

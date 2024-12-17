@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_58">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0726.jpg" width="2994px" height="4530px" n="https://files.transkribus.eu/Get?id=CZTODGVBDNWUCWYXNZISZXIO"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-0726.jpg" width="2994px" height="4530px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0726.jpg"/>
          <zone points="312,242 312,3650 2901,3650 2901,242" rendition="TextRegion" xml:id="facs_58_r1">
             <zone points="1197,327 1260,326 1324,324 1387,324 1451,325 1515,326 1578,327 1642,329 1705,331 1769,333 1833,335 1896,336 1960,339 2023,341 2087,342 2151,343 2214,344 2278,344 2341,344 2405,342 2469,341 2469,259 2405,260 2341,262 2278,262 2214,262 2151,261 2087,260 2023,259 1960,257 1896,254 1833,253 1769,251 1705,249 1642,247 1578,245 1515,244 1451,243 1387,242 1324,242 1260,244 1197,245" rendition="Line" xml:id="facs_58_r1l1"/>
             <zone points="522,534 647,533 772,531 897,530 1022,530 1148,531 1273,533 1398,533 1523,534 1648,536 1774,537 1899,539 2024,540 2149,540 2274,540 2400,540 2525,539 2650,536 2775,533 2901,528 2901,446 2775,451 2650,454 2525,457 2400,458 2274,458 2149,458 2024,458 1899,457 1774,455 1648,454 1523,452 1398,451 1273,451 1148,449 1022,448 897,448 772,449 647,451 522,452" rendition="Line" xml:id="facs_58_r1l2"/>
@@ -80,7 +80,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_58" n="58" xml:id="img_0058" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0726.jpg"/>
+            <pb facs="#facs_58" n="58" xml:id="img_0058" source="https://files.transkribus.eu/Get?id=CZTODGVBDNWUCWYXNZISZXIO"/>
             
             <ab facs="#facs_58_r1">
                <lb facs="#facs_58_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>

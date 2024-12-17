@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2925" lry="4397" xml:id="facs_132">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0185.jpg" width="2925px" height="4397px" n="https://files.transkribus.eu/Get?id=PUWKUNWEHWACJIJXCCKOUDAM"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-0185.jpg" width="2925px" height="4397px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0185.jpg"/>
          <zone points="401,104 401,3271 2769,3271 2769,104" rendition="TextRegion" xml:id="facs_132_r1">
             <zone points="791,237 861,238 932,238 1003,240 1073,240 1144,238 1215,238 1285,237 1356,237 1427,235 1498,235 1568,234 1639,234 1710,234 1780,234 1851,234 1922,234 1992,235 2063,238 2134,240 2205,243 2205,113 2134,110 2063,108 1992,105 1922,104 1851,104 1780,104 1710,104 1639,104 1568,104 1498,105 1427,105 1356,107 1285,107 1215,108 1144,108 1073,110 1003,110 932,108 861,108 791,107" rendition="Line" xml:id="facs_132_r1l1"/>
             <zone points="444,424 560,421 676,418 792,417 909,417 1025,417 1141,417 1257,418 1374,418 1490,420 1606,420 1722,420 1839,418 1955,415 2071,412 2187,407 2304,400 2420,391 2536,381 2652,367 2769,352 2769,222 2652,237 2536,251 2420,261 2304,270 2187,277 2071,282 1955,285 1839,288 1722,290 1606,290 1490,290 1374,288 1257,288 1141,287 1025,287 909,287 792,287 676,288 560,291 444,294" rendition="Line" xml:id="facs_132_r1l2"/>
@@ -70,7 +70,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_132" n="132" xml:id="img_0132" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0185.jpg"/>
+            <pb facs="#facs_132" n="132" xml:id="img_0132" source="https://files.transkribus.eu/Get?id=PUWKUNWEHWACJIJXCCKOUDAM"/>
             
             <ab facs="#facs_132_r1">
                <lb facs="#facs_132_r1l1" n="N001"/><seg type="orighead__contract">Societaet Contract und Interessenten</seg>

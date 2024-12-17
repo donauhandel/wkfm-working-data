@@ -56,14 +56,14 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="3342" lry="4758" xml:id="facs_3">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0003.jpg" width="3342px" height="4758px" n="https://files.transkribus.eu/Get?id=ZYFHOXRZEBSFYNPORVSGWNSQ"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-0003.jpg" width="3342px" height="4758px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0003.jpg"/>
       </surface>
       
    </facsimile>
    <text>
        <body>
         <div>
-            <pb facs="#facs_3" n="3" xml:id="img_0003" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0003.jpg"/>
+            <pb facs="#facs_3" n="3" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=ZYFHOXRZEBSFYNPORVSGWNSQ"/>
             
             
         </div>

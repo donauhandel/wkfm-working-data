@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_168">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1626.jpg" width="2872px" height="4419px" n="https://files.transkribus.eu/Get?id=SWWWEWRCWECLBQTWUCTEVPJU"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-1626.jpg" width="2872px" height="4419px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1626.jpg"/>
          <zone points="186,159 186,3808 2754,3808 2754,159" rendition="TextRegion" xml:id="facs_168_r1">
             <zone points="1031,283 1092,275 1154,268 1216,264 1278,259 1340,257 1401,256 1463,254 1525,254 1587,254 1649,254 1710,255 1772,256 1834,256 1896,254 1958,253 2019,251 2081,247 2143,243 2205,237 2267,229 2267,159 2205,167 2143,173 2081,177 2019,181 1958,183 1896,184 1834,186 1772,186 1710,185 1649,184 1587,184 1525,184 1463,184 1401,186 1340,187 1278,189 1216,194 1154,198 1092,205 1031,213" rendition="Line" xml:id="facs_168_r1l1"/>
             <zone points="1179,1945 1216,1948 1254,1950 1292,1951 1330,1951 1368,1951 1405,1951 1443,1951 1481,1950 1519,1949 1557,1948 1594,1947 1632,1945 1670,1944 1708,1942 1746,1941 1783,1941 1821,1939 1859,1938 1897,1938 1935,1938 1935,1871 1897,1871 1859,1871 1821,1872 1783,1874 1746,1874 1708,1875 1670,1877 1632,1878 1594,1880 1557,1881 1519,1882 1481,1883 1443,1884 1405,1884 1368,1884 1330,1884 1292,1884 1254,1883 1216,1881 1179,1878" rendition="Line" xml:id="facs_168_r1l2"/>
@@ -73,7 +73,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_168" n="168" xml:id="img_0168" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1626.jpg"/>
+            <pb facs="#facs_168" n="168" xml:id="img_0168" source="https://files.transkribus.eu/Get?id=SWWWEWRCWECLBQTWUCTEVPJU"/>
             
             <ab facs="#facs_168_r1">
                <lb facs="#facs_168_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>

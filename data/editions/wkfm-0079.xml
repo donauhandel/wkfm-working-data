@@ -56,7 +56,7 @@
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2982" lry="4453" xml:id="facs_26">
-         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0079.jpg" width="2982px" height="4453px" n="https://files.transkribus.eu/Get?id=STUGMHQCEKNNZDNWDPJMEKVA"/>
+         <graphic url="https://id.acdh.oeaw.ac.at/wmp1/wkfm-0079.jpg" width="2982px" height="4453px" n="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0079.jpg"/>
          <zone points="369,242 369,3403 2853,3403 2853,242" rendition="TextRegion" xml:id="facs_26_r1">
             <zone points="938,348 1003,346 1069,345 1134,343 1200,342 1266,339 1331,337 1397,335 1462,333 1528,330 1594,328 1659,326 1725,324 1790,321 1856,319 1921,317 1987,315 2053,313 2118,312 2184,310 2250,309 2250,242 2184,243 2118,245 2053,246 1987,248 1921,250 1856,252 1790,254 1725,257 1659,259 1594,261 1528,263 1462,266 1397,268 1331,270 1266,272 1200,275 1134,276 1069,278 1003,279 938,281" rendition="Line" xml:id="facs_26_r1l1"/>
             <zone points="387,528 515,511 643,497 772,484 900,474 1028,466 1157,459 1285,453 1413,448 1542,442 1670,438 1799,432 1927,425 2055,418 2184,409 2312,398 2440,385 2569,371 2697,352 2826,331 2826,264 2697,285 2569,304 2440,318 2312,331 2184,342 2055,351 1927,358 1799,365 1670,371 1542,375 1413,381 1285,386 1157,392 1028,399 900,407 772,417 643,430 515,444 387,461" rendition="Line" xml:id="facs_26_r1l2"/>
@@ -81,7 +81,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_26" n="26" xml:id="img_0026" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0079.jpg"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026" source="https://files.transkribus.eu/Get?id=STUGMHQCEKNNZDNWDPJMEKVA"/>
             
             <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
