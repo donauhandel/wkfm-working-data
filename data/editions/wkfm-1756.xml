@@ -6,7 +6,7 @@
             <title type="main">Wiener Merkantilprotokoll Nr. 1756</title>
             <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
             <principal>
-               <persName>Peter Rauscher</persName>
+               <persName key="https://d-nb.info/gnd/13140007X">Peter Rauscher</persName>
             </principal>
             <funder>
                <name>FWF - Der Wissenschaftsfonds</name>
@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName>Peter Rauscher</persName>
+               <persName key="https://d-nb.info/gnd/13140007X">Peter Rauscher</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -29,7 +29,7 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>Peter Rauscher</publisher>
+            <publisher key="https://d-nb.info/gnd/13140007X">Peter Rauscher</publisher>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>
